@@ -1,16 +1,17 @@
-### Hi there 👋
+### Cory Dransfeldt // [@cdransf](https://coryd.me)
 
-<!--
-**cdransf/cdransf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Cory. I’m a developer, technology enthusiast and avid music music fan based in Southern California. I went to school for business, but now work on the web.
 
-Here are some ideas to get you started:
+I have worked with a wide variety of companies, organizations and artists.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m endlessly fascinated by development, automation and technology. I am constantly striving to learn more and improve on every aspect of what I do.
+
+I blog occasionally and I read a lot.
+
+When I’m not working you can find me out exploring with my amazing family.
+
+---
+
+#### Get in touch 👋
+
+You can reach me at [coryd@hey.com](mailto:coryd@hey.com).

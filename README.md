@@ -1,4 +1,4 @@
-### Cory Dransfeldt // [@cdransf](https://coryd.me)
+### Cory Dransfeldt
 
 Hi, I’m Cory. I’m a developer, technology enthusiast and avid music music fan based in Southern California. I went to school for business, but now work on the web.
 
@@ -12,6 +12,6 @@ When I’m not working you can find me out exploring with my amazing family.
 
 ---
 
-#### Get in touch 👋
+### Get in touch 👋
 
 You can reach me at [coryd@hey.com](mailto:coryd@hey.com).

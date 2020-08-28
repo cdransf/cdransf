@@ -1,6 +1,6 @@
 ### Cory Dransfeldt
 
-Hi, I’m Cory. I’m a developer, technology enthusiast and avid music music fan based in Southern California. I went to school for business, but now work on the web.
+Hi, I’m Cory. I’m a developer, technology enthusiast and avid music music fan based in Camarillo, California. I went to school for business, but now work on the web.
 
 I have worked with a wide variety of companies, organizations and artists.
 

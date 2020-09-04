@@ -6,7 +6,6 @@ I have worked with a wide variety of companies, organizations and artists.
 
 I’m endlessly fascinated by development, automation and technology. I am constantly striving to learn more and improve on every aspect of what I do.
 
-[I blog occasionally](https://coryd.me) and I read a lot.
 
 When I’m not working you can find me out exploring with my amazing family.
 

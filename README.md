@@ -1,17 +1,11 @@
 ### [Cory Dransfeldt](https://coryd.me)
 
-Hi, I’m Cory. I’m a developer, technology enthusiast and avid music music fan based in Camarillo, California. I went to school for business, but now work on the web.
+I build, maintain and design applications.
 
-I have worked with a wide variety of companies, organizations and artists.
-
-I’m endlessly fascinated by development, automation and technology. I am constantly striving to learn more and improve on every aspect of what I do.
-
-[I blog occasionally](https://coryd.me) and I read a lot.
-
-When I’m not working you can find me out exploring with my amazing family.
+My attention to detail, passion for code and development allow me to excel at delivering robust, performant applications. I am endlessly fascinated by development and technology.
 
 ---
 
 ### Get in touch 👋
 
-You can reach me at [coryd@hey.com](mailto:coryd@hey.com).
+You can reach me at [coryd@hey.com](mailto:coryd@hey.com). Or fill out the form [here](https://coryd.me/contact).

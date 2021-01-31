@@ -8,4 +8,4 @@ My attention to detail, passion for code and development allow me to excel at de
 
 ### Get in touch 👋
 
-You can reach me at [coryd@hey.com](mailto:coryd@hey.com). Or fill out the form [here](https://coryd.me/contact).
+You can reach me at [coryd@hey.com](mailto:coryd@hey.com).

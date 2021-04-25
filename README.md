@@ -1,6 +1,6 @@
-### [Cory Dransfeldt](https://coryd.me)
+### [Cory Dransfeldt](https://ced.sh)
 
-I build, maintain and design applications. [Sometimes I write things.](https://world.hey.com/coryd)
+I build, maintain and design applications.
 
 My attention to detail, passion for code and development allow me to excel at delivering robust, performant applications. I am endlessly fascinated by development and technology.
 
@@ -8,4 +8,4 @@ My attention to detail, passion for code and development allow me to excel at de
 
 ### Get in touch 👋
 
-You can reach me at [coryd@hey.com](mailto:coryd@hey.com).
+You can reach me at [hi@ced.sh](mailto:hi@ced.sh).

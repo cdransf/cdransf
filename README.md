@@ -1,4 +1,4 @@
-### [Cory Dransfeldt](https://ced.sh)
+### [Cory Dransfeldt](https://cdransfeldt.com)
 
 I build, maintain and design applications.
 
@@ -8,4 +8,4 @@ My attention to detail, passion for code and development allow me to excel at de
 
 ### Get in touch 👋
 
-You can reach me at [hi@ced.sh](mailto:hi@ced.sh).
+You can reach me at [hi@ced.sh](mailto:hi@cdransfeldt.com).

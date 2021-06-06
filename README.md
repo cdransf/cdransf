@@ -8,4 +8,4 @@ My attention to detail, passion for code and development allow me to excel at de
 
 ### Get in touch 👋
 
-You can reach me at [hi@ced.sh](mailto:hi@cdransfeldt.com).
+You can reach me at [hi@cdransfeldt.com](mailto:hi@cdransfeldt.com).

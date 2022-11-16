@@ -8,7 +8,7 @@ Feel free to get in toel
 ### Get in touch
 
 - 📧 [Email](mailto:cordial.desk8328@coryd.dev)
-- 🐘 <a rel="me" href="https://hachyderm.io/@cdme">Mastodon</a>
+- 🐘 <a rel="me" href="https://mastodon.social/@coryd">Mastodon</a>
 - 🎧 [Last.fm](https://last.fm/user/cdme_)
 - 📺 [Trakt](https://trakt.tv/users/cdransf)
 - 📚 [Oku](https://oku.club/user/cory)

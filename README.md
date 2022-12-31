@@ -7,7 +7,7 @@ I build, maintain and design web applications. I've been coding professionally s
 ### Get in touch
 
 - 📧 [Email](mailto:cordial.desk8328@coryd.dev)
-- 🐘 <a rel="me" href="https://mastodon.social/@coryd">Mastodon</a>
+- 🐘 <a rel="me" href="https://social.lol/@cory">Mastodon</a>
 - 🎧 [Last.fm](https://last.fm/user/cdme_)
 - 📺 [Simkl](https://simkl.com/5795262)
 - 🎥 [Letterboxd](https://letterboxd.com/cdme)

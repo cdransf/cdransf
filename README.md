@@ -9,6 +9,7 @@ I build, maintain and design web applications. I've been coding professionally s
 - 📧 [Email](mailto:cordial.desk8328@coryd.dev)
 - 🐘 <a rel="me" href="https://social.lol/@cory">Mastodon</a>
 - 🎧 [Last.fm](https://last.fm/user/cdme_)
-- 📺 [Simkl](https://simkl.com/5795262)
 - 🎥 [Letterboxd](https://letterboxd.com/cdme)
+- 📺 [Simkl](https://simkl.com/5795262)
 - 📚 [Oku](https://oku.club/user/cory)
+- 👔 [LinkedIn](https://www.linkedin.com/in/cdransf)

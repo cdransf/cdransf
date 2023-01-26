@@ -14,4 +14,3 @@ I build, maintain and design web applications. I've been coding professionally s
 - 🎥 [Letterboxd](https://letterboxd.com/cdme)
 - 📺 [Simkl](https://simkl.com/5795262)
 - 📚 [Oku](https://oku.club/user/cory)
-- 👔 [LinkedIn](https://www.linkedin.com/in/cdransf)

@@ -13,5 +13,5 @@ I build, maintain and design web applications. I've been coding professionally s
 - 🐘 <a rel="me" href="https://social.lol/@cory">Mastodon</a>
 - 🎧 [Last.fm](https://last.fm/user/cdme_)
 - 🎥 [Letterboxd](https://letterboxd.com/cdme)
-- 📺 [Simkl](https://simkl.com/5795262)
+- 📺 [Trakt](https://trakt.tv/users/cdransf)
 - 📚 [Oku](https://oku.club/user/cory)

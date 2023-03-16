@@ -6,6 +6,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 [See what I’m doing now.](https://coryd.dev/now)
 
+### My latest posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 ### Get in touch
 
 - 📧 [Email](mailto:hi@coryd.dev)

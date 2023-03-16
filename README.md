@@ -14,7 +14,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 - 📧 [Email](mailto:hi@coryd.dev)
 - 📆 [Calendar](https://savvycal.com/coryd)
-- 🐘 <a rel="me" href="https://social.lol/@cory">Mastodon</a>
+- 🐘 [Mastodon](https://social.lol/@cory)
 - 🎧 [Last.fm](https://last.fm/user/cdme_)
 - 🎥 [Letterboxd](https://letterboxd.com/cdme)
 - 📺 [Trakt](https://trakt.tv/users/cdransf)

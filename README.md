@@ -8,11 +8,11 @@ I build, maintain and design web applications. I've been coding professionally s
 
 ### My latest posts
 <!-- BLOGPOSTS:START -->
+- [Scheduled Eleventy builds on Vercel with cron-triggered GitHub actions](https://coryd.dev/posts/2023/scheduled-eleventy-builds-cron-github-actions/)
+- [Building my /now page using Eleventy](https://coryd.dev/posts/2023/building-my-now-page-using-eleventy/)
 - [Webmentions in Eleventy](https://coryd.dev/posts/2023/webmentions-in-eleventy/)
 - [Automating RSS syndication and sharing with Next.js and GitHub](https://coryd.dev/posts/2023/automating-rss-syndication-with-nextjs-github/)
 - [Building a now page using Next.js and social APIs](https://coryd.dev/posts/2023/building-a-now-page-using-nextjs-and-social-apis/)
-- [Adding client side webmentions to my Next.js blog](https://coryd.dev/posts/2023/client-side-webmentions-in-nextjs/)
-- [Workflows: handling inbound email on Fastmail with regular expressions (now featuring ChatGPT)](https://coryd.dev/posts/2023/fastmail-handling-inbound-email-with-regex-filters-now-with-chatgpt/)
 <!-- BLOGPOSTS:END -->
 
 ### Get in touch

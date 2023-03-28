@@ -8,11 +8,11 @@ I build, maintain and design web applications. I've been coding professionally s
 
 ### My latest posts
 <!-- BLOGPOSTS:START -->
+- [Lazy select-based pagination in Eleventy](https://coryd.dev/posts/2023/lazy-select-based-pagination-eleventy/)
+- [Automate and syndicate content from Eleventy to Mastodon](https://coryd.dev/posts/2023/automate-syndicate-content-mastodon-eleventy/)
 - [.env files in Eleventy](https://coryd.dev/posts/2023/env-files-eleventy/)
 - [Scheduled Eleventy builds on Vercel with cron-triggered GitHub actions](https://coryd.dev/posts/2023/scheduled-eleventy-builds-cron-github-actions/)
 - [Building my /now page using Eleventy](https://coryd.dev/posts/2023/building-my-now-page-using-eleventy/)
-- [Webmentions in Eleventy](https://coryd.dev/posts/2023/webmentions-in-eleventy/)
-- [Automating RSS syndication and sharing with Next.js and GitHub](https://coryd.dev/posts/2023/automating-rss-syndication-with-nextjs-github/)
 <!-- BLOGPOSTS:END -->
 
 ### Get in touch

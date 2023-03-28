@@ -4,7 +4,7 @@ I'm a software developer in Camarillo, California. I enjoy hanging out with my b
 
 I build, maintain and design web applications. I've been coding professionally since 2010 with a focus on frontend technologies.
 
-[See what I’m doing now.](https://coryd.dev/now)
+[See what I'm doing now.](https://coryd.dev/now)
 
 ### My latest posts
 <!-- BLOGPOSTS:START -->

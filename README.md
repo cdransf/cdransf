@@ -18,7 +18,6 @@ I build, maintain and design web applications. I've been coding professionally s
 ### Get in touch
 
 - 📧 [Email](mailto:hi@coryd.dev)
-- 📆 [Calendar](https://calendly.com/cdme)
 - 🐘 [Mastodon](https://social.lol/@cory)
 - 🎧 [Last.fm](https://last.fm/user/cdme_)
 - 🎥 [Letterboxd](https://letterboxd.com/cdme)

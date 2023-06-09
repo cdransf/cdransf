@@ -8,11 +8,11 @@ I build, maintain and design web applications. I've been coding professionally s
 
 ### My latest posts
 <!-- BLOGPOSTS:START -->
+- [From ICS to JSON: surfacing anticipated albums](https://coryd.dev/posts/2023/from-ics-to-json-surfacing-anticipated-albums/)
 - [Optimizing for performance with Eleventy](https://coryd.dev/posts/2023/optimizing-for-performance-with-eleventy/)
 - [Domain names as discoverable personal identifiers for the web](https://coryd.dev/posts/2023/domain-names-as-discoverable-personal-identifiers-for-the-web/)
 - [I block ads](https://coryd.dev/posts/2023/i-block-ads/)
 - [Now page update: favorite articles from Matter](https://coryd.dev/posts/2023/now-page-update-matter-favorites/)
-- [A Safari-specific guide to making the modern web suck less](https://coryd.dev/posts/2023/a-safari-specific-guide-to-making-the-modern-web-suck-less/)
 <!-- BLOGPOSTS:END -->
 
 ### Get in touch

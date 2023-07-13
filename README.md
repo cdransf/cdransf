@@ -8,11 +8,11 @@ I build, maintain and design web applications. I've been coding professionally s
 
 ### My latest posts
 <!-- BLOGPOSTS:START -->
+- [Building a popular posts widget in Eleventy using Plausible analytics](https://coryd.dev/posts/2023/popular-posts-widget-using-eleventy-plausible/)
 - [Embrace, extend, enshittify](https://coryd.dev/posts/2023/embrace-extend-enshittify/)
 - [Displaying listening data from Apple Music using MusicKit.js](https://coryd.dev/posts/2023/displaying-listening-data-from-apple-music-using-musickit/)
 - [Support small businesses (internet ones too)](https://coryd.dev/posts/2023/support-small-businesses-internet-ones-too/)
 - [From ICS to JSON: surfacing anticipated albums](https://coryd.dev/posts/2023/from-ics-to-json-surfacing-anticipated-albums/)
-- [Optimizing for performance with Eleventy](https://coryd.dev/posts/2023/optimizing-for-performance-with-eleventy/)
 <!-- BLOGPOSTS:END -->
 
 ### Get in touch

@@ -19,5 +19,6 @@ I build, maintain and design web applications. I've been coding professionally s
 
 - 📧 [Email](mailto:hi@coryd.dev)
 - 🐘 [Mastodon](https://social.lol/@cory)
+- 🎧 [Apple Music](https://music.apple.com/profile/cdransf)
 - 🎥 [Letterboxd](https://letterboxd.com/cdme)
 - 📺 [Trakt](https://trakt.tv/users/cdransf)

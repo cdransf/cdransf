@@ -1,6 +1,6 @@
 ## [Hi, I'm Cory 👋](https://coryd.dev)
 
-I'm a software developer in Camarillo, California. I enjoy hanging out with my beautiful family and 4 rescue dogs, technology, automation, <a href="https://music.apple.com/profile/cdransf" target="_blank" rel="noopener noreferrer">music</a>, reading and <a href="https://trakt.tv/users/cdransf" target="_blank" rel="noopener noreferrer">tv</a> and <a href="https://letterboxd.com/cdme" target="_blank" rel="noopener noreferrer">movies</a>.
+I'm a software developer in Camarillo, California. I enjoy hanging out with my beautiful family and 4 rescue dogs, technology, automation, <a href="https://www.last.fm/user/cdrn_" target="_blank" rel="noopener noreferrer">music</a>, reading and <a href="https://trakt.tv/users/cdransf" target="_blank" rel="noopener noreferrer">tv</a> and <a href="https://letterboxd.com/cdme" target="_blank" rel="noopener noreferrer">movies</a>.
 
 I build, maintain and design web applications. I've been coding professionally since 2010 with a focus on frontend technologies.
 
@@ -19,6 +19,6 @@ I build, maintain and design web applications. I've been coding professionally s
 
 - 📧 [Email](mailto:hi@coryd.dev)
 - 🐘 [Mastodon](https://social.lol/@cory)
-- 🎧 [Apple Music](https://music.apple.com/profile/cdransf)
+- 🎧 [Last.fm](https://www.last.fm/user/cdrn_)
 - 🎥 [Letterboxd](https://letterboxd.com/cdme)
 - 📺 [Trakt](https://trakt.tv/users/cdransf)

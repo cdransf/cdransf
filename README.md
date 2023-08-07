@@ -17,7 +17,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 ### Get in touch
 
-- 📧 [Email](mailto:hi@coryd.dev)
+- 📧 [Email](mailto:coryd@hey.com)
 - 🐘 [Mastodon](https://social.lol/@cory)
 - 🎧 [Last.fm](https://www.last.fm/user/cdrn_)
 - 🎥 [Letterboxd](https://letterboxd.com/cdme)

@@ -1,6 +1,6 @@
 ## [Hi, I'm Cory 👋](https://coryd.dev)
 
-![Follow @cory@social.lol](https://img.shields.io/mastodon/follow/109606224363698309?domain=https%3A%2F%2Fsocial.lol&style=for-the-badge&logo=Mastodon&logoColor=white&labelColor=6364FF)
+![Follow @cory@social.lol](https://img.shields.io/mastodon/follow/109606224363698309?domain=https%3A%2F%2Fsocial.lol&style=for-the-badge&logo=Mastodon&logoColor=white&labelColor=6364FF)(https://social.lol/@cory)
 
 I'm a software developer in Camarillo, California. I enjoy hanging out with my beautiful family and 4 rescue dogs, technology, automation, <a href="https://www.last.fm/user/cdrn_" target="_blank" rel="noopener noreferrer">music</a>, reading and <a href="https://trakt.tv/users/cdransf" target="_blank" rel="noopener noreferrer">tv</a> and <a href="https://letterboxd.com/cdme" target="_blank" rel="noopener noreferrer">movies</a>.
 

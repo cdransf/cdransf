@@ -25,8 +25,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `38 ▶️` ∙ **[State Faults](https://www.last.fm/music/State+Faults)**<br/>
 > `38 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `31 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
-> `28 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `26 ▶️` ∙ **[Pigment Vehicle](https://www.last.fm/music/Pigment+Vehicle)**<br/>
+> `24 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `23 ▶️` ∙ **[My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

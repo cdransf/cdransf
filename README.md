@@ -15,6 +15,12 @@ I build, maintain and design web applications. I've been coding professionally s
 - [Support small businesses (internet ones too)](https://coryd.dev/posts/2023/support-small-businesses-internet-ones-too/)
 <!-- BLOGPOSTS:END -->
 
+<!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
+<!--END_LASTFM_ARTISTS-->
+
+<!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
+<!--END_LASTFM_ALBUMS-->
+
 ### Get in touch
 
 - 📧 [Email](mailto:coryd@hey.com)

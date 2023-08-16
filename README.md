@@ -16,9 +16,29 @@ I build, maintain and design web applications. I've been coding professionally s
 <!-- BLOGPOSTS:END -->
 
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
+
+> `59 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
+> `40 ▶️` ∙ **[The Replacements](https://www.last.fm/music/The+Replacements)**<br/>
+> `38 ▶️` ∙ **[State Faults](https://www.last.fm/music/State+Faults)**<br/>
+> `38 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
+> `31 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
+> `28 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
+> `26 ▶️` ∙ **[Pigment Vehicle](https://www.last.fm/music/Pigment+Vehicle)**<br/>
+> `23 ▶️` ∙ **[My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
+
+> `59 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
+> `23 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
+> `23 ▶️` ∙ **[Let It Be](https://www.last.fm/music/The+Replacements/Let+It+Be)** - [The Replacements](https://www.last.fm/music/The+Replacements)<br/>
+> `21 ▶️` ∙ **[Life Like](https://www.last.fm/music/Dead+Bob/Life+Like)** - [Dead Bob](https://www.last.fm/music/Dead+Bob)<br/>
+> `20 ▶️` ∙ **[Tired of Tomorrow](https://www.last.fm/music/Nothing/Tired+of+Tomorrow)** - [Nothing](https://www.last.fm/music/Nothing)<br/>
+> `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
+> `18 ▶️` ∙ **[Voices](https://www.last.fm/music/Wormrot/Voices)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
+> `14 ▶️` ∙ **[Caught in the Trees](https://www.last.fm/music/Damien+Jurado/Caught+in+the+Trees)** - [Damien Jurado](https://www.last.fm/music/Damien+Jurado)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 ### Get in touch

@@ -27,7 +27,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `37 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 > `35 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `26 ▶️` ∙ **[Pigment Vehicle](https://www.last.fm/music/Pigment+Vehicle)**<br/>
-> `24 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
+> `23 ▶️` ∙ **[My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -39,6 +39,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `21 ▶️` ∙ **[Life Like](https://www.last.fm/music/Dead+Bob/Life+Like)** - [Dead Bob](https://www.last.fm/music/Dead+Bob)<br/>
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[Voices](https://www.last.fm/music/Wormrot/Voices)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
-> `15 ▶️` ∙ **[Tired of Tomorrow](https://www.last.fm/music/Nothing/Tired+of+Tomorrow)** - [Nothing](https://www.last.fm/music/Nothing)<br/>
 > `14 ▶️` ∙ **[Caught in the Trees](https://www.last.fm/music/Damien+Jurado/Caught+in+the+Trees)** - [Damien Jurado](https://www.last.fm/music/Damien+Jurado)<br/>
+> `14 ▶️` ∙ **[Murder's only foreplay when you're hot for revenge](https://www.last.fm/music/Pigment+Vehicle/Murder%27s+only+foreplay+when+you%27re+hot+for+revenge)** - [Pigment Vehicle](https://www.last.fm/music/Pigment+Vehicle)<br/>
 <!--END_LASTFM_ALBUMS-->

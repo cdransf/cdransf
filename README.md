@@ -24,10 +24,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[The Replacements](https://www.last.fm/music/The+Replacements)**<br/>
 > `38 ▶️` ∙ **[State Faults](https://www.last.fm/music/State+Faults)**<br/>
 > `38 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
-> `31 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
+> `37 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
+> `35 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `26 ▶️` ∙ **[Pigment Vehicle](https://www.last.fm/music/Pigment+Vehicle)**<br/>
-> `24 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
-> `23 ▶️` ∙ **[My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)**<br/>
+> `24 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -37,8 +37,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `23 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 > `23 ▶️` ∙ **[Let It Be](https://www.last.fm/music/The+Replacements/Let+It+Be)** - [The Replacements](https://www.last.fm/music/The+Replacements)<br/>
 > `21 ▶️` ∙ **[Life Like](https://www.last.fm/music/Dead+Bob/Life+Like)** - [Dead Bob](https://www.last.fm/music/Dead+Bob)<br/>
-> `20 ▶️` ∙ **[Tired of Tomorrow](https://www.last.fm/music/Nothing/Tired+of+Tomorrow)** - [Nothing](https://www.last.fm/music/Nothing)<br/>
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[Voices](https://www.last.fm/music/Wormrot/Voices)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
+> `15 ▶️` ∙ **[Tired of Tomorrow](https://www.last.fm/music/Nothing/Tired+of+Tomorrow)** - [Nothing](https://www.last.fm/music/Nothing)<br/>
 > `14 ▶️` ∙ **[Caught in the Trees](https://www.last.fm/music/Damien+Jurado/Caught+in+the+Trees)** - [Damien Jurado](https://www.last.fm/music/Damien+Jurado)<br/>
 <!--END_LASTFM_ALBUMS-->

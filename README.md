@@ -21,8 +21,8 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `59 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
+> `45 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 > `40 ▶️` ∙ **[The Replacements](https://www.last.fm/music/The+Replacements)**<br/>
-> `38 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 > `38 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `35 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `26 ▶️` ∙ **[Pigment Vehicle](https://www.last.fm/music/Pigment+Vehicle)**<br/>
@@ -36,9 +36,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `59 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `23 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 > `23 ▶️` ∙ **[Let It Be](https://www.last.fm/music/The+Replacements/Let+It+Be)** - [The Replacements](https://www.last.fm/music/The+Replacements)<br/>
+> `19 ▶️` ∙ **[Give a Glimpse of What Yer Not](https://www.last.fm/music/Dinosaur+Jr./Give+a+Glimpse+of+What+Yer+Not)** - [Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)<br/>
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[Voices](https://www.last.fm/music/Wormrot/Voices)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
-> `16 ▶️` ∙ **[Life Like](https://www.last.fm/music/Dead+Bob/Life+Like)** - [Dead Bob](https://www.last.fm/music/Dead+Bob)<br/>
 > `14 ▶️` ∙ **[Caught in the Trees](https://www.last.fm/music/Damien+Jurado/Caught+in+the+Trees)** - [Damien Jurado](https://www.last.fm/music/Damien+Jurado)<br/>
 > `14 ▶️` ∙ **[Murder's only foreplay when you're hot for revenge](https://www.last.fm/music/Pigment+Vehicle/Murder%27s+only+foreplay+when+you%27re+hot+for+revenge)** - [Pigment Vehicle](https://www.last.fm/music/Pigment+Vehicle)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -25,20 +25,20 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[The Replacements](https://www.last.fm/music/The+Replacements)**<br/>
 > `38 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `35 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
-> `26 ▶️` ∙ **[Pigment Vehicle](https://www.last.fm/music/Pigment+Vehicle)**<br/>
+> `30 ▶️` ∙ **[Osees](https://www.last.fm/music/Osees)**<br/>
+> `28 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
 > `25 ▶️` ∙ **[Sonic Youth](https://www.last.fm/music/Sonic+Youth)**<br/>
-> `23 ▶️` ∙ **[My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `59 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
-> `23 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
+> `30 ▶️` ∙ **[INTERCEPTED MESSAGE](https://www.last.fm/music/Osees/INTERCEPTED+MESSAGE)** - [Osees](https://www.last.fm/music/Osees)<br/>
+> `28 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 > `23 ▶️` ∙ **[Let It Be](https://www.last.fm/music/The+Replacements/Let+It+Be)** - [The Replacements](https://www.last.fm/music/The+Replacements)<br/>
 > `19 ▶️` ∙ **[Give a Glimpse of What Yer Not](https://www.last.fm/music/Dinosaur+Jr./Give+a+Glimpse+of+What+Yer+Not)** - [Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)<br/>
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[Voices](https://www.last.fm/music/Wormrot/Voices)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
-> `14 ▶️` ∙ **[Caught in the Trees](https://www.last.fm/music/Damien+Jurado/Caught+in+the+Trees)** - [Damien Jurado](https://www.last.fm/music/Damien+Jurado)<br/>
-> `14 ▶️` ∙ **[Murder's only foreplay when you're hot for revenge](https://www.last.fm/music/Pigment+Vehicle/Murder%27s+only+foreplay+when+you%27re+hot+for+revenge)** - [Pigment Vehicle](https://www.last.fm/music/Pigment+Vehicle)<br/>
+> `17 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 <!--END_LASTFM_ALBUMS-->

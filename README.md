@@ -26,8 +26,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `44 ▶️` ∙ **[Victims Family](https://www.last.fm/music/Victims+Family)**<br/>
 > `38 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `35 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
+> `34 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `30 ▶️` ∙ **[Osees](https://www.last.fm/music/Osees)**<br/>
-> `30 ▶️` ∙ **[The Replacements](https://www.last.fm/music/The+Replacements)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -35,8 +35,8 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `45 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 > `34 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
+> `32 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `30 ▶️` ∙ **[INTERCEPTED MESSAGE](https://www.last.fm/music/Osees/INTERCEPTED+MESSAGE)** - [Osees](https://www.last.fm/music/Osees)<br/>
-> `20 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `19 ▶️` ∙ **[Give a Glimpse of What Yer Not](https://www.last.fm/music/Dinosaur+Jr./Give+a+Glimpse+of+What+Yer+Not)** - [Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)<br/>
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>

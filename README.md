@@ -25,9 +25,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `45 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 > `45 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
 > `44 ▶️` ∙ **[Victims Family](https://www.last.fm/music/Victims+Family)**<br/>
+> `39 ▶️` ∙ **[Gorguts](https://www.last.fm/music/Gorguts)**<br/>
 > `38 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `35 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
-> `31 ▶️` ∙ **[Concrete Winds](https://www.last.fm/music/Concrete+Winds)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

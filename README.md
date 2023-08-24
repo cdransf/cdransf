@@ -26,8 +26,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `44 ▶️` ∙ **[Victims Family](https://www.last.fm/music/Victims+Family)**<br/>
 > `39 ▶️` ∙ **[Gorguts](https://www.last.fm/music/Gorguts)**<br/>
 > `39 ▶️` ∙ **[The War on Drugs](https://www.last.fm/music/The+War+on+Drugs)**<br/>
-> `36 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
-> `33 ▶️` ∙ **[Cosmic Putrefaction](https://www.last.fm/music/Cosmic+Putrefaction)**<br/>
+> `31 ▶️` ∙ **[Concrete Winds](https://www.last.fm/music/Concrete+Winds)**<br/>
+> `31 ▶️` ∙ **[Cosmic Putrefaction](https://www.last.fm/music/Cosmic+Putrefaction)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -40,5 +40,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `22 ▶️` ∙ **[Nerve Butcherer](https://www.last.fm/music/Concrete+Winds/Nerve+Butcherer)** - [Concrete Winds](https://www.last.fm/music/Concrete+Winds)<br/>
 > `22 ▶️` ∙ **[Lost in the Dream](https://www.last.fm/music/The+War+on+Drugs/Lost+in+the+Dream)** - [The War on Drugs](https://www.last.fm/music/The+War+on+Drugs)<br/>
 > `20 ▶️` ∙ **[the whaler](https://www.last.fm/music/home+is+where/the+whaler)** - [home is where](https://www.last.fm/music/home+is+where)<br/>
-> `18 ▶️` ∙ **[Crepuscular Dirge for the Blessed Ones](https://www.last.fm/music/Cosmic+Putrefaction/Crepuscular+Dirge+for+the+Blessed+Ones)** - [Cosmic Putrefaction](https://www.last.fm/music/Cosmic+Putrefaction)<br/>
+> `18 ▶️` ∙ **[What Makes a Man Start Fires?](https://www.last.fm/music/Minutemen/What+Makes+a+Man+Start+Fires%3F)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -21,24 +21,24 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `64 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
+> `54 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `52 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `45 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
 > `44 ▶️` ∙ **[Victims Family](https://www.last.fm/music/Victims+Family)**<br/>
 > `39 ▶️` ∙ **[Gorguts](https://www.last.fm/music/Gorguts)**<br/>
 > `39 ▶️` ∙ **[The War on Drugs](https://www.last.fm/music/The+War+on+Drugs)**<br/>
 > `31 ▶️` ∙ **[Concrete Winds](https://www.last.fm/music/Concrete+Winds)**<br/>
-> `31 ▶️` ∙ **[Cosmic Putrefaction](https://www.last.fm/music/Cosmic+Putrefaction)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `45 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
+> `36 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `36 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `34 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `30 ▶️` ∙ **[INTERCEPTED MESSAGE](https://www.last.fm/music/Osees/INTERCEPTED+MESSAGE)** - [Osees](https://www.last.fm/music/Osees)<br/>
 > `22 ▶️` ∙ **[Nerve Butcherer](https://www.last.fm/music/Concrete+Winds/Nerve+Butcherer)** - [Concrete Winds](https://www.last.fm/music/Concrete+Winds)<br/>
 > `22 ▶️` ∙ **[Lost in the Dream](https://www.last.fm/music/The+War+on+Drugs/Lost+in+the+Dream)** - [The War on Drugs](https://www.last.fm/music/The+War+on+Drugs)<br/>
 > `20 ▶️` ∙ **[the whaler](https://www.last.fm/music/home+is+where/the+whaler)** - [home is where](https://www.last.fm/music/home+is+where)<br/>
-> `18 ▶️` ∙ **[What Makes a Man Start Fires?](https://www.last.fm/music/Minutemen/What+Makes+a+Man+Start+Fires%3F)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 <!--END_LASTFM_ALBUMS-->

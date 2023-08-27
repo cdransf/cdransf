@@ -31,9 +31,9 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `94 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
-> `68 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
+> `70 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
+> `59 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `53 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
-> `39 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `38 ▶️` ∙ **[Hüsker Dü](https://www.last.fm/music/H%C3%BCsker+D%C3%BC)**<br/>
 > `35 ▶️` ∙ **[The War on Drugs](https://www.last.fm/music/The+War+on+Drugs)**<br/>
 > `31 ▶️` ∙ **[Cosmic Putrefaction](https://www.last.fm/music/Cosmic+Putrefaction)**<br/>
@@ -43,7 +43,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `67 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
+> `69 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `42 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `37 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `36 ▶️` ∙ **[What Makes a Man Start Fires?](https://www.last.fm/music/Minutemen/What+Makes+a+Man+Start+Fires%3F)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>

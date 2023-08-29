@@ -26,8 +26,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `55 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `53 ▶️` ∙ **[Hüsker Dü](https://www.last.fm/music/H%C3%BCsker+D%C3%BC)**<br/>
 > `46 ▶️` ∙ **[The Clash](https://www.last.fm/music/The+Clash)**<br/>
-> `31 ▶️` ∙ **[Cosmic Putrefaction](https://www.last.fm/music/Cosmic+Putrefaction)**<br/>
 > `28 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `26 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

@@ -36,8 +36,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `55 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `53 ▶️` ∙ **[Hüsker Dü](https://www.last.fm/music/H%C3%BCsker+D%C3%BC)**<br/>
 > `46 ▶️` ∙ **[The Clash](https://www.last.fm/music/The+Clash)**<br/>
-> `35 ▶️` ∙ **[The War on Drugs](https://www.last.fm/music/The+War+on+Drugs)**<br/>
 > `31 ▶️` ∙ **[Cosmic Putrefaction](https://www.last.fm/music/Cosmic+Putrefaction)**<br/>
+> `28 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -49,6 +49,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `23 ▶️` ∙ **[the whaler](https://www.last.fm/music/home+is+where/the+whaler)** - [home is where](https://www.last.fm/music/home+is+where)<br/>
 > `23 ▶️` ∙ **[Zen Arcade](https://www.last.fm/music/H%C3%BCsker+D%C3%BC/Zen+Arcade)** - [Hüsker Dü](https://www.last.fm/music/H%C3%BCsker+D%C3%BC)<br/>
 > `22 ▶️` ∙ **[London Calling](https://www.last.fm/music/The+Clash/London+Calling)** - [The Clash](https://www.last.fm/music/The+Clash)<br/>
-> `22 ▶️` ∙ **[Lost in the Dream](https://www.last.fm/music/The+War+on+Drugs/Lost+in+the+Dream)** - [The War on Drugs](https://www.last.fm/music/The+War+on+Drugs)<br/>
 > `20 ▶️` ∙ **[Harmacy](https://www.last.fm/music/Sebadoh/Harmacy)** - [Sebadoh](https://www.last.fm/music/Sebadoh)<br/>
+> `19 ▶️` ∙ **[Franks Wild Years](https://www.last.fm/music/Tom+Waits/Franks+Wild+Years)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 <!--END_LASTFM_ALBUMS-->

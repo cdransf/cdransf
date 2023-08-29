@@ -33,9 +33,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `77 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `71 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 > `59 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `55 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `53 ▶️` ∙ **[Hüsker Dü](https://www.last.fm/music/H%C3%BCsker+D%C3%BC)**<br/>
 > `46 ▶️` ∙ **[The Clash](https://www.last.fm/music/The+Clash)**<br/>
-> `36 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `35 ▶️` ∙ **[The War on Drugs](https://www.last.fm/music/The+War+on+Drugs)**<br/>
 > `31 ▶️` ∙ **[Cosmic Putrefaction](https://www.last.fm/music/Cosmic+Putrefaction)**<br/>
 <!--END_LASTFM_ARTISTS-->

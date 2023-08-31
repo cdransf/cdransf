@@ -20,25 +20,25 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `81 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
-> `77 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
-> `64 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `82 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
+> `78 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
+> `71 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `55 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `53 ▶️` ∙ **[Hüsker Dü](https://www.last.fm/music/H%C3%BCsker+D%C3%BC)**<br/>
 > `46 ▶️` ∙ **[The Clash](https://www.last.fm/music/The+Clash)**<br/>
-> `44 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `43 ▶️` ∙ **[Misþyrming](https://www.last.fm/music/Mis%C3%BEyrming)**<br/>
+> `39 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `81 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
-> `43 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
+> `82 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
+> `44 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `30 ▶️` ∙ **[New Day Rising](https://www.last.fm/music/H%C3%BCsker+D%C3%BC/New+Day+Rising)** - [Hüsker Dü](https://www.last.fm/music/H%C3%BCsker+D%C3%BC)<br/>
+> `24 ▶️` ∙ **[In On the Kill Taker](https://www.last.fm/music/Fugazi/In+On+the+Kill+Taker)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `23 ▶️` ∙ **[Zen Arcade](https://www.last.fm/music/H%C3%BCsker+D%C3%BC/Zen+Arcade)** - [Hüsker Dü](https://www.last.fm/music/H%C3%BCsker+D%C3%BC)<br/>
 > `22 ▶️` ∙ **[London Calling](https://www.last.fm/music/The+Clash/London+Calling)** - [The Clash](https://www.last.fm/music/The+Clash)<br/>
+> `20 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>
 > `20 ▶️` ∙ **[Harmacy](https://www.last.fm/music/Sebadoh/Harmacy)** - [Sebadoh](https://www.last.fm/music/Sebadoh)<br/>
-> `19 ▶️` ∙ **[Franks Wild Years](https://www.last.fm/music/Tom+Waits/Franks+Wild+Years)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
-> `19 ▶️` ∙ **[Rain Dogs](https://www.last.fm/music/Tom+Waits/Rain+Dogs)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 <!--END_LASTFM_ALBUMS-->

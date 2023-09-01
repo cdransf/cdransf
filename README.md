@@ -21,24 +21,24 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `82 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
-> `71 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
-> `55 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
+> `60 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `60 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `46 ▶️` ∙ **[The Clash](https://www.last.fm/music/The+Clash)**<br/>
 > `43 ▶️` ∙ **[Misþyrming](https://www.last.fm/music/Mis%C3%BEyrming)**<br/>
-> `40 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `39 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `31 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
+> `29 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `82 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
+> `27 ▶️` ∙ **[We're Not Here to Be Loved](https://www.last.fm/music/Fleshwater/We%27re+Not+Here+to+Be+Loved)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
 > `24 ▶️` ∙ **[In On the Kill Taker](https://www.last.fm/music/Fugazi/In+On+the+Kill+Taker)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `22 ▶️` ∙ **[London Calling](https://www.last.fm/music/The+Clash/London+Calling)** - [The Clash](https://www.last.fm/music/The+Clash)<br/>
 > `20 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>
-> `20 ▶️` ∙ **[Harmacy](https://www.last.fm/music/Sebadoh/Harmacy)** - [Sebadoh](https://www.last.fm/music/Sebadoh)<br/>
 > `19 ▶️` ∙ **[Franks Wild Years](https://www.last.fm/music/Tom+Waits/Franks+Wild+Years)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `19 ▶️` ∙ **[Rain Dogs](https://www.last.fm/music/Tom+Waits/Rain+Dogs)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
-> `18 ▶️` ∙ **[We're Not Here to Be Loved](https://www.last.fm/music/Fleshwater/We%27re+Not+Here+to+Be+Loved)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
+> `18 ▶️` ∙ **[End Hits](https://www.last.fm/music/Fugazi/End+Hits)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 <!--END_LASTFM_ALBUMS-->

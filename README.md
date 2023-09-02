@@ -24,17 +24,17 @@ I build, maintain and design web applications. I've been coding professionally s
 > `60 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `46 ▶️` ∙ **[The Clash](https://www.last.fm/music/The+Clash)**<br/>
 > `43 ▶️` ∙ **[Misþyrming](https://www.last.fm/music/Mis%C3%BEyrming)**<br/>
-> `39 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 > `31 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
 > `28 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `28 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `28 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `39 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `27 ▶️` ∙ **[We're Not Here to Be Loved](https://www.last.fm/music/Fleshwater/We%27re+Not+Here+to+Be+Loved)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
+> `27 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `24 ▶️` ∙ **[In On the Kill Taker](https://www.last.fm/music/Fugazi/In+On+the+Kill+Taker)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `22 ▶️` ∙ **[London Calling](https://www.last.fm/music/The+Clash/London+Calling)** - [The Clash](https://www.last.fm/music/The+Clash)<br/>
 > `20 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>

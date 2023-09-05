@@ -22,12 +22,12 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `46 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `45 ▶️` ∙ **[Jason Isbell](https://www.last.fm/music/Jason+Isbell)**<br/>
+> `41 ▶️` ∙ **[Bruce Springsteen](https://www.last.fm/music/Bruce+Springsteen)**<br/>
 > `32 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
 > `29 ▶️` ∙ **[Built to Spill](https://www.last.fm/music/Built+to+Spill)**<br/>
 > `29 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
 > `28 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `27 ▶️` ∙ **[Fleshwater](https://www.last.fm/music/Fleshwater)**<br/>
-> `26 ▶️` ∙ **[Bruce Springsteen](https://www.last.fm/music/Bruce+Springsteen)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

@@ -20,14 +20,14 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `66 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `53 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
-> `48 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `45 ▶️` ∙ **[Jason Isbell](https://www.last.fm/music/Jason+Isbell)**<br/>
-> `42 ▶️` ∙ **[Bruce Springsteen](https://www.last.fm/music/Bruce+Springsteen)**<br/>
-> `32 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
+> `43 ▶️` ∙ **[Bruce Springsteen](https://www.last.fm/music/Bruce+Springsteen)**<br/>
 > `32 ▶️` ∙ **[Ulcerate](https://www.last.fm/music/Ulcerate)**<br/>
 > `29 ▶️` ∙ **[Built to Spill](https://www.last.fm/music/Built+to+Spill)**<br/>
 > `29 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
+> `28 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -35,10 +35,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `27 ▶️` ∙ **[We're Not Here to Be Loved](https://www.last.fm/music/Fleshwater/We%27re+Not+Here+to+Be+Loved)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
 > `26 ▶️` ∙ **[Mule Variations](https://www.last.fm/music/Tom+Waits/Mule+Variations)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
-> `25 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
+> `24 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `23 ▶️` ∙ **[Something More Than Free](https://www.last.fm/music/Jason+Isbell/Something+More+Than+Free)** - [Jason Isbell](https://www.last.fm/music/Jason+Isbell)<br/>
 > `22 ▶️` ∙ **[Southeastern](https://www.last.fm/music/Jason+Isbell/Southeastern)** - [Jason Isbell](https://www.last.fm/music/Jason+Isbell)<br/>
-> `20 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>
 > `18 ▶️` ∙ **[De syv stadier af ford](https://www.last.fm/music/Undergang/De+syv+stadier+af+ford)** - [Undergang](https://www.last.fm/music/Undergang)<br/>
 > `17 ▶️` ∙ **[All We Love We Leave Behind (Deluxe Edition)](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind+(Deluxe+Edition))** - [Converge](https://www.last.fm/music/Converge)<br/>
+> `17 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 <!--END_LASTFM_ALBUMS-->

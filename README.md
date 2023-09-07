@@ -40,5 +40,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `17 ▶️` ∙ **[All We Love We Leave Behind (Deluxe Edition)](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind+(Deluxe+Edition))** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `17 ▶️` ∙ **[Real Gone](https://www.last.fm/music/Tom+Waits/Real+Gone)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `16 ▶️` ∙ **[Bad as Me](https://www.last.fm/music/Tom+Waits/Bad+as+Me)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
-> `13 ▶️` ∙ **[the record](https://www.last.fm/music/boygenius/the+record)** - [boygenius](https://www.last.fm/music/boygenius)<br/>
+> `13 ▶️` ∙ **[The Freewheelin' Bob Dylan](https://www.last.fm/music/Bob+Dylan/The+Freewheelin%27+Bob+Dylan)** - [Bob Dylan](https://www.last.fm/music/Bob+Dylan)<br/>
 <!--END_LASTFM_ALBUMS-->

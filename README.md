@@ -25,9 +25,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `45 ▶️` ∙ **[Jason Isbell](https://www.last.fm/music/Jason+Isbell)**<br/>
 > `43 ▶️` ∙ **[Bruce Springsteen](https://www.last.fm/music/Bruce+Springsteen)**<br/>
 > `32 ▶️` ∙ **[Ulcerate](https://www.last.fm/music/Ulcerate)**<br/>
+> `30 ▶️` ∙ **[Bob Dylan](https://www.last.fm/music/Bob+Dylan)**<br/>
 > `29 ▶️` ∙ **[Built to Spill](https://www.last.fm/music/Built+to+Spill)**<br/>
 > `29 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
-> `22 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -37,8 +37,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `23 ▶️` ∙ **[Something More Than Free](https://www.last.fm/music/Jason+Isbell/Something+More+Than+Free)** - [Jason Isbell](https://www.last.fm/music/Jason+Isbell)<br/>
 > `22 ▶️` ∙ **[Southeastern](https://www.last.fm/music/Jason+Isbell/Southeastern)** - [Jason Isbell](https://www.last.fm/music/Jason+Isbell)<br/>
 > `18 ▶️` ∙ **[De syv stadier af ford](https://www.last.fm/music/Undergang/De+syv+stadier+af+ford)** - [Undergang](https://www.last.fm/music/Undergang)<br/>
+> `17 ▶️` ∙ **[The Times They Are A-Changin'](https://www.last.fm/music/Bob+Dylan/The+Times+They+Are+A-Changin%27)** - [Bob Dylan](https://www.last.fm/music/Bob+Dylan)<br/>
 > `17 ▶️` ∙ **[All We Love We Leave Behind (Deluxe Edition)](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind+(Deluxe+Edition))** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `17 ▶️` ∙ **[Real Gone](https://www.last.fm/music/Tom+Waits/Real+Gone)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `16 ▶️` ∙ **[Bad as Me](https://www.last.fm/music/Tom+Waits/Bad+as+Me)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
-> `13 ▶️` ∙ **[The Freewheelin' Bob Dylan](https://www.last.fm/music/Bob+Dylan/The+Freewheelin%27+Bob+Dylan)** - [Bob Dylan](https://www.last.fm/music/Bob+Dylan)<br/>
 <!--END_LASTFM_ALBUMS-->

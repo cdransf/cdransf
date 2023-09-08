@@ -20,9 +20,9 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `73 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
+> `67 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `53 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
-> `46 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
+> `47 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `45 ▶️` ∙ **[Jason Isbell](https://www.last.fm/music/Jason+Isbell)**<br/>
 > `43 ▶️` ∙ **[Bruce Springsteen](https://www.last.fm/music/Bruce+Springsteen)**<br/>
 > `42 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>

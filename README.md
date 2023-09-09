@@ -34,11 +34,11 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `26 ▶️` ∙ **[Mule Variations](https://www.last.fm/music/Tom+Waits/Mule+Variations)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
+> `24 ▶️` ∙ **[Leprous Daylight](https://www.last.fm/music/Fossilization/Leprous+Daylight)** - [Fossilization](https://www.last.fm/music/Fossilization)<br/>
 > `23 ▶️` ∙ **[Something More Than Free](https://www.last.fm/music/Jason+Isbell/Something+More+Than+Free)** - [Jason Isbell](https://www.last.fm/music/Jason+Isbell)<br/>
 > `22 ▶️` ∙ **[Southeastern](https://www.last.fm/music/Jason+Isbell/Southeastern)** - [Jason Isbell](https://www.last.fm/music/Jason+Isbell)<br/>
 > `19 ▶️` ∙ **[Mental Funeral](https://www.last.fm/music/Autopsy/Mental+Funeral)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 > `17 ▶️` ∙ **[The Times They Are A-Changin'](https://www.last.fm/music/Bob+Dylan/The+Times+They+Are+A-Changin%27)** - [Bob Dylan](https://www.last.fm/music/Bob+Dylan)<br/>
 > `17 ▶️` ∙ **[All We Love We Leave Behind (Deluxe Edition)](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind+(Deluxe+Edition))** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `17 ▶️` ∙ **[Real Gone](https://www.last.fm/music/Tom+Waits/Real+Gone)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
-> `16 ▶️` ∙ **[Heartwork](https://www.last.fm/music/Carcass/Heartwork)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 <!--END_LASTFM_ALBUMS-->

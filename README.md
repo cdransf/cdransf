@@ -21,10 +21,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `53 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
-> `50 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `47 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `43 ▶️` ∙ **[Bruce Springsteen](https://www.last.fm/music/Bruce+Springsteen)**<br/>
 > `39 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
+> `34 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `32 ▶️` ∙ **[Ulcerate](https://www.last.fm/music/Ulcerate)**<br/>
 > `30 ▶️` ∙ **[Bob Dylan](https://www.last.fm/music/Bob+Dylan)**<br/>
 > `29 ▶️` ∙ **[Built to Spill](https://www.last.fm/music/Built+to+Spill)**<br/>

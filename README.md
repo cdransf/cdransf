@@ -21,7 +21,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `53 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
-> `51 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
+> `50 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `47 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `43 ▶️` ∙ **[Bruce Springsteen](https://www.last.fm/music/Bruce+Springsteen)**<br/>
 > `39 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
@@ -40,5 +40,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `17 ▶️` ∙ **[All We Love We Leave Behind (Deluxe Edition)](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind+(Deluxe+Edition))** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `17 ▶️` ∙ **[Real Gone](https://www.last.fm/music/Tom+Waits/Real+Gone)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `16 ▶️` ∙ **[Heartwork](https://www.last.fm/music/Carcass/Heartwork)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
-> `16 ▶️` ∙ **[Bad as Me](https://www.last.fm/music/Tom+Waits/Bad+as+Me)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
+> `16 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 <!--END_LASTFM_ALBUMS-->

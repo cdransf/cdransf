@@ -22,18 +22,18 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `53 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `47 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
-> `40 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
+> `41 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 > `39 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `35 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `33 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
-> `32 ▶️` ∙ **[Ulcerate](https://www.last.fm/music/Ulcerate)**<br/>
 > `30 ▶️` ∙ **[Bob Dylan](https://www.last.fm/music/Bob+Dylan)**<br/>
+> `25 ▶️` ∙ **[Fossilization](https://www.last.fm/music/Fossilization)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `40 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
+> `41 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `24 ▶️` ∙ **[Leprous Daylight](https://www.last.fm/music/Fossilization/Leprous+Daylight)** - [Fossilization](https://www.last.fm/music/Fossilization)<br/>
 > `21 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `19 ▶️` ∙ **[Mental Funeral](https://www.last.fm/music/Autopsy/Mental+Funeral)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>

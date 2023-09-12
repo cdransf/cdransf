@@ -22,12 +22,12 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `53 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `47 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
-> `43 ▶️` ∙ **[Bruce Springsteen](https://www.last.fm/music/Bruce+Springsteen)**<br/>
 > `39 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
-> `34 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `35 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `33 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `32 ▶️` ∙ **[Ulcerate](https://www.last.fm/music/Ulcerate)**<br/>
 > `30 ▶️` ∙ **[Bob Dylan](https://www.last.fm/music/Bob+Dylan)**<br/>
+> `29 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -35,7 +35,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `29 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `24 ▶️` ∙ **[Leprous Daylight](https://www.last.fm/music/Fossilization/Leprous+Daylight)** - [Fossilization](https://www.last.fm/music/Fossilization)<br/>
-> `20 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
+> `21 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `19 ▶️` ∙ **[Mental Funeral](https://www.last.fm/music/Autopsy/Mental+Funeral)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 > `17 ▶️` ∙ **[The Times They Are A-Changin'](https://www.last.fm/music/Bob+Dylan/The+Times+They+Are+A-Changin%27)** - [Bob Dylan](https://www.last.fm/music/Bob+Dylan)<br/>
 > `17 ▶️` ∙ **[All We Love We Leave Behind (Deluxe Edition)](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind+(Deluxe+Edition))** - [Converge](https://www.last.fm/music/Converge)<br/>

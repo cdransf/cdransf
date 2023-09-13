@@ -21,13 +21,13 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `47 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
+> `45 ▶️` ∙ **[oso oso](https://www.last.fm/music/oso+oso)**<br/>
 > `41 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 > `39 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `35 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `32 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
 > `31 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `30 ▶️` ∙ **[Bob Dylan](https://www.last.fm/music/Bob+Dylan)**<br/>
-> `30 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -35,10 +35,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `41 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `24 ▶️` ∙ **[Leprous Daylight](https://www.last.fm/music/Fossilization/Leprous+Daylight)** - [Fossilization](https://www.last.fm/music/Fossilization)<br/>
+> `24 ▶️` ∙ **[sore thumb](https://www.last.fm/music/oso+oso/sore+thumb)** - [oso oso](https://www.last.fm/music/oso+oso)<br/>
 > `21 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `19 ▶️` ∙ **[Mental Funeral](https://www.last.fm/music/Autopsy/Mental+Funeral)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 > `17 ▶️` ∙ **[The Times They Are A-Changin'](https://www.last.fm/music/Bob+Dylan/The+Times+They+Are+A-Changin%27)** - [Bob Dylan](https://www.last.fm/music/Bob+Dylan)<br/>
-> `17 ▶️` ∙ **[Real Gone](https://www.last.fm/music/Tom+Waits/Real+Gone)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `16 ▶️` ∙ **[Heartwork](https://www.last.fm/music/Carcass/Heartwork)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `14 ▶️` ∙ **[Severed Survival](https://www.last.fm/music/Autopsy/Severed+Survival)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 <!--END_LASTFM_ALBUMS-->

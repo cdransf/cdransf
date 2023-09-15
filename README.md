@@ -21,13 +21,13 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `86 ▶️` ∙ **[Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)**<br/>
-> `61 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `45 ▶️` ∙ **[oso oso](https://www.last.fm/music/oso+oso)**<br/>
+> `44 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
 > `41 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 > `35 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `33 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
+> `31 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 > `31 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
-> `31 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
-> `30 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

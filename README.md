@@ -23,8 +23,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `86 ▶️` ∙ **[Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)**<br/>
 > `67 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
 > `46 ▶️` ∙ **[oso oso](https://www.last.fm/music/oso+oso)**<br/>
-> `35 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `35 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
+> `33 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `33 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `31 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 > `31 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
@@ -38,7 +38,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `24 ▶️` ∙ **[sore thumb](https://www.last.fm/music/oso+oso/sore+thumb)** - [oso oso](https://www.last.fm/music/oso+oso)<br/>
 > `23 ▶️` ∙ **[Terrifyer](https://www.last.fm/music/Pig+Destroyer/Terrifyer)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 > `22 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>
-> `21 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
+> `19 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `19 ▶️` ∙ **[Prowler In the Yard](https://www.last.fm/music/Pig+Destroyer/Prowler+In+the+Yard)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 > `19 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP/PUP)** - [PUP](https://www.last.fm/music/PUP)<br/>
 <!--END_LASTFM_ALBUMS-->

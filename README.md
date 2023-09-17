@@ -38,7 +38,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `24 ▶️` ∙ **[sore thumb](https://www.last.fm/music/oso+oso/sore+thumb)** - [oso oso](https://www.last.fm/music/oso+oso)<br/>
 > `23 ▶️` ∙ **[Terrifyer](https://www.last.fm/music/Pig+Destroyer/Terrifyer)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 > `22 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>
+> `21 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 > `19 ▶️` ∙ **[Prowler In the Yard](https://www.last.fm/music/Pig+Destroyer/Prowler+In+the+Yard)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 > `19 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP/PUP)** - [PUP](https://www.last.fm/music/PUP)<br/>
-> `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 <!--END_LASTFM_ALBUMS-->

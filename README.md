@@ -22,8 +22,8 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `86 ▶️` ∙ **[Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)**<br/>
 > `67 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
+> `52 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `46 ▶️` ∙ **[oso oso](https://www.last.fm/music/oso+oso)**<br/>
-> `46 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `39 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
 > `33 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `31 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>

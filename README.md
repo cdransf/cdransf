@@ -23,7 +23,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `86 ▶️` ∙ **[Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)**<br/>
 > `67 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
 > `53 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
-> `44 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
+> `45 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `39 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
 > `33 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `31 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
@@ -33,7 +33,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `44 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
+> `45 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `39 ▶️` ∙ **[Drudge to the Thicket](https://www.last.fm/music/Fabricant/Drudge+to+the+Thicket)** - [Fabricant](https://www.last.fm/music/Fabricant)<br/>
 > `38 ▶️` ∙ **[The Enduring Spirit](https://www.last.fm/music/Tomb+Mold/The+Enduring+Spirit)** - [Tomb Mold](https://www.last.fm/music/Tomb+Mold)<br/>
 > `33 ▶️` ∙ **[Phantom Limb](https://www.last.fm/music/Pig+Destroyer/Phantom+Limb)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>

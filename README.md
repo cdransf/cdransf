@@ -25,7 +25,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `53 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `46 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `39 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
-> `35 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
+> `36 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
 > `33 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `31 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -38,7 +38,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `38 ▶️` ∙ **[The Enduring Spirit](https://www.last.fm/music/Tomb+Mold/The+Enduring+Spirit)** - [Tomb Mold](https://www.last.fm/music/Tomb+Mold)<br/>
 > `33 ▶️` ∙ **[Phantom Limb](https://www.last.fm/music/Pig+Destroyer/Phantom+Limb)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 > `23 ▶️` ∙ **[Terrifyer](https://www.last.fm/music/Pig+Destroyer/Terrifyer)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
-> `22 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 > `22 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>
-> `19 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
+> `20 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
+> `19 ▶️` ∙ **[Prowler In the Yard](https://www.last.fm/music/Pig+Destroyer/Prowler+In+the+Yard)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 <!--END_LASTFM_ALBUMS-->

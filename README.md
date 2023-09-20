@@ -26,8 +26,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `42 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `39 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
 > `36 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
-> `32 ▶️` ∙ **[Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)**<br/>
 > `31 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
+> `26 ▶️` ∙ **[Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -40,5 +40,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `20 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
 > `19 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP/PUP)** - [PUP](https://www.last.fm/music/PUP)<br/>
 > `18 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
-> `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
+> `17 ▶️` ∙ **[The Blind Hole](https://www.last.fm/music/Dead+In+The+Dirt/The+Blind+Hole)** - [Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)<br/>
 <!--END_LASTFM_ALBUMS-->

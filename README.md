@@ -40,5 +40,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `23 ▶️` ∙ **[Terrifyer](https://www.last.fm/music/Pig+Destroyer/Terrifyer)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 > `22 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>
 > `20 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
-> `19 ▶️` ∙ **[Prowler In the Yard](https://www.last.fm/music/Pig+Destroyer/Prowler+In+the+Yard)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
+> `19 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 <!--END_LASTFM_ALBUMS-->

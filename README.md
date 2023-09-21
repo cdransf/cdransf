@@ -25,9 +25,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `49 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `39 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
 > `36 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
-> `27 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
+> `24 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 > `23 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
-> `19 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
+> `21 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -37,8 +37,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `43 ▶️` ∙ **[The Enduring Spirit](https://www.last.fm/music/Tomb+Mold/The+Enduring+Spirit)** - [Tomb Mold](https://www.last.fm/music/Tomb+Mold)<br/>
 > `39 ▶️` ∙ **[Drudge to the Thicket](https://www.last.fm/music/Fabricant/Drudge+to+the+Thicket)** - [Fabricant](https://www.last.fm/music/Fabricant)<br/>
 > `22 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>
+> `20 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 > `20 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
-> `19 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 > `19 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP/PUP)** - [PUP](https://www.last.fm/music/PUP)<br/>
 > `18 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 <!--END_LASTFM_ALBUMS-->

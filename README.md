@@ -21,7 +21,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `67 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
-> `53 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
+> `55 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `46 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `42 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `39 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
@@ -34,8 +34,8 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `46 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
+> `40 ▶️` ∙ **[The Enduring Spirit](https://www.last.fm/music/Tomb+Mold/The+Enduring+Spirit)** - [Tomb Mold](https://www.last.fm/music/Tomb+Mold)<br/>
 > `39 ▶️` ∙ **[Drudge to the Thicket](https://www.last.fm/music/Fabricant/Drudge+to+the+Thicket)** - [Fabricant](https://www.last.fm/music/Fabricant)<br/>
-> `38 ▶️` ∙ **[The Enduring Spirit](https://www.last.fm/music/Tomb+Mold/The+Enduring+Spirit)** - [Tomb Mold](https://www.last.fm/music/Tomb+Mold)<br/>
 > `22 ▶️` ∙ **[The Dream Is Over](https://www.last.fm/music/PUP/The+Dream+Is+Over)** - [PUP](https://www.last.fm/music/PUP)<br/>
 > `20 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
 > `19 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP/PUP)** - [PUP](https://www.last.fm/music/PUP)<br/>

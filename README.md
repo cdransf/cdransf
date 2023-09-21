@@ -26,7 +26,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `42 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `39 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
 > `36 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
-> `31 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
+> `27 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 > `21 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

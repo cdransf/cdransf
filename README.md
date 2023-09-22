@@ -23,11 +23,11 @@ I build, maintain and design web applications. I've been coding professionally s
 > `49 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `44 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `36 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
+> `28 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `27 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
 > `27 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 > `24 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `24 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
-> `23 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -40,5 +40,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `20 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
 > `18 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 > `15 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `15 ▶️` ∙ **[Ensemble Under The Dark Sun](https://www.last.fm/music/Serpent+of+Old/Ensemble+Under+The+Dark+Sun)** - [Serpent of Old](https://www.last.fm/music/Serpent+of+Old)<br/>
+> `14 ▶️` ∙ **[Labor Days](https://www.last.fm/music/Aesop+Rock/Labor+Days)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 <!--END_LASTFM_ALBUMS-->

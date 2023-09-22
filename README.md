@@ -21,9 +21,9 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `49 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
-> `43 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
-> `40 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
+> `48 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `36 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
+> `30 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `27 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
 > `27 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 > `24 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
@@ -35,10 +35,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `49 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `27 ▶️` ∙ **[Drudge to the Thicket](https://www.last.fm/music/Fabricant/Drudge+to+the+Thicket)** - [Fabricant](https://www.last.fm/music/Fabricant)<br/>
-> `25 ▶️` ∙ **[The Enduring Spirit](https://www.last.fm/music/Tomb+Mold/The+Enduring+Spirit)** - [Tomb Mold](https://www.last.fm/music/Tomb+Mold)<br/>
 > `20 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 > `20 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
+> `18 ▶️` ∙ **[We're Not Here to Be Loved](https://www.last.fm/music/Fleshwater/We%27re+Not+Here+to+Be+Loved)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
 > `18 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 > `15 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `14 ▶️` ∙ **[Labor Days](https://www.last.fm/music/Aesop+Rock/Labor+Days)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
+> `15 ▶️` ∙ **[The Enduring Spirit](https://www.last.fm/music/Tomb+Mold/The+Enduring+Spirit)** - [Tomb Mold](https://www.last.fm/music/Tomb+Mold)<br/>
 <!--END_LASTFM_ALBUMS-->

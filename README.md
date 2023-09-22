@@ -25,9 +25,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `39 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
 > `36 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
 > `24 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
-> `24 ▶️` ∙ **[PUP](https://www.last.fm/music/PUP)**<br/>
 > `24 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 > `23 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `20 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

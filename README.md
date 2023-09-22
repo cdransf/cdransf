@@ -22,7 +22,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `58 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `49 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
-> `39 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
+> `38 ▶️` ∙ **[Fabricant](https://www.last.fm/music/Fabricant)**<br/>
 > `36 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
 > `24 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `24 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
@@ -35,7 +35,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `49 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `43 ▶️` ∙ **[The Enduring Spirit](https://www.last.fm/music/Tomb+Mold/The+Enduring+Spirit)** - [Tomb Mold](https://www.last.fm/music/Tomb+Mold)<br/>
-> `39 ▶️` ∙ **[Drudge to the Thicket](https://www.last.fm/music/Fabricant/Drudge+to+the+Thicket)** - [Fabricant](https://www.last.fm/music/Fabricant)<br/>
+> `38 ▶️` ∙ **[Drudge to the Thicket](https://www.last.fm/music/Fabricant/Drudge+to+the+Thicket)** - [Fabricant](https://www.last.fm/music/Fabricant)<br/>
 > `20 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 > `20 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
 > `18 ▶️` ∙ **[The Black Parade](https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>

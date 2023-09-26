@@ -24,10 +24,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `45 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `44 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 > `33 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
-> `31 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `27 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
 > `26 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
 > `26 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
+> `25 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

@@ -21,20 +21,20 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `48 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
-> `44 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `45 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `44 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 > `42 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
-> `41 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `34 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
-> `30 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `33 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `33 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `27 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `41 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `36 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
+> `33 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `26 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
 > `24 ▶️` ∙ **[40 oz. to Fresno](https://www.last.fm/music/Joyce+Manor/40+oz.+to+Fresno)** - [Joyce Manor](https://www.last.fm/music/Joyce+Manor)<br/>
 > `24 ▶️` ∙ **[Cheap Grills](https://www.last.fm/music/Sincere+Engineer/Cheap+Grills)** - [Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)<br/>

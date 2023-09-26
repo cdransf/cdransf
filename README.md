@@ -26,18 +26,18 @@ I build, maintain and design web applications. I've been coding professionally s
 > `42 ▶️` ∙ **[Necrot](https://www.last.fm/music/Necrot)**<br/>
 > `34 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 > `33 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
-> `33 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `27 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
+> `26 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `36 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `33 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `26 ▶️` ∙ **[Mortal](https://www.last.fm/music/Necrot/Mortal)** - [Necrot](https://www.last.fm/music/Necrot)<br/>
 > `24 ▶️` ∙ **[40 oz. to Fresno](https://www.last.fm/music/Joyce+Manor/40+oz.+to+Fresno)** - [Joyce Manor](https://www.last.fm/music/Joyce+Manor)<br/>
 > `24 ▶️` ∙ **[Cheap Grills](https://www.last.fm/music/Sincere+Engineer/Cheap+Grills)** - [Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)<br/>
+> `24 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `21 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 > `18 ▶️` ∙ **[We're Not Here to Be Loved](https://www.last.fm/music/Fleshwater/We%27re+Not+Here+to+Be+Loved)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
 > `17 ▶️` ∙ **[All Roads Lead To Ausfahrt](https://www.last.fm/music/NoMeansNo/All+Roads+Lead+To+Ausfahrt)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>

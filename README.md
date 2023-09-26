@@ -24,7 +24,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `45 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `44 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 > `33 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
-> `33 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `31 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `27 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
 > `26 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
 > `26 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
@@ -39,6 +39,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `21 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 > `17 ▶️` ∙ **[All Roads Lead To Ausfahrt](https://www.last.fm/music/NoMeansNo/All+Roads+Lead+To+Ausfahrt)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[Astral rape](https://www.last.fm/music/ASet/Astral+rape)** - [ASet](https://www.last.fm/music/ASet)<br/>
-> `14 ▶️` ∙ **[We're Not Here to Be Loved](https://www.last.fm/music/Fleshwater/We%27re+Not+Here+to+Be+Loved)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
 > `13 ▶️` ∙ **[Hygiene](https://www.last.fm/music/Drug+Church/Hygiene)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
+> `13 ▶️` ∙ **[The Enduring Spirit](https://www.last.fm/music/Tomb+Mold/The+Enduring+Spirit)** - [Tomb Mold](https://www.last.fm/music/Tomb+Mold)<br/>
 <!--END_LASTFM_ALBUMS-->

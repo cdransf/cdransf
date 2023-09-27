@@ -20,13 +20,13 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `49 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `48 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `44 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
-> `35 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `33 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `33 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
+> `27 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
 > `27 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
-> `26 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
 > `26 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

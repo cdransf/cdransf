@@ -25,7 +25,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `44 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 > `33 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `33 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
-> `27 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
+> `28 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
 > `27 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
 > `26 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
 <!--END_LASTFM_ARTISTS-->

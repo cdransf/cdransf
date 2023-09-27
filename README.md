@@ -10,11 +10,11 @@ I build, maintain and design web applications. I've been coding professionally s
 
 ### My latest posts
 <!-- BLOGPOSTS:START -->
+- ['It Is Possible to Both Stream and Buy Music'](https://coryd.dev/posts/2023/it-is-possible-to-both-stream-and-buy-music/)
 - [Semi-automated hashtags for syndicated posts](https://coryd.dev/posts/2023/semi-automated-hashtags-syndicated-posts/)
 - [On imposter syndrome](https://coryd.dev/posts/2023/on-imposter-syndrome/)
 - [Now page: grouping episodes of the same tv show](https://coryd.dev/posts/2023/now-page-grouping-episodes-of-same-show/)
 - [Drying up now page templates and normalizing data in Eleventy](https://coryd.dev/posts/2023/drying-up-now-page-templates-eleventy/)
-- [Displaying now playing data with matching emoji using Netlify edge functions and Eleventy](https://coryd.dev/posts/2023/now-playing-eleventy-netlify-edge-functions-emoji/)
 <!-- BLOGPOSTS:END -->
 
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->

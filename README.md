@@ -22,7 +22,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `48 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `44 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
-> `34 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `33 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `33 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 > `27 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
 > `26 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
@@ -33,7 +33,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `25 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
+> `24 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `24 ▶️` ∙ **[40 oz. to Fresno](https://www.last.fm/music/Joyce+Manor/40+oz.+to+Fresno)** - [Joyce Manor](https://www.last.fm/music/Joyce+Manor)<br/>
 > `24 ▶️` ∙ **[Cheap Grills](https://www.last.fm/music/Sincere+Engineer/Cheap+Grills)** - [Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)<br/>
 > `21 ▶️` ∙ **[Death Is Nothing to Us](https://www.last.fm/music/Fiddlehead/Death+Is+Nothing+to+Us)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>

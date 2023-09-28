@@ -25,9 +25,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `33 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
-> `29 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `28 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
 > `27 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
+> `26 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -35,7 +35,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `24 ▶️` ∙ **[40 oz. to Fresno](https://www.last.fm/music/Joyce+Manor/40+oz.+to+Fresno)** - [Joyce Manor](https://www.last.fm/music/Joyce+Manor)<br/>
 > `24 ▶️` ∙ **[Cheap Grills](https://www.last.fm/music/Sincere+Engineer/Cheap+Grills)** - [Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)<br/>
-> `22 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
+> `21 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `18 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 > `17 ▶️` ∙ **[All Roads Lead To Ausfahrt](https://www.last.fm/music/NoMeansNo/All+Roads+Lead+To+Ausfahrt)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[Astral rape](https://www.last.fm/music/ASet/Astral+rape)** - [ASet](https://www.last.fm/music/ASet)<br/>

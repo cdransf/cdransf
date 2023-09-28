@@ -20,7 +20,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `49 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
+> `55 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `44 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 > `40 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>

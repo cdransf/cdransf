@@ -26,7 +26,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `33 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 > `28 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
-> `28 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
+> `28 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `27 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -35,10 +35,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `25 ▶️` ∙ **[Death Metal](https://www.last.fm/music/Dismember/Death+Metal)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 > `24 ▶️` ∙ **[40 oz. to Fresno](https://www.last.fm/music/Joyce+Manor/40+oz.+to+Fresno)** - [Joyce Manor](https://www.last.fm/music/Joyce+Manor)<br/>
-> `23 ▶️` ∙ **[Cheap Grills](https://www.last.fm/music/Sincere+Engineer/Cheap+Grills)** - [Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)<br/>
 > `22 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `21 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `18 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 > `17 ▶️` ∙ **[In On the Kill Taker](https://www.last.fm/music/Fugazi/In+On+the+Kill+Taker)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
+> `17 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
 > `15 ▶️` ∙ **[Astral rape](https://www.last.fm/music/ASet/Astral+rape)** - [ASet](https://www.last.fm/music/ASet)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -24,7 +24,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `39 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `31 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
-> `29 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
+> `31 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `28 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
 > `25 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
 > `24 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
@@ -37,8 +37,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `22 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `22 ▶️` ∙ **[40 oz. to Fresno](https://www.last.fm/music/Joyce+Manor/40+oz.+to+Fresno)** - [Joyce Manor](https://www.last.fm/music/Joyce+Manor)<br/>
 > `21 ▶️` ∙ **[Enema of the State](https://www.last.fm/music/blink-182/Enema+of+the+State)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
+> `20 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
 > `18 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
-> `18 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
 > `17 ▶️` ∙ **[In On the Kill Taker](https://www.last.fm/music/Fugazi/In+On+the+Kill+Taker)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `15 ▶️` ∙ **[Astral rape](https://www.last.fm/music/ASet/Astral+rape)** - [ASet](https://www.last.fm/music/ASet)<br/>
 <!--END_LASTFM_ALBUMS-->

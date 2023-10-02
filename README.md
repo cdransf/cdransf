@@ -25,9 +25,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `34 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `28 ▶️` ∙ **[Desecresy](https://www.last.fm/music/Desecresy)**<br/>
+> `24 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
-> `23 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
-> `18 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
+> `19 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,7 +38,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `25 ▶️` ∙ **[Death Metal](https://www.last.fm/music/Dismember/Death+Metal)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 > `20 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
 > `18 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
-> `14 ▶️` ∙ **[All Roads Lead To Ausfahrt](https://www.last.fm/music/NoMeansNo/All+Roads+Lead+To+Ausfahrt)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
-> `12 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
+> `13 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `11 ▶️` ∙ **[Macabre Eternal](https://www.last.fm/music/Autopsy/Macabre+Eternal)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
+> `11 ▶️` ∙ **[Towards Nebulae](https://www.last.fm/music/Desecresy/Towards+Nebulae)** - [Desecresy](https://www.last.fm/music/Desecresy)<br/>
 <!--END_LASTFM_ALBUMS-->

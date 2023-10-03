@@ -26,8 +26,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
+> `19 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
 > `18 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
-> `18 ▶️` ∙ **[Fen](https://www.last.fm/music/Fen)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

@@ -27,7 +27,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `27 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
 > `23 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
-> `19 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
+> `21 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

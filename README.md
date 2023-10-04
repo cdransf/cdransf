@@ -21,13 +21,13 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `68 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
-> `65 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
+> `60 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `27 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
 > `23 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
-> `21 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
+> `22 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -39,6 +39,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `24 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `24 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
 > `18 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
+> `13 ▶️` ∙ **[Wildlife](https://www.last.fm/music/La+Dispute/Wildlife)** - [La Dispute](https://www.last.fm/music/La+Dispute)<br/>
 > `12 ▶️` ∙ **[Hit Your Head](https://www.last.fm/music/Drug+Church/Hit+Your+Head)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
-> `12 ▶️` ∙ **[sore thumb](https://www.last.fm/music/oso+oso/sore+thumb)** - [oso oso](https://www.last.fm/music/oso+oso)<br/>
 <!--END_LASTFM_ALBUMS-->

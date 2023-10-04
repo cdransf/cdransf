@@ -22,12 +22,12 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `68 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `33 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
-> `31 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
-> `30 ▶️` ∙ **[La Dispute](https://www.last.fm/music/La+Dispute)**<br/>
+> `32 ▶️` ∙ **[La Dispute](https://www.last.fm/music/La+Dispute)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `27 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
 > `23 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
+> `22 ▶️` ∙ **[Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -37,8 +37,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `30 ▶️` ∙ **[In On the Kill Taker](https://www.last.fm/music/Fugazi/In+On+the+Kill+Taker)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `24 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `24 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
+> `15 ▶️` ∙ **[Somewhere at the Bottom of the River Between Vega and Altair](https://www.last.fm/music/La+Dispute/Somewhere+at+the+Bottom+of+the+River+Between+Vega+and+Altair)** - [La Dispute](https://www.last.fm/music/La+Dispute)<br/>
 > `14 ▶️` ∙ **[Wildlife](https://www.last.fm/music/La+Dispute/Wildlife)** - [La Dispute](https://www.last.fm/music/La+Dispute)<br/>
 > `13 ▶️` ∙ **[Death Metal](https://www.last.fm/music/Dismember/Death+Metal)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
-> `13 ▶️` ∙ **[Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)](https://www.last.fm/music/La+Dispute/Somewhere+at+the+Bottom+of+the+River+Between+Vega+and+Altair+(10th+Anniversary))** - [La Dispute](https://www.last.fm/music/La+Dispute)<br/>
 > `12 ▶️` ∙ **[Hit Your Head](https://www.last.fm/music/Drug+Church/Hit+Your+Head)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
 <!--END_LASTFM_ALBUMS-->

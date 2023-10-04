@@ -20,10 +20,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `77 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `68 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
-> `39 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
+> `65 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
+> `38 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
 > `23 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
@@ -39,6 +39,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `25 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
 > `24 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `18 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
+> `12 ▶️` ∙ **[Hit Your Head](https://www.last.fm/music/Drug+Church/Hit+Your+Head)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
 > `12 ▶️` ∙ **[Is Survived By](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9/Is+Survived+By)** - [Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)<br/>
-> `11 ▶️` ∙ **[Macabre Eternal](https://www.last.fm/music/Autopsy/Macabre+Eternal)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 <!--END_LASTFM_ALBUMS-->

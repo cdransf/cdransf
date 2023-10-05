@@ -21,7 +21,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `62 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
-> `39 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
+> `46 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `38 ▶️` ∙ **[La Dispute](https://www.last.fm/music/La+Dispute)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `27 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>

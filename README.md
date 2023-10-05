@@ -20,7 +20,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `68 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `64 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `39 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `38 ▶️` ∙ **[La Dispute](https://www.last.fm/music/La+Dispute)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
@@ -33,7 +33,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `36 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
+> `32 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `30 ▶️` ∙ **[In On the Kill Taker](https://www.last.fm/music/Fugazi/In+On+the+Kill+Taker)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `24 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `24 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>

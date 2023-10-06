@@ -25,7 +25,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `32 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `29 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
-> `25 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
+> `29 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
 > `23 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
 <!--END_LASTFM_ARTISTS-->

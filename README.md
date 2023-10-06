@@ -22,10 +22,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `38 ▶️` ∙ **[La Dispute](https://www.last.fm/music/La+Dispute)**<br/>
 > `35 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
-> `32 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `32 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `29 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `25 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
 > `23 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -35,10 +35,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `24 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `21 ▶️` ∙ **[Somewhere at the Bottom of the River Between Vega and Altair](https://www.last.fm/music/La+Dispute/Somewhere+at+the+Bottom+of+the+River+Between+Vega+and+Altair)** - [La Dispute](https://www.last.fm/music/La+Dispute)<br/>
-> `15 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
 > `14 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `14 ▶️` ∙ **[Wildlife](https://www.last.fm/music/La+Dispute/Wildlife)** - [La Dispute](https://www.last.fm/music/La+Dispute)<br/>
 > `13 ▶️` ∙ **[In On the Kill Taker](https://www.last.fm/music/Fugazi/In+On+the+Kill+Taker)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `12 ▶️` ∙ **[Hit Your Head](https://www.last.fm/music/Drug+Church/Hit+Your+Head)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
 > `12 ▶️` ∙ **[sore thumb](https://www.last.fm/music/oso+oso/sore+thumb)** - [oso oso](https://www.last.fm/music/oso+oso)<br/>
+> `12 ▶️` ∙ **[Cheap Grills](https://www.last.fm/music/Sincere+Engineer/Cheap+Grills)** - [Sincere Engineer](https://www.last.fm/music/Sincere+Engineer)<br/>
 <!--END_LASTFM_ALBUMS-->

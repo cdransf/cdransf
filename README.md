@@ -8,7 +8,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 [See what I'm doing now.](https://coryd.dev/now)
 
-### My latest posts
+### 📝 Recent posts
 <!-- BLOGPOSTS:START -->
 - [Onward, to The Storygraph](https://coryd.dev/posts/2023/onward-to-the-storygraph/)
 - [Migrating your Letterboxd data](https://coryd.dev/posts/2023/migrating-your-letterboxd-data/)

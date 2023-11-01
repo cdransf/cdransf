@@ -1,4 +1,4 @@
-## [Hi, I'm Cory 👋](https://coryd.dev)
+# [Hi, I'm Cory 👋](https://coryd.dev)
 
 [![Follow @cory@social.lol](https://img.shields.io/mastodon/follow/109606224363698309?domain=https%3A%2F%2Fsocial.lol&style=for-the-badge&logo=Mastodon&logoColor=white&labelColor=6364FF)](https://social.lol/@cory)
 
@@ -8,7 +8,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 [See what I'm doing now.](https://coryd.dev/now)
 
-### 📝 Recent posts
+## 📝 Recent posts
 <!-- BLOGPOSTS:START -->
 - [Onward, to The Storygraph](https://coryd.dev/posts/2023/onward-to-the-storygraph/)
 - [Migrating your Letterboxd data](https://coryd.dev/posts/2023/migrating-your-letterboxd-data/)

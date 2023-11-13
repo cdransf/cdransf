@@ -9,10 +9,18 @@ I build, maintain and design web applications. I've been coding professionally s
 [See what I'm doing now.](https://coryd.dev/now)
 
 ## 📝 Recent posts
+
 <!-- BLOGPOSTS:START -->
+
 - [My default apps, 2023 edition](https://coryd.dev/posts/2023/default-apps-2023/)
 - [Onward, to The Storygraph](https://coryd.dev/posts/2023/onward-to-the-storygraph/)
 - [Migrating your Letterboxd data](https://coryd.dev/posts/2023/migrating-your-letterboxd-data/)
 - ['It Is Possible to Both Stream and Buy Music'](https://coryd.dev/posts/2023/it-is-possible-to-both-stream-and-buy-music/)
 - [Semi-automated hashtags for syndicated posts](https://coryd.dev/posts/2023/semi-automated-hashtags-syndicated-posts/)
 <!-- BLOGPOSTS:END -->
+
+<!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
+<!--END_LASTFM_ARTISTS-->
+
+<!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
+<!--END_LASTFM_ALBUMS-->

@@ -19,6 +19,8 @@ I build, maintain and design web applications. I've been coding professionally s
 - [Semi-automated hashtags for syndicated posts](https://coryd.dev/posts/2023/semi-automated-hashtags-syndicated-posts/)
 <!-- BLOGPOSTS:END -->
 
+## 🎧 What I'm listening to
+
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 

@@ -1,4 +1,4 @@
-name: Last.fm Charts
+name: Last.fm charts
 
 on:
   workflow_dispatch:

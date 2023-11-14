@@ -28,10 +28,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `18 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `18 ▶️` ∙ **[Sedimentum](https://www.last.fm/music/Sedimentum)**<br/>
 > `14 ▶️` ∙ **[Vertebra Atlantis](https://www.last.fm/music/Vertebra+Atlantis)**<br/>
+> `13 ▶️` ∙ **[Chaotian](https://www.last.fm/music/Chaotian)**<br/>
 > `12 ▶️` ∙ **[Hooded Menace](https://www.last.fm/music/Hooded+Menace)**<br/>
 > `12 ▶️` ∙ **[Hot Mulligan](https://www.last.fm/music/Hot+Mulligan)**<br/>
 > `12 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
-> `12 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -40,9 +40,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `18 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `14 ▶️` ∙ **[Suppuration Morphogénésiaque](https://www.last.fm/music/Sedimentum/Suppuration+Morphog%C3%A9n%C3%A9siaque)** - [Sedimentum](https://www.last.fm/music/Sedimentum)<br/>
+> `13 ▶️` ∙ **[Effigies Of Obsolecence](https://www.last.fm/music/Chaotian/Effigies+Of+Obsolecence)** - [Chaotian](https://www.last.fm/music/Chaotian)<br/>
 > `12 ▶️` ∙ **[Gloom Immemorial](https://www.last.fm/music/Hooded+Menace/Gloom+Immemorial)** - [Hooded Menace](https://www.last.fm/music/Hooded+Menace)<br/>
 > `12 ▶️` ∙ **[Why Would I Watch](https://www.last.fm/music/Hot+Mulligan/Why+Would+I+Watch)** - [Hot Mulligan](https://www.last.fm/music/Hot+Mulligan)<br/>
 > `12 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `12 ▶️` ∙ **[Laugh Track](https://www.last.fm/music/The+National/Laugh+Track)** - [The National](https://www.last.fm/music/The+National)<br/>
-> `11 ▶️` ∙ **[Life Under The Gun](https://www.last.fm/music/Militarie+Gun/Life+Under+The+Gun)** - [Militarie Gun](https://www.last.fm/music/Militarie+Gun)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -24,13 +24,13 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `34 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
+> `23 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `18 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `18 ▶️` ∙ **[Sedimentum](https://www.last.fm/music/Sedimentum)**<br/>
 > `14 ▶️` ∙ **[Vertebra Atlantis](https://www.last.fm/music/Vertebra+Atlantis)**<br/>
 > `13 ▶️` ∙ **[Chaotian](https://www.last.fm/music/Chaotian)**<br/>
 > `12 ▶️` ∙ **[Hooded Menace](https://www.last.fm/music/Hooded+Menace)**<br/>
-> `12 ▶️` ∙ **[Hot Mulligan](https://www.last.fm/music/Hot+Mulligan)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[Swordfishtrombones](https://www.last.fm/music/Tom+Waits/Swordfishtrombones)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `14 ▶️` ∙ **[Suppuration Morphogénésiaque](https://www.last.fm/music/Sedimentum/Suppuration+Morphog%C3%A9n%C3%A9siaque)** - [Sedimentum](https://www.last.fm/music/Sedimentum)<br/>
 > `13 ▶️` ∙ **[Effigies Of Obsolecence](https://www.last.fm/music/Chaotian/Effigies+Of+Obsolecence)** - [Chaotian](https://www.last.fm/music/Chaotian)<br/>
+> `12 ▶️` ∙ **[Beside Myself](https://www.last.fm/music/Basement/Beside+Myself)** - [Basement](https://www.last.fm/music/Basement)<br/>
 > `12 ▶️` ∙ **[Gloom Immemorial](https://www.last.fm/music/Hooded+Menace/Gloom+Immemorial)** - [Hooded Menace](https://www.last.fm/music/Hooded+Menace)<br/>
-> `12 ▶️` ∙ **[Why Would I Watch](https://www.last.fm/music/Hot+Mulligan/Why+Would+I+Watch)** - [Hot Mulligan](https://www.last.fm/music/Hot+Mulligan)<br/>
 <!--END_LASTFM_ALBUMS-->

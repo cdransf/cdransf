@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `30 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `27 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `24 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
+> `21 ▶️` ∙ **[Morbus Chron](https://www.last.fm/music/Morbus+Chron)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `18 ▶️` ∙ **[Sedimentum](https://www.last.fm/music/Sedimentum)**<br/>
 > `15 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
-> `14 ▶️` ∙ **[Vertebra Atlantis](https://www.last.fm/music/Vertebra+Atlantis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

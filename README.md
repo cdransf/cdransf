@@ -2,7 +2,7 @@
 
 [![Follow @cory@social.lol](https://img.shields.io/mastodon/follow/109606224363698309?domain=https%3A%2F%2Fsocial.lol&style=for-the-badge&logo=Mastodon&logoColor=white&labelColor=6364FF)](https://social.lol/@cory)
 
-I'm a software developer in Camarillo, California. I enjoy hanging out with my beautiful family and 4 rescue dogs, technology, automation, [music](https://music.apple.com/profile/cdransf), [reading](https://app.thestorygraph.com/profile/coryd) and [tv](https://trakt.tv/users/cdransf) and [movies](https://trakt.tv/users/cdransf).
+I'm a software developer in Camarillo, California. I enjoy hanging out with my beautiful family and 4 rescue dogs, technology, automation, [music](https://last.fm/user/coryd_), [reading](https://app.thestorygraph.com/profile/coryd) and [tv](https://trakt.tv/users/cdransf) and [movies](https://trakt.tv/users/cdransf).
 
 I build, maintain and design web applications. I've been coding professionally since 2010 with a focus on frontend technologies. I help organize [the Eleventy Meetup](https://11tymeetup.dev/) and mentor for [Underdog Devs](https://www.underdogdevs.org/).
 

@@ -25,7 +25,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `34 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `30 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
-> `25 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
+> `27 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `24 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `18 ▶️` ∙ **[Sedimentum](https://www.last.fm/music/Sedimentum)**<br/>
@@ -36,7 +36,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `25 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
+> `27 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `19 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `19 ▶️` ∙ **[Rain Dogs](https://www.last.fm/music/Tom+Waits/Rain+Dogs)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `15 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>

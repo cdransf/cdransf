@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `24 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `21 ▶️` ∙ **[Morbus Chron](https://www.last.fm/music/Morbus+Chron)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
-> `18 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `18 ▶️` ∙ **[Sedimentum](https://www.last.fm/music/Sedimentum)**<br/>
+> `14 ▶️` ∙ **[Vertebra Atlantis](https://www.last.fm/music/Vertebra+Atlantis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `19 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `19 ▶️` ∙ **[Rain Dogs](https://www.last.fm/music/Tom+Waits/Rain+Dogs)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
-> `18 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `15 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[Swordfishtrombones](https://www.last.fm/music/Tom+Waits/Swordfishtrombones)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `14 ▶️` ∙ **[Suppuration Morphogénésiaque](https://www.last.fm/music/Sedimentum/Suppuration+Morphog%C3%A9n%C3%A9siaque)** - [Sedimentum](https://www.last.fm/music/Sedimentum)<br/>
 > `13 ▶️` ∙ **[Effigies Of Obsolecence](https://www.last.fm/music/Chaotian/Effigies+Of+Obsolecence)** - [Chaotian](https://www.last.fm/music/Chaotian)<br/>
+> `12 ▶️` ∙ **[Beside Myself](https://www.last.fm/music/Basement/Beside+Myself)** - [Basement](https://www.last.fm/music/Basement)<br/>
 <!--END_LASTFM_ALBUMS-->

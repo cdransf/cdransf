@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `14 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 > `14 ▶️` ∙ **[Suppuration Morphogénésiaque](https://www.last.fm/music/Sedimentum/Suppuration+Morphog%C3%A9n%C3%A9siaque)** - [Sedimentum](https://www.last.fm/music/Sedimentum)<br/>
 > `13 ▶️` ∙ **[Effigies Of Obsolecence](https://www.last.fm/music/Chaotian/Effigies+Of+Obsolecence)** - [Chaotian](https://www.last.fm/music/Chaotian)<br/>
-> `13 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Prince+Daddy+&+The+Hyena)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
+> `13 ▶️` ∙ **[Deathconsciousness](https://www.last.fm/music/Have+a+Nice+Life/Deathconsciousness)** - [Have a Nice Life](https://www.last.fm/music/Have+a+Nice+Life)<br/>
 <!--END_LASTFM_ALBUMS-->

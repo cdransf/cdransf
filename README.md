@@ -26,22 +26,22 @@ I build, maintain and design web applications. I've been coding professionally s
 > `47 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `34 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `30 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
+> `28 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `27 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)**<br/>
 > `24 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `22 ▶️` ∙ **[Morbus Chron](https://www.last.fm/music/Morbus+Chron)**<br/>
-> `18 ▶️` ∙ **[Sedimentum](https://www.last.fm/music/Sedimentum)**<br/>
 > `13 ▶️` ∙ **[Chaotian](https://www.last.fm/music/Chaotian)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `28 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `19 ▶️` ∙ **[Rain Dogs](https://www.last.fm/music/Tom+Waits/Rain+Dogs)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `15 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[Swordfishtrombones](https://www.last.fm/music/Tom+Waits/Swordfishtrombones)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `14 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
-> `14 ▶️` ∙ **[Suppuration Morphogénésiaque](https://www.last.fm/music/Sedimentum/Suppuration+Morphog%C3%A9n%C3%A9siaque)** - [Sedimentum](https://www.last.fm/music/Sedimentum)<br/>
 > `13 ▶️` ∙ **[Effigies Of Obsolecence](https://www.last.fm/music/Chaotian/Effigies+Of+Obsolecence)** - [Chaotian](https://www.last.fm/music/Chaotian)<br/>
 > `13 ▶️` ∙ **[Deathconsciousness](https://www.last.fm/music/Have+a+Nice+Life/Deathconsciousness)** - [Have a Nice Life](https://www.last.fm/music/Have+a+Nice+Life)<br/>
 <!--END_LASTFM_ALBUMS-->

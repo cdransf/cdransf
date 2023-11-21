@@ -27,8 +27,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `43 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `30 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `27 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)**<br/>
-> `24 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `24 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `22 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `22 ▶️` ∙ **[Morbus Chron](https://www.last.fm/music/Morbus+Chron)**<br/>
 > `13 ▶️` ∙ **[Have a Nice Life](https://www.last.fm/music/Have+a+Nice+Life)**<br/>
 <!--END_LASTFM_ARTISTS-->

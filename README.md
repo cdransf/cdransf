@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `24 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `24 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `22 ▶️` ∙ **[Morbus Chron](https://www.last.fm/music/Morbus+Chron)**<br/>
-> `22 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
+> `13 ▶️` ∙ **[Have a Nice Life](https://www.last.fm/music/Have+a+Nice+Life)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -39,9 +39,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `43 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `15 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
-> `15 ▶️` ∙ **[Swordfishtrombones](https://www.last.fm/music/Tom+Waits/Swordfishtrombones)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `14 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 > `13 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `13 ▶️` ∙ **[Deathconsciousness](https://www.last.fm/music/Have+a+Nice+Life/Deathconsciousness)** - [Have a Nice Life](https://www.last.fm/music/Have+a+Nice+Life)<br/>
 > `13 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Prince+Daddy+&+The+Hyena)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
+> `12 ▶️` ∙ **[Beside Myself](https://www.last.fm/music/Basement/Beside+Myself)** - [Basement](https://www.last.fm/music/Basement)<br/>
 <!--END_LASTFM_ALBUMS-->

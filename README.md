@@ -28,7 +28,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `31 ▶️` ∙ **[Ryan Adams](https://www.last.fm/music/Ryan+Adams)**<br/>
 > `27 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)**<br/>
 > `24 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
-> `22 ▶️` ∙ **[Morbus Chron](https://www.last.fm/music/Morbus+Chron)**<br/>
+> `21 ▶️` ∙ **[Morbus Chron](https://www.last.fm/music/Morbus+Chron)**<br/>
 > `18 ▶️` ∙ **[Cock Sparrer](https://www.last.fm/music/Cock+Sparrer)**<br/>
 > `16 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
 <!--END_LASTFM_ARTISTS-->

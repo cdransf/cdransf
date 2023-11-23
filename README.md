@@ -24,8 +24,8 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `43 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
-> `32 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `31 ▶️` ∙ **[Ryan Adams](https://www.last.fm/music/Ryan+Adams)**<br/>
+> `27 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `27 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)**<br/>
 > `24 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `18 ▶️` ∙ **[Cock Sparrer](https://www.last.fm/music/Cock+Sparrer)**<br/>
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `43 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `18 ▶️` ∙ **[Shock Troops](https://www.last.fm/music/Cock+Sparrer/Shock+Troops)** - [Cock Sparrer](https://www.last.fm/music/Cock+Sparrer)<br/>
-> `15 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[Heartbreaker](https://www.last.fm/music/Ryan+Adams/Heartbreaker)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `14 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 > `14 ▶️` ∙ **[Easy Tiger](https://www.last.fm/music/Ryan+Adams/Easy+Tiger)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `13 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `13 ▶️` ∙ **[Deathconsciousness](https://www.last.fm/music/Have+a+Nice+Life/Deathconsciousness)** - [Have a Nice Life](https://www.last.fm/music/Have+a+Nice+Life)<br/>
+> `13 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Prince+Daddy+&+The+Hyena)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 <!--END_LASTFM_ALBUMS-->

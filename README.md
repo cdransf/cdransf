@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `24 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `23 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `18 ▶️` ∙ **[Cock Sparrer](https://www.last.fm/music/Cock+Sparrer)**<br/>
+> `17 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `16 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
-> `13 ▶️` ∙ **[Have a Nice Life](https://www.last.fm/music/Have+a+Nice+Life)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

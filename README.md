@@ -28,8 +28,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `43 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `35 ▶️` ∙ **[Damien Jurado](https://www.last.fm/music/Damien+Jurado)**<br/>
 > `24 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
 > `23 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
-> `23 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
 > `21 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

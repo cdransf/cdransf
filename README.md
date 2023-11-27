@@ -25,20 +25,20 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `55 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `44 ▶️` ∙ **[Ryan Adams](https://www.last.fm/music/Ryan+Adams)**<br/>
-> `43 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `35 ▶️` ∙ **[Damien Jurado](https://www.last.fm/music/Damien+Jurado)**<br/>
 > `30 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `26 ▶️` ∙ **[Cruciamentum](https://www.last.fm/music/Cruciamentum)**<br/>
 > `24 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
+> `21 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `43 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `26 ▶️` ∙ **[Obsidian Refractions](https://www.last.fm/music/Cruciamentum/Obsidian+Refractions)** - [Cruciamentum](https://www.last.fm/music/Cruciamentum)<br/>
 > `18 ▶️` ∙ **[Shock Troops](https://www.last.fm/music/Cock+Sparrer/Shock+Troops)** - [Cock Sparrer](https://www.last.fm/music/Cock+Sparrer)<br/>
+> `15 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `15 ▶️` ∙ **[1989](https://www.last.fm/music/Ryan+Adams/1989)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `15 ▶️` ∙ **[Heartbreaker](https://www.last.fm/music/Ryan+Adams/Heartbreaker)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `15 ▶️` ∙ **[High Violet](https://www.last.fm/music/The+National/High+Violet)** - [The National](https://www.last.fm/music/The+National)<br/>

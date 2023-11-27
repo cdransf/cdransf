@@ -28,9 +28,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `35 ▶️` ∙ **[Damien Jurado](https://www.last.fm/music/Damien+Jurado)**<br/>
 > `30 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `26 ▶️` ∙ **[Cruciamentum](https://www.last.fm/music/Cruciamentum)**<br/>
-> `24 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
 > `21 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
+> `19 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `26 ▶️` ∙ **[Obsidian Refractions](https://www.last.fm/music/Cruciamentum/Obsidian+Refractions)** - [Cruciamentum](https://www.last.fm/music/Cruciamentum)<br/>
 > `18 ▶️` ∙ **[Shock Troops](https://www.last.fm/music/Cock+Sparrer/Shock+Troops)** - [Cock Sparrer](https://www.last.fm/music/Cock+Sparrer)<br/>
-> `15 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `15 ▶️` ∙ **[1989](https://www.last.fm/music/Ryan+Adams/1989)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `15 ▶️` ∙ **[Heartbreaker](https://www.last.fm/music/Ryan+Adams/Heartbreaker)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `15 ▶️` ∙ **[High Violet](https://www.last.fm/music/The+National/High+Violet)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `14 ▶️` ∙ **[Vestigial Spectra](https://www.last.fm/music/Fawn+Limbs/Vestigial+Spectra)** - [Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)<br/>
 > `14 ▶️` ∙ **[Easy Tiger](https://www.last.fm/music/Ryan+Adams/Easy+Tiger)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
+> `13 ▶️` ∙ **[Caught in the Trees](https://www.last.fm/music/Damien+Jurado/Caught+in+the+Trees)** - [Damien Jurado](https://www.last.fm/music/Damien+Jurado)<br/>
 <!--END_LASTFM_ALBUMS-->

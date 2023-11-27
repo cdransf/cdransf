@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[1989](https://www.last.fm/music/Ryan+Adams/1989)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `15 ▶️` ∙ **[Heartbreaker](https://www.last.fm/music/Ryan+Adams/Heartbreaker)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `15 ▶️` ∙ **[High Violet](https://www.last.fm/music/The+National/High+Violet)** - [The National](https://www.last.fm/music/The+National)<br/>
+> `14 ▶️` ∙ **[Obsidian Refractions](https://www.last.fm/music/Cruciamentum/Obsidian+Refractions)** - [Cruciamentum](https://www.last.fm/music/Cruciamentum)<br/>
 > `14 ▶️` ∙ **[Easy Tiger](https://www.last.fm/music/Ryan+Adams/Easy+Tiger)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `13 ▶️` ∙ **[Caught in the Trees](https://www.last.fm/music/Damien+Jurado/Caught+in+the+Trees)** - [Damien Jurado](https://www.last.fm/music/Damien+Jurado)<br/>
-> `13 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 <!--END_LASTFM_ALBUMS-->

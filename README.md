@@ -27,8 +27,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `44 ▶️` ∙ **[Ryan Adams](https://www.last.fm/music/Ryan+Adams)**<br/>
 > `43 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `35 ▶️` ∙ **[Damien Jurado](https://www.last.fm/music/Damien+Jurado)**<br/>
+> `30 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `26 ▶️` ∙ **[Cruciamentum](https://www.last.fm/music/Cruciamentum)**<br/>
-> `25 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `24 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[1989](https://www.last.fm/music/Ryan+Adams/1989)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `15 ▶️` ∙ **[Heartbreaker](https://www.last.fm/music/Ryan+Adams/Heartbreaker)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `15 ▶️` ∙ **[High Violet](https://www.last.fm/music/The+National/High+Violet)** - [The National](https://www.last.fm/music/The+National)<br/>
+> `14 ▶️` ∙ **[Vestigial Spectra](https://www.last.fm/music/Fawn+Limbs/Vestigial+Spectra)** - [Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)<br/>
 > `14 ▶️` ∙ **[Easy Tiger](https://www.last.fm/music/Ryan+Adams/Easy+Tiger)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
-> `13 ▶️` ∙ **[Caught in the Trees](https://www.last.fm/music/Damien+Jurado/Caught+in+the+Trees)** - [Damien Jurado](https://www.last.fm/music/Damien+Jurado)<br/>
 <!--END_LASTFM_ALBUMS-->

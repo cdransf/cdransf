@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `26 ▶️` ∙ **[Cruciamentum](https://www.last.fm/music/Cruciamentum)**<br/>
 > `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
 > `21 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
-> `19 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
+> `18 ▶️` ∙ **[Cock Sparrer](https://www.last.fm/music/Cock+Sparrer)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

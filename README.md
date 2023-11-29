@@ -26,10 +26,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `55 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `44 ▶️` ∙ **[Ryan Adams](https://www.last.fm/music/Ryan+Adams)**<br/>
 > `35 ▶️` ∙ **[Damien Jurado](https://www.last.fm/music/Damien+Jurado)**<br/>
+> `32 ▶️` ∙ **[Osees](https://www.last.fm/music/Osees)**<br/>
 > `30 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `26 ▶️` ∙ **[Cruciamentum](https://www.last.fm/music/Cruciamentum)**<br/>
 > `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
-> `23 ▶️` ∙ **[Osees](https://www.last.fm/music/Osees)**<br/>
 > `21 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

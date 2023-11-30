@@ -24,11 +24,11 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `55 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
-> `44 ▶️` ∙ **[Ryan Adams](https://www.last.fm/music/Ryan+Adams)**<br/>
 > `35 ▶️` ∙ **[Damien Jurado](https://www.last.fm/music/Damien+Jurado)**<br/>
 > `32 ▶️` ∙ **[Osees](https://www.last.fm/music/Osees)**<br/>
 > `31 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `30 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
+> `29 ▶️` ∙ **[Ryan Adams](https://www.last.fm/music/Ryan+Adams)**<br/>
 > `26 ▶️` ∙ **[Cruciamentum](https://www.last.fm/music/Cruciamentum)**<br/>
 > `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `26 ▶️` ∙ **[Obsidian Refractions](https://www.last.fm/music/Cruciamentum/Obsidian+Refractions)** - [Cruciamentum](https://www.last.fm/music/Cruciamentum)<br/>
 > `15 ▶️` ∙ **[1989](https://www.last.fm/music/Ryan+Adams/1989)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
-> `15 ▶️` ∙ **[Heartbreaker](https://www.last.fm/music/Ryan+Adams/Heartbreaker)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `15 ▶️` ∙ **[High Violet](https://www.last.fm/music/The+National/High+Violet)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `14 ▶️` ∙ **[Vestigial Spectra](https://www.last.fm/music/Fawn+Limbs/Vestigial+Spectra)** - [Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)<br/>
 > `14 ▶️` ∙ **[Easy Tiger](https://www.last.fm/music/Ryan+Adams/Easy+Tiger)** - [Ryan Adams](https://www.last.fm/music/Ryan+Adams)<br/>
 > `13 ▶️` ∙ **[Caught in the Trees](https://www.last.fm/music/Damien+Jurado/Caught+in+the+Trees)** - [Damien Jurado](https://www.last.fm/music/Damien+Jurado)<br/>
 > `13 ▶️` ∙ **[Dear You](https://www.last.fm/music/Jawbreaker/Dear+You)** - [Jawbreaker](https://www.last.fm/music/Jawbreaker)<br/>
+> `13 ▶️` ∙ **[Alligator](https://www.last.fm/music/The+National/Alligator)** - [The National](https://www.last.fm/music/The+National)<br/>
 <!--END_LASTFM_ALBUMS-->

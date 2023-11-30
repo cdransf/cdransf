@@ -27,8 +27,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `44 ▶️` ∙ **[Ryan Adams](https://www.last.fm/music/Ryan+Adams)**<br/>
 > `35 ▶️` ∙ **[Damien Jurado](https://www.last.fm/music/Damien+Jurado)**<br/>
 > `32 ▶️` ∙ **[Osees](https://www.last.fm/music/Osees)**<br/>
+> `31 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `30 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
-> `30 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `26 ▶️` ∙ **[Cruciamentum](https://www.last.fm/music/Cruciamentum)**<br/>
 > `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
 <!--END_LASTFM_ARTISTS-->

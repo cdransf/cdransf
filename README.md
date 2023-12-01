@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `31 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
+> `23 ▶️` ∙ **[Gravenchalice](https://www.last.fm/music/Gravenchalice)**<br/>
 > `21 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
-> `21 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[When No Birds Sang](https://www.last.fm/music/Full+of+Hell+&+Nothing/When+No+Birds+Sang)** - [Full of Hell & Nothing](https://www.last.fm/music/Full+of+Hell+&+Nothing)<br/>
 > `15 ▶️` ∙ **[High Violet](https://www.last.fm/music/The+National/High+Violet)** - [The National](https://www.last.fm/music/The+National)<br/>
+> `14 ▶️` ∙ **[Samael](https://www.last.fm/music/Gravenchalice/Samael)** - [Gravenchalice](https://www.last.fm/music/Gravenchalice)<br/>
 > `13 ▶️` ∙ **[Dear You](https://www.last.fm/music/Jawbreaker/Dear+You)** - [Jawbreaker](https://www.last.fm/music/Jawbreaker)<br/>
 > `13 ▶️` ∙ **[Alligator](https://www.last.fm/music/The+National/Alligator)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `13 ▶️` ∙ **[Trouble Will Find Me](https://www.last.fm/music/The+National/Trouble+Will+Find+Me)** - [The National](https://www.last.fm/music/The+National)<br/>
-> `13 ▶️` ∙ **[Voices](https://www.last.fm/music/Wormrot/Voices)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 <!--END_LASTFM_ALBUMS-->

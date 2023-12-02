@@ -23,7 +23,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `51 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
+> `38 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `32 ▶️` ∙ **[Osees](https://www.last.fm/music/Osees)**<br/>
 > `32 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `31 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[High Violet](https://www.last.fm/music/The+National/High+Violet)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `14 ▶️` ∙ **[Samael](https://www.last.fm/music/Gravenchalice/Samael)** - [Gravenchalice](https://www.last.fm/music/Gravenchalice)<br/>
 > `13 ▶️` ∙ **[Dear You](https://www.last.fm/music/Jawbreaker/Dear+You)** - [Jawbreaker](https://www.last.fm/music/Jawbreaker)<br/>
-> `13 ▶️` ∙ **[Alligator](https://www.last.fm/music/The+National/Alligator)** - [The National](https://www.last.fm/music/The+National)<br/>
+> `13 ▶️` ∙ **[Trouble Will Find Me](https://www.last.fm/music/The+National/Trouble+Will+Find+Me)** - [The National](https://www.last.fm/music/The+National)<br/>
 <!--END_LASTFM_ALBUMS-->

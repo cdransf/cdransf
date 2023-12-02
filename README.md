@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `32 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `31 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `25 ▶️` ∙ **[Helfró](https://www.last.fm/music/Helfr%C3%B3)**<br/>
-> `25 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `24 ▶️` ∙ **[Jawbreaker](https://www.last.fm/music/Jawbreaker)**<br/>
 > `23 ▶️` ∙ **[Agalloch](https://www.last.fm/music/Agalloch)**<br/>
 > `23 ▶️` ∙ **[Gravenchalice](https://www.last.fm/music/Gravenchalice)**<br/>
+> `21 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

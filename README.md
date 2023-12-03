@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[When No Birds Sang](https://www.last.fm/music/Full+of+Hell+&+Nothing/When+No+Birds+Sang)** - [Full of Hell & Nothing](https://www.last.fm/music/Full+of+Hell+&+Nothing)<br/>
 > `18 ▶️` ∙ **[Tálgröf](https://www.last.fm/music/Helfr%C3%B3/T%C3%A1lgr%C3%B6f)** - [Helfró](https://www.last.fm/music/Helfr%C3%B3)<br/>
+> `15 ▶️` ∙ **[So Long, Astoria](https://www.last.fm/music/The+Ataris/So+Long,+Astoria)** - [The Ataris](https://www.last.fm/music/The+Ataris)<br/>
 > `14 ▶️` ∙ **[Samael](https://www.last.fm/music/Gravenchalice/Samael)** - [Gravenchalice](https://www.last.fm/music/Gravenchalice)<br/>
 > `13 ▶️` ∙ **[Dear You](https://www.last.fm/music/Jawbreaker/Dear+You)** - [Jawbreaker](https://www.last.fm/music/Jawbreaker)<br/>
 > `13 ▶️` ∙ **[Trouble Will Find Me](https://www.last.fm/music/The+National/Trouble+Will+Find+Me)** - [The National](https://www.last.fm/music/The+National)<br/>
-> `13 ▶️` ∙ **[Voices](https://www.last.fm/music/Wormrot/Voices)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 <!--END_LASTFM_ALBUMS-->

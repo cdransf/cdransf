@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `18 ▶️` ∙ **[Tálgröf](https://www.last.fm/music/Helfr%C3%B3/T%C3%A1lgr%C3%B6f)** - [Helfró](https://www.last.fm/music/Helfr%C3%B3)<br/>
 > `15 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182/blink-182)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `15 ▶️` ∙ **[So Long, Astoria](https://www.last.fm/music/The+Ataris/So+Long,+Astoria)** - [The Ataris](https://www.last.fm/music/The+Ataris)<br/>
+> `14 ▶️` ∙ **[Fresh Fruit for Rotting Vegetables](https://www.last.fm/music/Dead+Kennedys/Fresh+Fruit+for+Rotting+Vegetables)** - [Dead Kennedys](https://www.last.fm/music/Dead+Kennedys)<br/>
 > `14 ▶️` ∙ **[Samael](https://www.last.fm/music/Gravenchalice/Samael)** - [Gravenchalice](https://www.last.fm/music/Gravenchalice)<br/>
-> `13 ▶️` ∙ **[Voices](https://www.last.fm/music/Wormrot/Voices)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 <!--END_LASTFM_ALBUMS-->

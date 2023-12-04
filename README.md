@@ -23,7 +23,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `39 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `41 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `32 ▶️` ∙ **[Osees](https://www.last.fm/music/Osees)**<br/>
 > `32 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `31 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `18 ▶️` ∙ **[Obsidian Refractions](https://www.last.fm/music/Cruciamentum/Obsidian+Refractions)** - [Cruciamentum](https://www.last.fm/music/Cruciamentum)<br/>
 > `18 ▶️` ∙ **[When No Birds Sang](https://www.last.fm/music/Full+of+Hell+&+Nothing/When+No+Birds+Sang)** - [Full of Hell & Nothing](https://www.last.fm/music/Full+of+Hell+&+Nothing)<br/>
 > `18 ▶️` ∙ **[Tálgröf](https://www.last.fm/music/Helfr%C3%B3/T%C3%A1lgr%C3%B6f)** - [Helfró](https://www.last.fm/music/Helfr%C3%B3)<br/>
+> `15 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182/blink-182)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `15 ▶️` ∙ **[So Long, Astoria](https://www.last.fm/music/The+Ataris/So+Long,+Astoria)** - [The Ataris](https://www.last.fm/music/The+Ataris)<br/>
 > `14 ▶️` ∙ **[Samael](https://www.last.fm/music/Gravenchalice/Samael)** - [Gravenchalice](https://www.last.fm/music/Gravenchalice)<br/>
-> `13 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182/blink-182)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 <!--END_LASTFM_ALBUMS-->

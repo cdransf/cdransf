@@ -24,12 +24,12 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `41 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `39 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `35 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `32 ▶️` ∙ **[Osees](https://www.last.fm/music/Osees)**<br/>
 > `32 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
-> `31 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
+> `27 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `25 ▶️` ∙ **[Helfró](https://www.last.fm/music/Helfr%C3%B3)**<br/>
-> `24 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `23 ▶️` ∙ **[Gravenchalice](https://www.last.fm/music/Gravenchalice)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

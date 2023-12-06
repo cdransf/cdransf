@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `32 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `25 ▶️` ∙ **[Helfró](https://www.last.fm/music/Helfr%C3%B3)**<br/>
 > `23 ▶️` ∙ **[Gravenchalice](https://www.last.fm/music/Gravenchalice)**<br/>
+> `20 ▶️` ∙ **[Afsky](https://www.last.fm/music/Afsky)**<br/>
 > `19 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
-> `18 ▶️` ∙ **[Full of Hell & Nothing](https://www.last.fm/music/Full+of+Hell+&+Nothing)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

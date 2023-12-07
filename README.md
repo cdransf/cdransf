@@ -28,8 +28,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `39 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `35 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `32 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
-> `24 ▶️` ∙ **[Helfró](https://www.last.fm/music/Helfr%C3%B3)**<br/>
 > `23 ▶️` ∙ **[Gravenchalice](https://www.last.fm/music/Gravenchalice)**<br/>
+> `22 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `20 ▶️` ∙ **[Afsky](https://www.last.fm/music/Afsky)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

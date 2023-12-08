@@ -24,13 +24,13 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `42 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `42 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `40 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `39 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `35 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
-> `31 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
+> `26 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `23 ▶️` ∙ **[Gravenchalice](https://www.last.fm/music/Gravenchalice)**<br/>
 > `20 ▶️` ∙ **[Afsky](https://www.last.fm/music/Afsky)**<br/>
-> `19 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `18 ▶️` ∙ **[Tálgröf](https://www.last.fm/music/Helfr%C3%B3/T%C3%A1lgr%C3%B6f)** - [Helfró](https://www.last.fm/music/Helfr%C3%B3)<br/>
 > `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `16 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182/blink-182)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
+> `16 ▶️` ∙ **[Persisting Devolution](https://www.last.fm/music/Inculter/Persisting+Devolution)** - [Inculter](https://www.last.fm/music/Inculter)<br/>
 > `15 ▶️` ∙ **[So Long, Astoria](https://www.last.fm/music/The+Ataris/So+Long,+Astoria)** - [The Ataris](https://www.last.fm/music/The+Ataris)<br/>
 > `14 ▶️` ∙ **[Fresh Fruit for Rotting Vegetables](https://www.last.fm/music/Dead+Kennedys/Fresh+Fruit+for+Rotting+Vegetables)** - [Dead Kennedys](https://www.last.fm/music/Dead+Kennedys)<br/>
 > `14 ▶️` ∙ **[Samael](https://www.last.fm/music/Gravenchalice/Samael)** - [Gravenchalice](https://www.last.fm/music/Gravenchalice)<br/>
-> `14 ▶️` ∙ **[Phantom Limb](https://www.last.fm/music/Pig+Destroyer/Phantom+Limb)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 <!--END_LASTFM_ALBUMS-->

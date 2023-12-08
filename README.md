@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `39 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `35 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `33 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
-> `23 ▶️` ∙ **[Gravenchalice](https://www.last.fm/music/Gravenchalice)**<br/>
 > `20 ▶️` ∙ **[Afsky](https://www.last.fm/music/Afsky)**<br/>
+> `17 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[So Long, Astoria](https://www.last.fm/music/The+Ataris/So+Long,+Astoria)** - [The Ataris](https://www.last.fm/music/The+Ataris)<br/>
 > `14 ▶️` ∙ **[All We Love We Leave Behind](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind)** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `14 ▶️` ∙ **[Fresh Fruit for Rotting Vegetables](https://www.last.fm/music/Dead+Kennedys/Fresh+Fruit+for+Rotting+Vegetables)** - [Dead Kennedys](https://www.last.fm/music/Dead+Kennedys)<br/>
-> `14 ▶️` ∙ **[Samael](https://www.last.fm/music/Gravenchalice/Samael)** - [Gravenchalice](https://www.last.fm/music/Gravenchalice)<br/>
+> `14 ▶️` ∙ **[Phantom Limb](https://www.last.fm/music/Pig+Destroyer/Phantom+Limb)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 <!--END_LASTFM_ALBUMS-->

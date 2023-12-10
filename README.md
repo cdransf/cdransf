@@ -26,9 +26,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `42 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `40 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `39 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
-> `35 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `35 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `33 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
+> `26 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 > `20 ▶️` ∙ **[Afsky](https://www.last.fm/music/Afsky)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -36,7 +36,6 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `19 ▶️` ∙ **[Take Off Your Pants and Jacket](https://www.last.fm/music/blink-182/Take+Off+Your+Pants+and+Jacket)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `16 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182/blink-182)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `16 ▶️` ∙ **[Persisting Devolution](https://www.last.fm/music/Inculter/Persisting+Devolution)** - [Inculter](https://www.last.fm/music/Inculter)<br/>
@@ -44,4 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `14 ▶️` ∙ **[Fresh Fruit for Rotting Vegetables](https://www.last.fm/music/Dead+Kennedys/Fresh+Fruit+for+Rotting+Vegetables)** - [Dead Kennedys](https://www.last.fm/music/Dead+Kennedys)<br/>
 > `14 ▶️` ∙ **[Phantom Limb](https://www.last.fm/music/Pig+Destroyer/Phantom+Limb)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 > `14 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
+> `12 ▶️` ∙ **[Jane Doe](https://www.last.fm/music/Converge/Jane+Doe)** - [Converge](https://www.last.fm/music/Converge)<br/>
 <!--END_LASTFM_ALBUMS-->

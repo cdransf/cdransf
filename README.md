@@ -27,7 +27,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `39 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `33 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
-> `33 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
+> `24 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 > `20 ▶️` ∙ **[Afsky](https://www.last.fm/music/Afsky)**<br/>
 > `17 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>

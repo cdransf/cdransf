@@ -39,9 +39,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `16 ▶️` ∙ **[Persisting Devolution](https://www.last.fm/music/Inculter/Persisting+Devolution)** - [Inculter](https://www.last.fm/music/Inculter)<br/>
 > `14 ▶️` ∙ **[All We Love We Leave Behind](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind)** - [Converge](https://www.last.fm/music/Converge)<br/>
-> `14 ▶️` ∙ **[Fresh Fruit for Rotting Vegetables](https://www.last.fm/music/Dead+Kennedys/Fresh+Fruit+for+Rotting+Vegetables)** - [Dead Kennedys](https://www.last.fm/music/Dead+Kennedys)<br/>
 > `14 ▶️` ∙ **[Phantom Limb](https://www.last.fm/music/Pig+Destroyer/Phantom+Limb)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 > `14 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `12 ▶️` ∙ **[Jane Doe](https://www.last.fm/music/Converge/Jane+Doe)** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `12 ▶️` ∙ **[Recitation](https://www.last.fm/music/Envy/Recitation)** - [Envy](https://www.last.fm/music/Envy)<br/>
+> `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 <!--END_LASTFM_ALBUMS-->

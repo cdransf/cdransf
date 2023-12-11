@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `33 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 > `20 ▶️` ∙ **[Afsky](https://www.last.fm/music/Afsky)**<br/>
-> `18 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `17 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
+> `17 ▶️` ∙ **[Universally Estranged](https://www.last.fm/music/Universally+Estranged)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

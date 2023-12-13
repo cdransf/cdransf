@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Jane Doe](https://www.last.fm/music/Converge/Jane+Doe)** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[the whaler](https://www.last.fm/music/home+is+where/the+whaler)** - [home is where](https://www.last.fm/music/home+is+where)<br/>
-> `12 ▶️` ∙ **[Mellon Collie and the Infinite Sadness](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+and+the+Infinite+Sadness)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
+> `11 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 <!--END_LASTFM_ALBUMS-->

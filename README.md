@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `33 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `26 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
-> `20 ▶️` ∙ **[Afsky](https://www.last.fm/music/Afsky)**<br/>
 > `17 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `15 ▶️` ∙ **[home is where](https://www.last.fm/music/home+is+where)**<br/>
 > `14 ▶️` ∙ **[Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)**<br/>
+> `12 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

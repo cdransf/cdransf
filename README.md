@@ -25,9 +25,9 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `42 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `33 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
-> `26 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 > `21 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
+> `21 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `17 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `15 ▶️` ∙ **[home is where](https://www.last.fm/music/home+is+where)**<br/>
 > `14 ▶️` ∙ **[Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)**<br/>
@@ -36,7 +36,6 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `16 ▶️` ∙ **[Persisting Devolution](https://www.last.fm/music/Inculter/Persisting+Devolution)** - [Inculter](https://www.last.fm/music/Inculter)<br/>
 > `14 ▶️` ∙ **[All We Love We Leave Behind](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind)** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `14 ▶️` ∙ **[Phantom Limb](https://www.last.fm/music/Pig+Destroyer/Phantom+Limb)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
@@ -44,4 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Jane Doe](https://www.last.fm/music/Converge/Jane+Doe)** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[the whaler](https://www.last.fm/music/home+is+where/the+whaler)** - [home is where](https://www.last.fm/music/home+is+where)<br/>
+> `11 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 <!--END_LASTFM_ALBUMS-->

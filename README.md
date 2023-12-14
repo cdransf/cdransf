@@ -24,21 +24,21 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `42 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
+> `33 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `29 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
-> `26 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
-> `22 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `21 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `15 ▶️` ∙ **[home is where](https://www.last.fm/music/home+is+where)**<br/>
-> `14 ▶️` ∙ **[Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)**<br/>
+> `14 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
+> `12 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `16 ▶️` ∙ **[A World Lit Only By Fire](https://www.last.fm/music/Godflesh/A+World+Lit+Only+By+Fire)** - [Godflesh](https://www.last.fm/music/Godflesh)<br/>
 > `16 ▶️` ∙ **[Persisting Devolution](https://www.last.fm/music/Inculter/Persisting+Devolution)** - [Inculter](https://www.last.fm/music/Inculter)<br/>
 > `14 ▶️` ∙ **[All We Love We Leave Behind](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind)** - [Converge](https://www.last.fm/music/Converge)<br/>
-> `14 ▶️` ∙ **[Phantom Limb](https://www.last.fm/music/Pig+Destroyer/Phantom+Limb)** - [Pig Destroyer](https://www.last.fm/music/Pig+Destroyer)<br/>
 > `12 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[the whaler](https://www.last.fm/music/home+is+where/the+whaler)** - [home is where](https://www.last.fm/music/home+is+where)<br/>

@@ -24,12 +24,12 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `31 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
-> `29 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `29 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
-> `24 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
+> `26 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
+> `22 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `21 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
-> `21 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
+> `16 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `15 ▶️` ∙ **[Suffering Hour](https://www.last.fm/music/Suffering+Hour)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

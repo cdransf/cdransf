@@ -25,11 +25,11 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `42 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `33 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
+> `31 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `29 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 > `21 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `15 ▶️` ∙ **[home is where](https://www.last.fm/music/home+is+where)**<br/>
-> `14 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `12 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `16 ▶️` ∙ **[Persisting Devolution](https://www.last.fm/music/Inculter/Persisting+Devolution)** - [Inculter](https://www.last.fm/music/Inculter)<br/>
 > `14 ▶️` ∙ **[All We Love We Leave Behind](https://www.last.fm/music/Converge/All+We+Love+We+Leave+Behind)** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `12 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
+> `12 ▶️` ∙ **[You Fail Me](https://www.last.fm/music/Converge/You+Fail+Me)** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[the whaler](https://www.last.fm/music/home+is+where/the+whaler)** - [home is where](https://www.last.fm/music/home+is+where)<br/>
 > `11 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
-> `11 ▶️` ∙ **[Morbid Origin](https://www.last.fm/music/Inculter/Morbid+Origin)** - [Inculter](https://www.last.fm/music/Inculter)<br/>
 <!--END_LASTFM_ALBUMS-->

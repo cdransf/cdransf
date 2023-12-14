@@ -23,10 +23,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `36 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `33 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `31 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `29 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
+> `29 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 > `21 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `15 ▶️` ∙ **[Suffering Hour](https://www.last.fm/music/Suffering+Hour)**<br/>

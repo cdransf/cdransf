@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `16 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `16 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
 > `15 ▶️` ∙ **[Suffering Hour](https://www.last.fm/music/Suffering+Hour)**<br/>
-> `13 ▶️` ∙ **[home is where](https://www.last.fm/music/home+is+where)**<br/>
+> `12 ▶️` ∙ **[Gudsforladt](https://www.last.fm/music/Gudsforladt)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -39,7 +39,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `16 ▶️` ∙ **[A World Lit Only By Fire](https://www.last.fm/music/Godflesh/A+World+Lit+Only+By+Fire)** - [Godflesh](https://www.last.fm/music/Godflesh)<br/>
 > `12 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[You Fail Me](https://www.last.fm/music/Converge/You+Fail+Me)** - [Converge](https://www.last.fm/music/Converge)<br/>
-> `10 ▶️` ∙ **[the whaler](https://www.last.fm/music/home+is+where/the+whaler)** - [home is where](https://www.last.fm/music/home+is+where)<br/>
+> `12 ▶️` ∙ **[Friendship, Love and War](https://www.last.fm/music/Gudsforladt/Friendship,+Love+and+War)** - [Gudsforladt](https://www.last.fm/music/Gudsforladt)<br/>
 > `10 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
 > `9 ▶️` ∙ **[Harnessing Ruin](https://www.last.fm/music/Immolation/Harnessing+Ruin)** - [Immolation](https://www.last.fm/music/Immolation)<br/>
 > `9 ▶️` ∙ **[Morbid Origin](https://www.last.fm/music/Inculter/Morbid+Origin)** - [Inculter](https://www.last.fm/music/Inculter)<br/>

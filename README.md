@@ -23,25 +23,25 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `26 ▶️` ∙ **[Gudsforladt](https://www.last.fm/music/Gudsforladt)**<br/>
 > `26 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `22 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `20 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `17 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `16 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `16 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
-> `15 ▶️` ∙ **[Gudsforladt](https://www.last.fm/music/Gudsforladt)**<br/>
 > `15 ▶️` ∙ **[Suffering Hour](https://www.last.fm/music/Suffering+Hour)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `23 ▶️` ∙ **[Friendship, Love and War](https://www.last.fm/music/Gudsforladt/Friendship,+Love+and+War)** - [Gudsforladt](https://www.last.fm/music/Gudsforladt)<br/>
 > `16 ▶️` ∙ **[A World Lit Only By Fire](https://www.last.fm/music/Godflesh/A+World+Lit+Only+By+Fire)** - [Godflesh](https://www.last.fm/music/Godflesh)<br/>
-> `13 ▶️` ∙ **[Friendship, Love and War](https://www.last.fm/music/Gudsforladt/Friendship,+Love+and+War)** - [Gudsforladt](https://www.last.fm/music/Gudsforladt)<br/>
+> `14 ▶️` ∙ **[A Brief Memoriam](https://www.last.fm/music/Frail+Body/A+Brief+Memoriam)** - [Frail Body](https://www.last.fm/music/Frail+Body)<br/>
+> `14 ▶️` ∙ **[Heirs of Sisyphus](https://www.last.fm/music/Gutter+Instinct/Heirs+of+Sisyphus)** - [Gutter Instinct](https://www.last.fm/music/Gutter+Instinct)<br/>
+> `14 ▶️` ∙ **[Temisto](https://www.last.fm/music/Temisto/Temisto)** - [Temisto](https://www.last.fm/music/Temisto)<br/>
 > `12 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[You Fail Me](https://www.last.fm/music/Converge/You+Fail+Me)** - [Converge](https://www.last.fm/music/Converge)<br/>
 > `10 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
-> `9 ▶️` ∙ **[Harnessing Ruin](https://www.last.fm/music/Immolation/Harnessing+Ruin)** - [Immolation](https://www.last.fm/music/Immolation)<br/>
-> `9 ▶️` ∙ **[Morbid Origin](https://www.last.fm/music/Inculter/Morbid+Origin)** - [Inculter](https://www.last.fm/music/Inculter)<br/>
-> `9 ▶️` ∙ **[Three Cheers for Sweet Revenge](https://www.last.fm/music/My+Chemical+Romance/Three+Cheers+for+Sweet+Revenge)** - [My Chemical Romance](https://www.last.fm/music/My+Chemical+Romance)<br/>
 <!--END_LASTFM_ALBUMS-->

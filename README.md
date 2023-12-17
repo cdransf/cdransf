@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `26 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `22 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `20 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
+> `20 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 > `17 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `16 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `16 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
-> `15 ▶️` ∙ **[Suffering Hour](https://www.last.fm/music/Suffering+Hour)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `14 ▶️` ∙ **[Temisto](https://www.last.fm/music/Temisto/Temisto)** - [Temisto](https://www.last.fm/music/Temisto)<br/>
 > `12 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[You Fail Me](https://www.last.fm/music/Converge/You+Fail+Me)** - [Converge](https://www.last.fm/music/Converge)<br/>
-> `10 ▶️` ∙ **[Dead Kids R.I.P. City](https://www.last.fm/music/Soft+Kill/Dead+Kids+R.I.P.+City)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
+> `10 ▶️` ∙ **[Give a Glimpse of What Yer Not](https://www.last.fm/music/Dinosaur+Jr./Give+a+Glimpse+of+What+Yer+Not)** - [Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)<br/>
 <!--END_LASTFM_ALBUMS-->

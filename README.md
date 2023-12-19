@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `20 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `20 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 > `17 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
+> `17 ▶️` ∙ **[Vektor](https://www.last.fm/music/Vektor)**<br/>
 > `16 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
-> `16 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

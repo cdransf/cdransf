@@ -28,9 +28,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `26 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `22 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `20 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
+> `18 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
 > `17 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
 > `16 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
-> `16 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

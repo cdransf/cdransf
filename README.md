@@ -11,11 +11,11 @@ I build, maintain and design web applications. I've been coding professionally s
 ## 📝 Recent posts
 
 <!-- BLOGPOSTS:START -->
+- [Why I'm leaning into Google services](https://coryd.dev/posts/2023/leaning-into-google-services/)
 - [Programmatically importing your Last.fm listening data to ListenBrainz](https://coryd.dev/posts/2023/programmatically-importing-your-lastfm-listening-data-to-listenbrainz/)
 - [Check in to your personal site](https://coryd.dev/posts/2023/check-in-to-your-personal-site/)
 - [Hacking together a Tweekly.fm replacement](https://coryd.dev/posts/2023/hacking-together-a-tweeklyfm-repalcement/)
 - [Doppler, locally stored music and storage as a beneficial constraint](https://coryd.dev/posts/2023/locally-stored-music-and-storage-as-a-meaningful-constraint/)
-- [My default apps, 2023 edition](https://coryd.dev/posts/2023/default-apps-2023/)
 <!-- BLOGPOSTS:END -->
 
 ## 🎧 What I'm listening to

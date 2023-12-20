@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `25 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `22 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `20 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
-> `17 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
+> `18 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

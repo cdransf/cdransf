@@ -23,25 +23,25 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `31 ▶️` ∙ **[Vektor](https://www.last.fm/music/Vektor)**<br/>
+> `61 ▶️` ∙ **[Vektor](https://www.last.fm/music/Vektor)**<br/>
+> `27 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
 > `26 ▶️` ∙ **[Gudsforladt](https://www.last.fm/music/Gudsforladt)**<br/>
 > `26 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
+> `25 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `22 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `20 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
-> `18 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
 > `17 ▶️` ∙ **[Converge](https://www.last.fm/music/Converge)**<br/>
-> `16 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `23 ▶️` ∙ **[Friendship, Love and War](https://www.last.fm/music/Gudsforladt/Friendship,+Love+and+War)** - [Gudsforladt](https://www.last.fm/music/Gudsforladt)<br/>
+> `20 ▶️` ∙ **[Terminal Redux](https://www.last.fm/music/Vektor/Terminal+Redux)** - [Vektor](https://www.last.fm/music/Vektor)<br/>
+> `19 ▶️` ∙ **[Crack the Skye](https://www.last.fm/music/Mastodon/Crack+the+Skye)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
+> `18 ▶️` ∙ **[Black Future](https://www.last.fm/music/Vektor/Black+Future)** - [Vektor](https://www.last.fm/music/Vektor)<br/>
 > `16 ▶️` ∙ **[A World Lit Only By Fire](https://www.last.fm/music/Godflesh/A+World+Lit+Only+By+Fire)** - [Godflesh](https://www.last.fm/music/Godflesh)<br/>
+> `16 ▶️` ∙ **[Entity](https://www.last.fm/music/Nucleus/Entity)** - [Nucleus](https://www.last.fm/music/Nucleus)<br/>
+> `16 ▶️` ∙ **[Outer Isolation](https://www.last.fm/music/Vektor/Outer+Isolation)** - [Vektor](https://www.last.fm/music/Vektor)<br/>
 > `15 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `14 ▶️` ∙ **[A Brief Memoriam](https://www.last.fm/music/Frail+Body/A+Brief+Memoriam)** - [Frail Body](https://www.last.fm/music/Frail+Body)<br/>
-> `14 ▶️` ∙ **[Heirs of Sisyphus](https://www.last.fm/music/Gutter+Instinct/Heirs+of+Sisyphus)** - [Gutter Instinct](https://www.last.fm/music/Gutter+Instinct)<br/>
-> `14 ▶️` ∙ **[Temisto](https://www.last.fm/music/Temisto/Temisto)** - [Temisto](https://www.last.fm/music/Temisto)<br/>
-> `12 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
-> `12 ▶️` ∙ **[You Fail Me](https://www.last.fm/music/Converge/You+Fail+Me)** - [Converge](https://www.last.fm/music/Converge)<br/>
 <!--END_LASTFM_ALBUMS-->

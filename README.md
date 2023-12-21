@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `26 ▶️` ∙ **[Gudsforladt](https://www.last.fm/music/Gudsforladt)**<br/>
 > `25 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `20 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
-> `17 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `16 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
+> `16 ▶️` ∙ **[Run the Jewels](https://www.last.fm/music/Run+the+Jewels)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

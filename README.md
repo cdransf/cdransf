@@ -26,8 +26,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `61 ▶️` ∙ **[Vektor](https://www.last.fm/music/Vektor)**<br/>
 > `33 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `27 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
-> `26 ▶️` ∙ **[Gudsforladt](https://www.last.fm/music/Gudsforladt)**<br/>
 > `25 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
+> `23 ▶️` ∙ **[Gudsforladt](https://www.last.fm/music/Gudsforladt)**<br/>
 > `20 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 > `16 ▶️` ∙ **[Run the Jewels](https://www.last.fm/music/Run+the+Jewels)**<br/>
 > `15 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
@@ -36,7 +36,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `23 ▶️` ∙ **[Friendship, Love and War](https://www.last.fm/music/Gudsforladt/Friendship,+Love+and+War)** - [Gudsforladt](https://www.last.fm/music/Gudsforladt)<br/>
+> `20 ▶️` ∙ **[Friendship, Love and War](https://www.last.fm/music/Gudsforladt/Friendship,+Love+and+War)** - [Gudsforladt](https://www.last.fm/music/Gudsforladt)<br/>
 > `20 ▶️` ∙ **[Terminal Redux](https://www.last.fm/music/Vektor/Terminal+Redux)** - [Vektor](https://www.last.fm/music/Vektor)<br/>
 > `19 ▶️` ∙ **[Crack the Skye](https://www.last.fm/music/Mastodon/Crack+the+Skye)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
 > `18 ▶️` ∙ **[Black Future](https://www.last.fm/music/Vektor/Black+Future)** - [Vektor](https://www.last.fm/music/Vektor)<br/>

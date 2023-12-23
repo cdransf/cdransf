@@ -27,7 +27,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `33 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `27 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
 > `25 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
-> `20 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
+> `19 ▶️` ∙ **[Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)**<br/>
 > `16 ▶️` ∙ **[Run the Jewels](https://www.last.fm/music/Run+the+Jewels)**<br/>
 > `15 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `15 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>

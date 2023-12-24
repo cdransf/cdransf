@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
 > `16 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `16 ▶️` ∙ **[Run the Jewels](https://www.last.fm/music/Run+the+Jewels)**<br/>
-> `15 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
+> `15 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

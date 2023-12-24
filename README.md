@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `36 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `33 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `25 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
-> `19 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
+> `22 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
+> `19 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `16 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `16 ▶️` ∙ **[Run the Jewels](https://www.last.fm/music/Run+the+Jewels)**<br/>
-> `15 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -39,9 +39,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `34 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `20 ▶️` ∙ **[Terminal Redux](https://www.last.fm/music/Vektor/Terminal+Redux)** - [Vektor](https://www.last.fm/music/Vektor)<br/>
 > `18 ▶️` ∙ **[Black Future](https://www.last.fm/music/Vektor/Black+Future)** - [Vektor](https://www.last.fm/music/Vektor)<br/>
+> `17 ▶️` ∙ **[Crack the Skye](https://www.last.fm/music/Mastodon/Crack+the+Skye)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
 > `16 ▶️` ∙ **[Entity](https://www.last.fm/music/Nucleus/Entity)** - [Nucleus](https://www.last.fm/music/Nucleus)<br/>
 > `16 ▶️` ∙ **[Outer Isolation](https://www.last.fm/music/Vektor/Outer+Isolation)** - [Vektor](https://www.last.fm/music/Vektor)<br/>
 > `15 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `14 ▶️` ∙ **[Shut Your Mouth and Open Your Eyes](https://www.last.fm/music/AFI/Shut+Your+Mouth+and+Open+Your+Eyes)** - [AFI](https://www.last.fm/music/AFI)<br/>
-> `14 ▶️` ∙ **[Crack the Skye](https://www.last.fm/music/Mastodon/Crack+the+Skye)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
 <!--END_LASTFM_ALBUMS-->

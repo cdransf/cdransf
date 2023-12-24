@@ -24,12 +24,12 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `61 ▶️` ∙ **[Vektor](https://www.last.fm/music/Vektor)**<br/>
-> `34 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `36 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `33 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `27 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
 > `25 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
+> `16 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `16 ▶️` ∙ **[Run the Jewels](https://www.last.fm/music/Run+the+Jewels)**<br/>
-> `15 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `15 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

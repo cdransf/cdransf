@@ -24,13 +24,13 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `33 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
-> `27 ▶️` ∙ **[Vektor](https://www.last.fm/music/Vektor)**<br/>
 > `26 ▶️` ∙ **[Mastodon](https://www.last.fm/music/Mastodon)**<br/>
 > `25 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `21 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `19 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `16 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `15 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
+> `14 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `21 ▶️` ∙ **[Crack the Skye](https://www.last.fm/music/Mastodon/Crack+the+Skye)** - [Mastodon](https://www.last.fm/music/Mastodon)<br/>
 > `19 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `18 ▶️` ∙ **[Black Future](https://www.last.fm/music/Vektor/Black+Future)** - [Vektor](https://www.last.fm/music/Vektor)<br/>
 > `16 ▶️` ∙ **[Entity](https://www.last.fm/music/Nucleus/Entity)** - [Nucleus](https://www.last.fm/music/Nucleus)<br/>
 > `15 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `14 ▶️` ∙ **[Shut Your Mouth and Open Your Eyes](https://www.last.fm/music/AFI/Shut+Your+Mouth+and+Open+Your+Eyes)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Beside Myself](https://www.last.fm/music/Basement/Beside+Myself)** - [Basement](https://www.last.fm/music/Basement)<br/>
 > `12 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
+> `11 ▶️` ∙ **[Gris Klein](https://www.last.fm/music/Birds+in+Row/Gris+Klein)** - [Birds in Row](https://www.last.fm/music/Birds+in+Row)<br/>
 <!--END_LASTFM_ALBUMS-->

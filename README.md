@@ -28,9 +28,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `18 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 > `16 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `15 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
+> `15 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 > `15 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `14 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
-> `13 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

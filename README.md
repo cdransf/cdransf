@@ -24,24 +24,24 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `21 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `21 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 > `19 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `18 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 > `16 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
-> `15 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
-> `15 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 > `15 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `14 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
+> `13 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `19 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `15 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Beside Myself](https://www.last.fm/music/Basement/Beside+Myself)** - [Basement](https://www.last.fm/music/Basement)<br/>
 > `12 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `11 ▶️` ∙ **[Gris Klein](https://www.last.fm/music/Birds+in+Row/Gris+Klein)** - [Birds in Row](https://www.last.fm/music/Birds+in+Row)<br/>
 > `11 ▶️` ∙ **[Necroticism - Descanting the Insalubrious](https://www.last.fm/music/Carcass/Necroticism+-+Descanting+the+Insalubrious)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `11 ▶️` ∙ **[Losing What We Love](https://www.last.fm/music/Knuckle+Puck/Losing+What+We+Love)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
 > `10 ▶️` ∙ **[Young Americans](https://www.last.fm/music/David+Bowie/Young+Americans)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
+> `9 ▶️` ∙ **[Embalmed in Decay](https://www.last.fm/music/Carnal+Tomb/Embalmed+in+Decay)** - [Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)<br/>
 <!--END_LASTFM_ALBUMS-->

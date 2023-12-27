@@ -26,7 +26,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `33 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `21 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `19 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
-> `17 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
+> `18 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 > `16 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 > `15 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `14 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>

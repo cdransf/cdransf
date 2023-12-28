@@ -25,11 +25,11 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `21 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `21 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
+> `21 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
 > `19 ▶️` ∙ **[Funebrarum](https://www.last.fm/music/Funebrarum)**<br/>
 > `19 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `18 ▶️` ∙ **[Cerebral Rot](https://www.last.fm/music/Cerebral+Rot)**<br/>
 > `18 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
-> `17 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
 > `16 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -37,7 +37,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `19 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `17 ▶️` ∙ **[Prying Sight Of Imperception](https://www.last.fm/music/Galvanizer/Prying+Sight+Of+Imperception)** - [Galvanizer](https://www.last.fm/music/Galvanizer)<br/>
+> `18 ▶️` ∙ **[Prying Sight Of Imperception](https://www.last.fm/music/Galvanizer/Prying+Sight+Of+Imperception)** - [Galvanizer](https://www.last.fm/music/Galvanizer)<br/>
 > `12 ▶️` ∙ **[Beside Myself](https://www.last.fm/music/Basement/Beside+Myself)** - [Basement](https://www.last.fm/music/Basement)<br/>
 > `12 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `11 ▶️` ∙ **[Gris Klein](https://www.last.fm/music/Birds+in+Row/Gris+Klein)** - [Birds in Row](https://www.last.fm/music/Birds+in+Row)<br/>

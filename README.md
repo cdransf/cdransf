@@ -26,11 +26,11 @@ I build, maintain and design web applications. I've been coding professionally s
 > `21 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `21 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 > `19 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
+> `18 ▶️` ∙ **[Cerebral Rot](https://www.last.fm/music/Cerebral+Rot)**<br/>
 > `18 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 > `16 ▶️` ∙ **[Basement](https://www.last.fm/music/Basement)**<br/>
-> `15 ▶️` ∙ **[Cerebral Rot](https://www.last.fm/music/Cerebral+Rot)**<br/>
+> `16 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 > `15 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
-> `13 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `11 ▶️` ∙ **[Gris Klein](https://www.last.fm/music/Birds+in+Row/Gris+Klein)** - [Birds in Row](https://www.last.fm/music/Birds+in+Row)<br/>
 > `11 ▶️` ∙ **[Losing What We Love](https://www.last.fm/music/Knuckle+Puck/Losing+What+We+Love)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
 > `10 ▶️` ∙ **[Young Americans](https://www.last.fm/music/David+Bowie/Young+Americans)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
+> `10 ▶️` ∙ **[Hygiene](https://www.last.fm/music/Drug+Church/Hygiene)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
 > `9 ▶️` ∙ **[Embalmed in Decay](https://www.last.fm/music/Carnal+Tomb/Embalmed+in+Decay)** - [Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)<br/>
-> `8 ▶️` ∙ **[Metta World Peace](https://www.last.fm/music/Soft+Kill/Metta+World+Peace)** - [Soft Kill](https://www.last.fm/music/Soft+Kill)<br/>
 <!--END_LASTFM_ALBUMS-->

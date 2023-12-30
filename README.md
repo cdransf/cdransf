@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[Funebrarum](https://www.last.fm/music/Funebrarum)**<br/>
 > `19 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `18 ▶️` ∙ **[Cerebral Rot](https://www.last.fm/music/Cerebral+Rot)**<br/>
-> `18 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
+> `18 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

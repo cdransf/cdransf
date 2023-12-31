@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `24 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `21 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 > `21 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
+> `21 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
 > `19 ▶️` ∙ **[Funebrarum](https://www.last.fm/music/Funebrarum)**<br/>
 > `18 ▶️` ∙ **[Cerebral Rot](https://www.last.fm/music/Cerebral+Rot)**<br/>
 > `18 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
-> `17 ▶️` ∙ **[LCD Soundsystem](https://www.last.fm/music/LCD+Soundsystem)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

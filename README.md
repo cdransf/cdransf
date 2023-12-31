@@ -24,12 +24,12 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `26 ▶️` ∙ **[Fleshwater](https://www.last.fm/music/Fleshwater)**<br/>
+> `23 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `21 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 > `21 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
 > `19 ▶️` ∙ **[Funebrarum](https://www.last.fm/music/Funebrarum)**<br/>
 > `19 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `18 ▶️` ∙ **[Cerebral Rot](https://www.last.fm/music/Cerebral+Rot)**<br/>
-> `18 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `18 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `18 ▶️` ∙ **[Prying Sight Of Imperception](https://www.last.fm/music/Galvanizer/Prying+Sight+Of+Imperception)** - [Galvanizer](https://www.last.fm/music/Galvanizer)<br/>
 > `14 ▶️` ∙ **[Sounds of Grieving](https://www.last.fm/music/Fleshwater/Sounds+of+Grieving)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
+> `12 ▶️` ∙ **[The Worldhood of the World (As Such)](https://www.last.fm/music/NoMeansNo/The+Worldhood+of+the+World+(As+Such))** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `12 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `11 ▶️` ∙ **[Losing What We Love](https://www.last.fm/music/Knuckle+Puck/Losing+What+We+Love)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
 > `11 ▶️` ∙ **[0 + 2 = 1](https://www.last.fm/music/NoMeansNo/0+%252B+2+=+1)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `10 ▶️` ∙ **[Young Americans](https://www.last.fm/music/David+Bowie/Young+Americans)** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `10 ▶️` ∙ **[Hygiene](https://www.last.fm/music/Drug+Church/Hygiene)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
-> `9 ▶️` ∙ **[Embalmed in Decay](https://www.last.fm/music/Carnal+Tomb/Embalmed+in+Decay)** - [Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -28,9 +28,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `21 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 > `21 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
 > `21 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
+> `20 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 > `19 ▶️` ∙ **[Funebrarum](https://www.last.fm/music/Funebrarum)**<br/>
 > `18 ▶️` ∙ **[Cerebral Rot](https://www.last.fm/music/Cerebral+Rot)**<br/>
-> `18 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[High Top Mountain](https://www.last.fm/music/Sturgill+Simpson/High+Top+Mountain)** - [Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)<br/>
 > `11 ▶️` ∙ **[0 + 2 = 1](https://www.last.fm/music/NoMeansNo/0+%252B+2+=+1)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `10 ▶️` ∙ **[Hygiene](https://www.last.fm/music/Drug+Church/Hygiene)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
-> `9 ▶️` ∙ **[Embalmed in Decay](https://www.last.fm/music/Carnal+Tomb/Embalmed+in+Decay)** - [Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)<br/>
-> `9 ▶️` ∙ **[Odious Descent Into Decay](https://www.last.fm/music/Cerebral+Rot/Odious+Descent+Into+Decay)** - [Cerebral Rot](https://www.last.fm/music/Cerebral+Rot)<br/>
+> `10 ▶️` ∙ **[Supporting Caste](https://www.last.fm/music/Propagandhi/Supporting+Caste)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
+> `10 ▶️` ∙ **[Victory Lap](https://www.last.fm/music/Propagandhi/Victory+Lap)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 <!--END_LASTFM_ALBUMS-->

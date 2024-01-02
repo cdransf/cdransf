@@ -23,14 +23,14 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `28 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `26 ▶️` ∙ **[Fleshwater](https://www.last.fm/music/Fleshwater)**<br/>
 > `25 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
-> `24 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `24 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 > `21 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 > `21 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
 > `21 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
 > `19 ▶️` ∙ **[Funebrarum](https://www.last.fm/music/Funebrarum)**<br/>
-> `18 ▶️` ∙ **[Cerebral Rot](https://www.last.fm/music/Cerebral+Rot)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

@@ -26,7 +26,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `28 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `26 ▶️` ∙ **[Fleshwater](https://www.last.fm/music/Fleshwater)**<br/>
 > `25 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
-> `24 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
+> `23 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 > `21 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 > `21 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
 > `21 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>

@@ -23,7 +23,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `44 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
+> `45 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `28 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `26 ▶️` ∙ **[Fleshwater](https://www.last.fm/music/Fleshwater)**<br/>
 > `25 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
@@ -36,7 +36,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `25 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
+> `26 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `18 ▶️` ∙ **[Prying Sight Of Imperception](https://www.last.fm/music/Galvanizer/Prying+Sight+Of+Imperception)** - [Galvanizer](https://www.last.fm/music/Galvanizer)<br/>
 > `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `15 ▶️` ∙ **[Victory Lap](https://www.last.fm/music/Propagandhi/Victory+Lap)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>

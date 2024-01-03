@@ -26,11 +26,11 @@ I build, maintain and design web applications. I've been coding professionally s
 > `45 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `34 ▶️` ∙ **[Voivod](https://www.last.fm/music/Voivod)**<br/>
 > `28 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `27 ▶️` ∙ **[Glassing](https://www.last.fm/music/Glassing)**<br/>
 > `26 ▶️` ∙ **[Fleshwater](https://www.last.fm/music/Fleshwater)**<br/>
 > `25 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 > `23 ▶️` ∙ **[Hyperdontia](https://www.last.fm/music/Hyperdontia)**<br/>
 > `22 ▶️` ∙ **[Cryptworm](https://www.last.fm/music/Cryptworm)**<br/>
-> `21 ▶️` ∙ **[Carnal Tomb](https://www.last.fm/music/Carnal+Tomb)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

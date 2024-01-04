@@ -37,11 +37,11 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `26 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
-> `18 ▶️` ∙ **[Prying Sight Of Imperception](https://www.last.fm/music/Galvanizer/Prying+Sight+Of+Imperception)** - [Galvanizer](https://www.last.fm/music/Galvanizer)<br/>
 > `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `15 ▶️` ∙ **[Victory Lap](https://www.last.fm/music/Propagandhi/Victory+Lap)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 > `14 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `14 ▶️` ∙ **[Sounds of Grieving](https://www.last.fm/music/Fleshwater/Sounds+of+Grieving)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
 > `13 ▶️` ∙ **[The Worldhood of the World (As Such)](https://www.last.fm/music/NoMeansNo/The+Worldhood+of+the+World+(As+Such))** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `12 ▶️` ∙ **[High Top Mountain](https://www.last.fm/music/Sturgill+Simpson/High+Top+Mountain)** - [Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)<br/>
+> `11 ▶️` ∙ **[Twin Dream](https://www.last.fm/music/Glassing/Twin+Dream)** - [Glassing](https://www.last.fm/music/Glassing)<br/>
 <!--END_LASTFM_ALBUMS-->

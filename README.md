@@ -25,7 +25,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `47 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `45 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
-> `35 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `40 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `34 ▶️` ∙ **[Voivod](https://www.last.fm/music/Voivod)**<br/>
 > `31 ▶️` ∙ **[Glassing](https://www.last.fm/music/Glassing)**<br/>
 > `28 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[Victory Lap](https://www.last.fm/music/Propagandhi/Victory+Lap)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 > `14 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[The Worldhood of the World (As Such)](https://www.last.fm/music/NoMeansNo/The+Worldhood+of+the+World+(As+Such))** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
-> `12 ▶️` ∙ **[Moving Pictures](https://www.last.fm/music/Rush/Moving+Pictures)** - [Rush](https://www.last.fm/music/Rush)<br/>
+> `12 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 <!--END_LASTFM_ALBUMS-->

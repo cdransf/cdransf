@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `28 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `28 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
 > `25 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
-> `24 ▶️` ∙ **[Ulthar](https://www.last.fm/music/Ulthar)**<br/>
+> `25 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[Victory Lap](https://www.last.fm/music/Propagandhi/Victory+Lap)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 > `14 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[The Worldhood of the World (As Such)](https://www.last.fm/music/NoMeansNo/The+Worldhood+of+the+World+(As+Such))** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
-> `12 ▶️` ∙ **[High Top Mountain](https://www.last.fm/music/Sturgill+Simpson/High+Top+Mountain)** - [Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)<br/>
+> `12 ▶️` ∙ **[Moving Pictures](https://www.last.fm/music/Rush/Moving+Pictures)** - [Rush](https://www.last.fm/music/Rush)<br/>
 <!--END_LASTFM_ALBUMS-->

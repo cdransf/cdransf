@@ -28,8 +28,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `45 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `34 ▶️` ∙ **[Voivod](https://www.last.fm/music/Voivod)**<br/>
 > `31 ▶️` ∙ **[Glassing](https://www.last.fm/music/Glassing)**<br/>
+> `28 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 > `28 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
-> `27 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 > `25 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

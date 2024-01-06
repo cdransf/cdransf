@@ -25,7 +25,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `47 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `45 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
-> `42 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `39 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `34 ▶️` ∙ **[Voivod](https://www.last.fm/music/Voivod)**<br/>
 > `32 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 > `31 ▶️` ∙ **[Glassing](https://www.last.fm/music/Glassing)**<br/>
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `21 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `18 ▶️` ∙ **[Moving Pictures](https://www.last.fm/music/Rush/Moving+Pictures)** - [Rush](https://www.last.fm/music/Rush)<br/>
+> `15 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `15 ▶️` ∙ **[Victory Lap](https://www.last.fm/music/Propagandhi/Victory+Lap)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 > `14 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
-> `14 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 <!--END_LASTFM_ALBUMS-->

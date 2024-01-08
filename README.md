@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `18 ▶️` ∙ **[Exit](https://www.last.fm/music/Rotten+Sound/Exit)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `18 ▶️` ∙ **[Moving Pictures](https://www.last.fm/music/Rush/Moving+Pictures)** - [Rush](https://www.last.fm/music/Rush)<br/>
 > `15 ▶️` ∙ **[Dude Ranch](https://www.last.fm/music/blink-182/Dude+Ranch)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `14 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
+> `14 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 <!--END_LASTFM_ALBUMS-->

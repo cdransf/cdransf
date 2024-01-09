@@ -25,10 +25,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `47 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `45 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
+> `40 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `36 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `34 ▶️` ∙ **[Voivod](https://www.last.fm/music/Voivod)**<br/>
 > `31 ▶️` ∙ **[Glassing](https://www.last.fm/music/Glassing)**<br/>
-> `30 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `30 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `28 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
 <!--END_LASTFM_ARTISTS-->

@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `37 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `36 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `36 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `31 ▶️` ∙ **[Glassing](https://www.last.fm/music/Glassing)**<br/>
-> `30 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `28 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
-> `26 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
+> `25 ▶️` ∙ **[Rush](https://www.last.fm/music/Rush)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -39,7 +39,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `25 ▶️` ∙ **[Dirge](https://www.last.fm/music/Wormrot/Dirge)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `21 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `20 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `18 ▶️` ∙ **[Moving Pictures](https://www.last.fm/music/Rush/Moving+Pictures)** - [Rush](https://www.last.fm/music/Rush)<br/>
+> `17 ▶️` ∙ **[Moving Pictures](https://www.last.fm/music/Rush/Moving+Pictures)** - [Rush](https://www.last.fm/music/Rush)<br/>
 > `15 ▶️` ∙ **[Dude Ranch](https://www.last.fm/music/blink-182/Dude+Ranch)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `14 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `12 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>

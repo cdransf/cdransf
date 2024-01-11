@@ -28,9 +28,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `37 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `36 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
-> `27 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
+> `29 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
 > `22 ▶️` ∙ **[Inanna](https://www.last.fm/music/Inanna)**<br/>
-> `17 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
+> `17 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[Dude Ranch](https://www.last.fm/music/blink-182/Dude+Ranch)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `14 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `12 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
-> `11 ▶️` ∙ **[Prodigal sun](https://www.last.fm/music/Afflicted/Prodigal+sun)** - [Afflicted](https://www.last.fm/music/Afflicted)<br/>
-> `11 ▶️` ∙ **[Morbidity Triumphant](https://www.last.fm/music/Autopsy/Morbidity+Triumphant)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
+> `12 ▶️` ∙ **[Atonement](https://www.last.fm/music/Immolation/Atonement)** - [Immolation](https://www.last.fm/music/Immolation)<br/>
+> `12 ▶️` ∙ **[Black Death Horizon](https://www.last.fm/music/Obliteration/Black+Death+Horizon)** - [Obliteration](https://www.last.fm/music/Obliteration)<br/>
 <!--END_LASTFM_ALBUMS-->

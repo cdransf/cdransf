@@ -29,7 +29,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `37 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `36 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `22 ▶️` ∙ **[Inanna](https://www.last.fm/music/Inanna)**<br/>
-> `21 ▶️` ∙ **[Ulthar](https://www.last.fm/music/Ulthar)**<br/>
+> `18 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
 > `17 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

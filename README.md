@@ -23,10 +23,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `47 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `42 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `40 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `37 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
+> `37 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `36 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `34 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `29 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
@@ -37,11 +37,11 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `25 ▶️` ∙ **[Dirge](https://www.last.fm/music/Wormrot/Dirge)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
-> `21 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `20 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `15 ▶️` ∙ **[Dude Ranch](https://www.last.fm/music/blink-182/Dude+Ranch)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `14 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `12 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 > `12 ▶️` ∙ **[Atonement](https://www.last.fm/music/Immolation/Atonement)** - [Immolation](https://www.last.fm/music/Immolation)<br/>
 > `12 ▶️` ∙ **[Black Death Horizon](https://www.last.fm/music/Obliteration/Black+Death+Horizon)** - [Obliteration](https://www.last.fm/music/Obliteration)<br/>
+> `11 ▶️` ∙ **[Prodigal sun](https://www.last.fm/music/Afflicted/Prodigal+sun)** - [Afflicted](https://www.last.fm/music/Afflicted)<br/>
 <!--END_LASTFM_ALBUMS-->

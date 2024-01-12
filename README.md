@@ -26,8 +26,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `37 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `36 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
-> `36 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `34 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
+> `31 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `29 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
 > `25 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `22 ▶️` ∙ **[Inanna](https://www.last.fm/music/Inanna)**<br/>

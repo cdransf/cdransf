@@ -29,7 +29,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `34 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `31 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `29 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
-> `25 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
+> `26 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `22 ▶️` ∙ **[Inanna](https://www.last.fm/music/Inanna)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

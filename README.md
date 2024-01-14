@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `28 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 > `28 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
-> `14 ▶️` ∙ **[Venenum](https://www.last.fm/music/Venenum)**<br/>
+> `17 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `11 ▶️` ∙ **[Prodigal sun](https://www.last.fm/music/Afflicted/Prodigal+sun)** - [Afflicted](https://www.last.fm/music/Afflicted)<br/>
 > `11 ▶️` ∙ **[Morbidity Triumphant](https://www.last.fm/music/Autopsy/Morbidity+Triumphant)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 > `11 ▶️` ∙ **[The Furnaces of Palingenesia](https://www.last.fm/music/Deathspell+Omega/The+Furnaces+of+Palingenesia)** - [Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)<br/>
+> `11 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `11 ▶️` ∙ **[20/20](https://www.last.fm/music/Knuckle+Puck/20%2F20)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
-> `11 ▶️` ∙ **[Losing What We Love](https://www.last.fm/music/Knuckle+Puck/Losing+What+We+Love)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
 <!--END_LASTFM_ALBUMS-->

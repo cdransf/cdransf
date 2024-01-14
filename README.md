@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `28 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 > `28 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
-> `14 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `14 ▶️` ∙ **[Venenum](https://www.last.fm/music/Venenum)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

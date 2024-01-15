@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[Atonement](https://www.last.fm/music/Immolation/Atonement)** - [Immolation](https://www.last.fm/music/Immolation)<br/>
 > `12 ▶️` ∙ **[Black Death Horizon](https://www.last.fm/music/Obliteration/Black+Death+Horizon)** - [Obliteration](https://www.last.fm/music/Obliteration)<br/>
-> `11 ▶️` ∙ **[Prodigal sun](https://www.last.fm/music/Afflicted/Prodigal+sun)** - [Afflicted](https://www.last.fm/music/Afflicted)<br/>
 > `11 ▶️` ∙ **[Morbidity Triumphant](https://www.last.fm/music/Autopsy/Morbidity+Triumphant)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
+> `11 ▶️` ∙ **[The Furnaces of Palingenesia](https://www.last.fm/music/Deathspell+Omega/The+Furnaces+of+Palingenesia)** - [Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)<br/>
 <!--END_LASTFM_ALBUMS-->

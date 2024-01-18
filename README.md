@@ -28,9 +28,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `26 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `20 ▶️` ∙ **[Eluvium](https://www.last.fm/music/Eluvium)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
-> `17 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `14 ▶️` ∙ **[Wolves in the Throne Room](https://www.last.fm/music/Wolves+in+the+Throne+Room)**<br/>
 > `11 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
+> `11 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

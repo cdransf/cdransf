@@ -26,10 +26,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `34 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 > `34 ▶️` ∙ **[Immolation](https://www.last.fm/music/Immolation)**<br/>
 > `28 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
-> `28 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
-> `24 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `19 ▶️` ∙ **[Obliteration](https://www.last.fm/music/Obliteration)**<br/>
+> `15 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `14 ▶️` ∙ **[Wolves in the Throne Room](https://www.last.fm/music/Wolves+in+the+Throne+Room)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[Atonement](https://www.last.fm/music/Immolation/Atonement)** - [Immolation](https://www.last.fm/music/Immolation)<br/>
-> `12 ▶️` ∙ **[Black Death Horizon](https://www.last.fm/music/Obliteration/Black+Death+Horizon)** - [Obliteration](https://www.last.fm/music/Obliteration)<br/>
-> `11 ▶️` ∙ **[20/20](https://www.last.fm/music/Knuckle+Puck/20%2F20)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
 > `11 ▶️` ∙ **[Losing What We Love](https://www.last.fm/music/Knuckle+Puck/Losing+What+We+Love)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
 > `10 ▶️` ∙ **[Cheer](https://www.last.fm/music/Drug+Church/Cheer)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
+> `10 ▶️` ∙ **[Hygiene](https://www.last.fm/music/Drug+Church/Hygiene)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
+> `10 ▶️` ∙ **[We're Not Here to Be Loved](https://www.last.fm/music/Fleshwater/We%27re+Not+Here+to+Be+Loved)** - [Fleshwater](https://www.last.fm/music/Fleshwater)<br/>
 <!--END_LASTFM_ALBUMS-->

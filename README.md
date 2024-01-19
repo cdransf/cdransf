@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `20 ▶️` ∙ **[Eluvium](https://www.last.fm/music/Eluvium)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `19 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
-> `13 ▶️` ∙ **[Wolves in the Throne Room](https://www.last.fm/music/Wolves+in+the+Throne+Room)**<br/>
+> `12 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

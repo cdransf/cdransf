@@ -27,8 +27,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `28 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 > `20 ▶️` ∙ **[Eluvium](https://www.last.fm/music/Eluvium)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `18 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `14 ▶️` ∙ **[Wolves in the Throne Room](https://www.last.fm/music/Wolves+in+the+Throne+Room)**<br/>
-> `11 ▶️` ∙ **[Envy](https://www.last.fm/music/Envy)**<br/>
 > `11 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `11 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `12 ▶️` ∙ **[Copia](https://www.last.fm/music/Eluvium/Copia)** - [Eluvium](https://www.last.fm/music/Eluvium)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
+> `12 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `11 ▶️` ∙ **[Losing What We Love](https://www.last.fm/music/Knuckle+Puck/Losing+What+We+Love)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
 > `11 ▶️` ∙ **[Feel It All Around](https://www.last.fm/music/Soul+Blind/Feel+It+All+Around)** - [Soul Blind](https://www.last.fm/music/Soul+Blind)<br/>
 > `10 ▶️` ∙ **[Cheer](https://www.last.fm/music/Drug+Church/Cheer)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
-> `10 ▶️` ∙ **[Hygiene](https://www.last.fm/music/Drug+Church/Hygiene)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
 <!--END_LASTFM_ALBUMS-->

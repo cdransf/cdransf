@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `11 ▶️` ∙ **[Feel It All Around](https://www.last.fm/music/Soul+Blind/Feel+It+All+Around)** - [Soul Blind](https://www.last.fm/music/Soul+Blind)<br/>
-> `10 ▶️` ∙ **[Cheer](https://www.last.fm/music/Drug+Church/Cheer)** - [Drug Church](https://www.last.fm/music/Drug+Church)<br/>
+> `11 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
 <!--END_LASTFM_ALBUMS-->

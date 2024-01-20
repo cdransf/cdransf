@@ -25,12 +25,12 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `40 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `34 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
-> `28 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 > `21 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `20 ▶️` ∙ **[Eluvium](https://www.last.fm/music/Eluvium)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `19 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `12 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
+> `11 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

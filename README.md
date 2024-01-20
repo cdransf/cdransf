@@ -24,7 +24,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `79 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
-> `57 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
+> `53 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 > `43 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `40 ▶️` ∙ **[Eluvium](https://www.last.fm/music/Eluvium)**<br/>
 > `39 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
@@ -39,7 +39,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `79 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `43 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `36 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `33 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
+> `29 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `29 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `24 ▶️` ∙ **[Copia](https://www.last.fm/music/Eluvium/Copia)** - [Eluvium](https://www.last.fm/music/Eluvium)<br/>
 > `24 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>

@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Eluvium](https://www.last.fm/music/Eluvium)**<br/>
 > `39 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `36 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `25 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 > `24 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
-> `22 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

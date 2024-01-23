@@ -26,8 +26,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `79 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `43 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `40 ▶️` ∙ **[Eluvium](https://www.last.fm/music/Eluvium)**<br/>
+> `30 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `29 ▶️` ∙ **[Cloud Rat](https://www.last.fm/music/Cloud+Rat)**<br/>
-> `29 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `25 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 > `24 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 > `22 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
@@ -38,7 +38,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `79 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `43 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
-> `29 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
+> `30 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `24 ▶️` ∙ **[Copia](https://www.last.fm/music/Eluvium/Copia)** - [Eluvium](https://www.last.fm/music/Eluvium)<br/>
 > `24 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `22 ▶️` ∙ **[Feel It All Around](https://www.last.fm/music/Soul+Blind/Feel+It+All+Around)** - [Soul Blind](https://www.last.fm/music/Soul+Blind)<br/>

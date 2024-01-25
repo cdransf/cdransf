@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `25 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 > `24 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 > `19 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
-> `18 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
+> `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `24 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[The Blind Hole](https://www.last.fm/music/Dead+In+The+Dirt/The+Blind+Hole)** - [Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)<br/>
-> `18 ▶️` ∙ **[Feel It All Around](https://www.last.fm/music/Soul+Blind/Feel+It+All+Around)** - [Soul Blind](https://www.last.fm/music/Soul+Blind)<br/>
 > `15 ▶️` ∙ **[Threshold](https://www.last.fm/music/Cloud+Rat/Threshold)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
+> `14 ▶️` ∙ **[Pollinator](https://www.last.fm/music/Cloud+Rat/Pollinator)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
 <!--END_LASTFM_ALBUMS-->

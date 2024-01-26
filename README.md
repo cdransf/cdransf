@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `19 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
-> `1 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
+> `12 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[Threshold](https://www.last.fm/music/Cloud+Rat/Threshold)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
 > `14 ▶️` ∙ **[Pollinator](https://www.last.fm/music/Cloud+Rat/Pollinator)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
 > `13 ▶️` ∙ **[Alligator](https://www.last.fm/music/The+National/Alligator)** - [The National](https://www.last.fm/music/The+National)<br/>
-> `12 ▶️` ∙ **[0 + 2 = 1](https://www.last.fm/music/NoMeansNo/0+%252B+2+=+1)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
+> `12 ▶️` ∙ **[Concealed](https://www.last.fm/music/Augury/Concealed)** - [Augury](https://www.last.fm/music/Augury)<br/>
 <!--END_LASTFM_ALBUMS-->

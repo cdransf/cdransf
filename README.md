@@ -24,10 +24,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `79 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
-> `36 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `29 ▶️` ∙ **[Cloud Rat](https://www.last.fm/music/Cloud+Rat)**<br/>
 > `25 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 > `19 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `19 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `19 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `12 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
@@ -37,7 +37,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `79 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
-> `36 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
+> `19 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[The Blind Hole](https://www.last.fm/music/Dead+In+The+Dirt/The+Blind+Hole)** - [Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)<br/>
 > `15 ▶️` ∙ **[Threshold](https://www.last.fm/music/Cloud+Rat/Threshold)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>

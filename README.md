@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `43 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `29 ▶️` ∙ **[Cloud Rat](https://www.last.fm/music/Cloud+Rat)**<br/>
 > `25 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
-> `23 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
+> `19 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `19 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
-> `12 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `7 ▶️` ∙ **[Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `79 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `43 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
-> `23 ▶️` ∙ **[No Joy](https://www.last.fm/music/Spanish+Love+Songs/No+Joy)** - [Spanish Love Songs](https://www.last.fm/music/Spanish+Love+Songs)<br/>
 > `19 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[The Blind Hole](https://www.last.fm/music/Dead+In+The+Dirt/The+Blind+Hole)** - [Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)<br/>
 > `15 ▶️` ∙ **[Threshold](https://www.last.fm/music/Cloud+Rat/Threshold)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
 > `14 ▶️` ∙ **[Pollinator](https://www.last.fm/music/Cloud+Rat/Pollinator)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
 > `13 ▶️` ∙ **[Alligator](https://www.last.fm/music/The+National/Alligator)** - [The National](https://www.last.fm/music/The+National)<br/>
+> `12 ▶️` ∙ **[0 + 2 = 1](https://www.last.fm/music/NoMeansNo/0+%252B+2+=+1)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 <!--END_LASTFM_ALBUMS-->

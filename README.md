@@ -11,11 +11,11 @@ I build, maintain and design web applications. I've been coding professionally s
 ## 📝 Recent posts
 
 <!-- BLOGPOSTS:START -->
+- [You don't need a framework for that](https://coryd.dev/posts/2024/you-dont-need-a-framework-for-that/)
+- [Mobile web development with Codespaces](https://coryd.dev/posts/2024/mobile-web-development-with-codespaces/)
 - [Your attention is precious](https://coryd.dev/posts/2024/your-attention-is-precious/)
 - [Link page improvements](https://coryd.dev/posts/2024/link-page-improvements/)
 - [Link blogging using Readwise Reader](https://coryd.dev/posts/2024/link-blogging-using-readwise/)
-- [Your site, your home, your web](https://coryd.dev/posts/2024/your-site-your-home-your-web/)
-- [I found the music I love on the internet](https://coryd.dev/posts/2024/i-found-the-music-i-love-on-the-internet/)
 <!-- BLOGPOSTS:END -->
 
 ## 🎧 What I'm listening to

@@ -25,17 +25,18 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `29 ▶️` ∙ **[Cloud Rat](https://www.last.fm/music/Cloud+Rat)**<br/>
 > `19 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `16 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `12 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
 > `11 ▶️` ∙ **[Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)**<br/>
 > `10 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
 > `7 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
-> `7 ▶️` ∙ **[Olhava](https://www.last.fm/music/Olhava)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `16 ▶️` ∙ **[Take Off Your Pants and Jacket](https://www.last.fm/music/blink-182/Take+Off+Your+Pants+and+Jacket)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `15 ▶️` ∙ **[Threshold](https://www.last.fm/music/Cloud+Rat/Threshold)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
 > `14 ▶️` ∙ **[Pollinator](https://www.last.fm/music/Cloud+Rat/Pollinator)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
 > `13 ▶️` ∙ **[Alligator](https://www.last.fm/music/The+National/Alligator)** - [The National](https://www.last.fm/music/The+National)<br/>
@@ -43,5 +44,4 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[0 + 2 = 1](https://www.last.fm/music/NoMeansNo/0+%252B+2+=+1)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `11 ▶️` ∙ **[Blood, Hair, and Eyeballs](https://www.last.fm/music/Alkaline+Trio/Blood,+Hair,+and+Eyeballs)** - [Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)<br/>
 > `7 ▶️` ∙ **[Cendres Célestes](https://www.last.fm/music/Cantique+L%C3%A9preux/Cendres+C%C3%A9lestes)** - [Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)<br/>
-> `7 ▶️` ∙ **[Sacrifice](https://www.last.fm/music/Olhava/Sacrifice)** - [Olhava](https://www.last.fm/music/Olhava)<br/>
 <!--END_LASTFM_ALBUMS-->

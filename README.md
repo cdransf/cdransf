@@ -27,8 +27,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `12 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
-> `10 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
-> `9 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
+> `11 ▶️` ∙ **[Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)**<br/>
+> `10 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
 > `7 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
 > `7 ▶️` ∙ **[Olhava](https://www.last.fm/music/Olhava)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `13 ▶️` ∙ **[Alligator](https://www.last.fm/music/The+National/Alligator)** - [The National](https://www.last.fm/music/The+National)<br/>
 > `12 ▶️` ∙ **[Concealed](https://www.last.fm/music/Augury/Concealed)** - [Augury](https://www.last.fm/music/Augury)<br/>
 > `12 ▶️` ∙ **[0 + 2 = 1](https://www.last.fm/music/NoMeansNo/0+%252B+2+=+1)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
-> `8 ▶️` ∙ **[The Blind Hole](https://www.last.fm/music/Dead+In+The+Dirt/The+Blind+Hole)** - [Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)<br/>
+> `11 ▶️` ∙ **[Blood, Hair, and Eyeballs](https://www.last.fm/music/Alkaline+Trio/Blood,+Hair,+and+Eyeballs)** - [Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)<br/>
 > `7 ▶️` ∙ **[Cendres Célestes](https://www.last.fm/music/Cantique+L%C3%A9preux/Cendres+C%C3%A9lestes)** - [Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)<br/>
 > `7 ▶️` ∙ **[Sacrifice](https://www.last.fm/music/Olhava/Sacrifice)** - [Olhava](https://www.last.fm/music/Olhava)<br/>
 <!--END_LASTFM_ALBUMS-->

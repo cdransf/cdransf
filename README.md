@@ -24,8 +24,8 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `29 ▶️` ∙ **[Cloud Rat](https://www.last.fm/music/Cloud+Rat)**<br/>
-> `19 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
-> `16 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `23 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `12 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
 > `11 ▶️` ∙ **[Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)**<br/>
@@ -36,7 +36,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `16 ▶️` ∙ **[Take Off Your Pants and Jacket](https://www.last.fm/music/blink-182/Take+Off+Your+Pants+and+Jacket)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
+> `19 ▶️` ∙ **[Take Off Your Pants and Jacket](https://www.last.fm/music/blink-182/Take+Off+Your+Pants+and+Jacket)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `15 ▶️` ∙ **[Threshold](https://www.last.fm/music/Cloud+Rat/Threshold)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
 > `14 ▶️` ∙ **[Pollinator](https://www.last.fm/music/Cloud+Rat/Pollinator)** - [Cloud Rat](https://www.last.fm/music/Cloud+Rat)<br/>
 > `13 ▶️` ∙ **[Alligator](https://www.last.fm/music/The+National/Alligator)** - [The National](https://www.last.fm/music/The+National)<br/>

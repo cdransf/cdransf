@@ -24,12 +24,12 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `23 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `23 ▶️` ∙ **[Resurgency](https://www.last.fm/music/Resurgency)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `12 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
 > `12 ▶️` ∙ **[Sovereign](https://www.last.fm/music/Sovereign)**<br/>
 > `11 ▶️` ∙ **[Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)**<br/>
-> `11 ▶️` ∙ **[Resurgency](https://www.last.fm/music/Resurgency)**<br/>
 > `10 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Concealed](https://www.last.fm/music/Augury/Concealed)** - [Augury](https://www.last.fm/music/Augury)<br/>
 > `12 ▶️` ∙ **[0 + 2 = 1](https://www.last.fm/music/NoMeansNo/0+%252B+2+=+1)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `11 ▶️` ∙ **[Blood, Hair, and Eyeballs](https://www.last.fm/music/Alkaline+Trio/Blood,+Hair,+and+Eyeballs)** - [Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)<br/>
+> `10 ▶️` ∙ **[False Enlightenment](https://www.last.fm/music/Resurgency/False+Enlightenment)** - [Resurgency](https://www.last.fm/music/Resurgency)<br/>
 > `10 ▶️` ∙ **[It's Time...To Rise from the Grave](https://www.last.fm/music/Undeath/It%27s+Time...To+Rise+from+the+Grave)** - [Undeath](https://www.last.fm/music/Undeath)<br/>
 > `9 ▶️` ∙ **[Negative Life](https://www.last.fm/music/Replicant/Negative+Life)** - [Replicant](https://www.last.fm/music/Replicant)<br/>
-> `9 ▶️` ∙ **[No Worlds... Nor Gods Beyond](https://www.last.fm/music/Resurgency/No+Worlds...+Nor+Gods+Beyond)** - [Resurgency](https://www.last.fm/music/Resurgency)<br/>
 <!--END_LASTFM_ALBUMS-->

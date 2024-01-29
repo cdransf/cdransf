@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `11 ▶️` ∙ **[Blood, Hair, and Eyeballs](https://www.last.fm/music/Alkaline+Trio/Blood,+Hair,+and+Eyeballs)** - [Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)<br/>
 > `10 ▶️` ∙ **[It's Time...To Rise from the Grave](https://www.last.fm/music/Undeath/It%27s+Time...To+Rise+from+the+Grave)** - [Undeath](https://www.last.fm/music/Undeath)<br/>
 > `9 ▶️` ∙ **[Negative Life](https://www.last.fm/music/Replicant/Negative+Life)** - [Replicant](https://www.last.fm/music/Replicant)<br/>
-> `7 ▶️` ∙ **[Cendres Célestes](https://www.last.fm/music/Cantique+L%C3%A9preux/Cendres+C%C3%A9lestes)** - [Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)<br/>
+> `8 ▶️` ∙ **[Altered Realities](https://www.last.fm/music/Sovereign/Altered+Realities)** - [Sovereign](https://www.last.fm/music/Sovereign)<br/>
 <!--END_LASTFM_ALBUMS-->

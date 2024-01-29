@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `12 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
+> `12 ▶️` ∙ **[Sovereign](https://www.last.fm/music/Sovereign)**<br/>
 > `11 ▶️` ∙ **[Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)**<br/>
+> `11 ▶️` ∙ **[Resurgency](https://www.last.fm/music/Resurgency)**<br/>
 > `10 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
-> `10 ▶️` ∙ **[Undeath](https://www.last.fm/music/Undeath)**<br/>
-> `9 ▶️` ∙ **[Replicant](https://www.last.fm/music/Replicant)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `11 ▶️` ∙ **[Blood, Hair, and Eyeballs](https://www.last.fm/music/Alkaline+Trio/Blood,+Hair,+and+Eyeballs)** - [Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)<br/>
 > `10 ▶️` ∙ **[It's Time...To Rise from the Grave](https://www.last.fm/music/Undeath/It%27s+Time...To+Rise+from+the+Grave)** - [Undeath](https://www.last.fm/music/Undeath)<br/>
 > `9 ▶️` ∙ **[Negative Life](https://www.last.fm/music/Replicant/Negative+Life)** - [Replicant](https://www.last.fm/music/Replicant)<br/>
-> `8 ▶️` ∙ **[Altered Realities](https://www.last.fm/music/Sovereign/Altered+Realities)** - [Sovereign](https://www.last.fm/music/Sovereign)<br/>
+> `9 ▶️` ∙ **[No Worlds... Nor Gods Beyond](https://www.last.fm/music/Resurgency/No+Worlds...+Nor+Gods+Beyond)** - [Resurgency](https://www.last.fm/music/Resurgency)<br/>
 <!--END_LASTFM_ALBUMS-->

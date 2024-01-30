@@ -23,10 +23,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `29 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `23 ▶️` ∙ **[Resurgency](https://www.last.fm/music/Resurgency)**<br/>
 > `22 ▶️` ∙ **[Hyperdontia](https://www.last.fm/music/Hyperdontia)**<br/>
 > `22 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
-> `21 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 > `15 ▶️` ∙ **[Cruciamentum](https://www.last.fm/music/Cruciamentum)**<br/>
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[0 + 2 = 1](https://www.last.fm/music/NoMeansNo/0+%252B+2+=+1)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `11 ▶️` ∙ **[Blood, Hair, and Eyeballs](https://www.last.fm/music/Alkaline+Trio/Blood,+Hair,+and+Eyeballs)** - [Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)<br/>
 > `11 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
-> `10 ▶️` ∙ **[Morbidity Triumphant](https://www.last.fm/music/Autopsy/Morbidity+Triumphant)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
+> `11 ▶️` ∙ **[Morbidity Triumphant](https://www.last.fm/music/Autopsy/Morbidity+Triumphant)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 > `10 ▶️` ∙ **[False Enlightenment](https://www.last.fm/music/Resurgency/False+Enlightenment)** - [Resurgency](https://www.last.fm/music/Resurgency)<br/>
 <!--END_LASTFM_ALBUMS-->

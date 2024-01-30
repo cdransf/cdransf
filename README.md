@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
 > `12 ▶️` ∙ **[Sovereign](https://www.last.fm/music/Sovereign)**<br/>
 > `11 ▶️` ∙ **[Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)**<br/>
-> `10 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
+> `10 ▶️` ∙ **[Cruciamentum](https://www.last.fm/music/Cruciamentum)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

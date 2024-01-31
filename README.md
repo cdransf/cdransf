@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `23 ▶️` ∙ **[Resurgency](https://www.last.fm/music/Resurgency)**<br/>
 > `22 ▶️` ∙ **[Hyperdontia](https://www.last.fm/music/Hyperdontia)**<br/>
 > `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
+> `17 ▶️` ∙ **[Suffering Hour](https://www.last.fm/music/Suffering+Hour)**<br/>
 > `17 ▶️` ∙ **[Unaussprechlichen Kulten](https://www.last.fm/music/Unaussprechlichen+Kulten)**<br/>
-> `16 ▶️` ∙ **[The National](https://www.last.fm/music/The+National)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

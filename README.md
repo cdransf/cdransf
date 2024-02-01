@@ -23,8 +23,8 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `37 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `35 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
-> `31 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `30 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `29 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `23 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Concealed](https://www.last.fm/music/Augury/Concealed)** - [Augury](https://www.last.fm/music/Augury)<br/>
 > `12 ▶️` ∙ **[Sleeper Vessels](https://www.last.fm/music/Fawn+Limbs/Sleeper+Vessels)** - [Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)<br/>
 > `12 ▶️` ∙ **[0 + 2 = 1](https://www.last.fm/music/NoMeansNo/0+%252B+2+=+1)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
+> `12 ▶️` ∙ **[Sentient](https://www.last.fm/music/Nucleus/Sentient)** - [Nucleus](https://www.last.fm/music/Nucleus)<br/>
 > `11 ▶️` ∙ **[Blood, Hair, and Eyeballs](https://www.last.fm/music/Alkaline+Trio/Blood,+Hair,+and+Eyeballs)** - [Alkaline Trio](https://www.last.fm/music/Alkaline+Trio)<br/>
 > `11 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
-> `11 ▶️` ∙ **[Morbidity Triumphant](https://www.last.fm/music/Autopsy/Morbidity+Triumphant)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 <!--END_LASTFM_ALBUMS-->

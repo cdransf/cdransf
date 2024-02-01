@@ -24,13 +24,13 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `35 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
+> `31 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `30 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `29 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `23 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>
 > `23 ▶️` ∙ **[Resurgency](https://www.last.fm/music/Resurgency)**<br/>
 > `22 ▶️` ∙ **[Hyperdontia](https://www.last.fm/music/Hyperdontia)**<br/>
 > `22 ▶️` ∙ **[Khthoniik Cerviiks](https://www.last.fm/music/Khthoniik+Cerviiks)**<br/>
-> `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

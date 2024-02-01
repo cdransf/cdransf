@@ -23,9 +23,9 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `52 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `37 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `35 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
-> `31 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `30 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `29 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `23 ▶️` ∙ **[Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)**<br/>

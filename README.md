@@ -27,9 +27,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `37 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `35 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 > `30 ▶️` ∙ **[Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)**<br/>
-> `30 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `29 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `29 ▶️` ∙ **[Unaussprechlichen Kulten](https://www.last.fm/music/Unaussprechlichen+Kulten)**<br/>
+> `26 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `24 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -38,9 +38,9 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `22 ▶️` ∙ **[The Blind Hole](https://www.last.fm/music/Dead+In+The+Dirt/The+Blind+Hole)** - [Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)<br/>
 > `14 ▶️` ∙ **[Lower Form Resistance](https://www.last.fm/music/dissimulator/Lower+Form+Resistance)** - [dissimulator](https://www.last.fm/music/dissimulator)<br/>
+> `14 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[Chapters Of Repugnance](https://www.last.fm/music/Defeated+Sanity/Chapters+Of+Repugnance)** - [Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)<br/>
 > `12 ▶️` ∙ **[Sleeper Vessels](https://www.last.fm/music/Fawn+Limbs/Sleeper+Vessels)** - [Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)<br/>
-> `12 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[Sentient](https://www.last.fm/music/Nucleus/Sentient)** - [Nucleus](https://www.last.fm/music/Nucleus)<br/>
 > `12 ▶️` ∙ **[Häxan Sabaoth](https://www.last.fm/music/Unaussprechlichen+Kulten/H%C3%A4xan+Sabaoth)** - [Unaussprechlichen Kulten](https://www.last.fm/music/Unaussprechlichen+Kulten)<br/>
 > `11 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>

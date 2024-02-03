@@ -37,10 +37,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `22 ▶️` ∙ **[The Blind Hole](https://www.last.fm/music/Dead+In+The+Dirt/The+Blind+Hole)** - [Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)<br/>
-> `19 ▶️` ∙ **[Take Off Your Pants and Jacket](https://www.last.fm/music/blink-182/Take+Off+Your+Pants+and+Jacket)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `14 ▶️` ∙ **[Lower Form Resistance](https://www.last.fm/music/dissimulator/Lower+Form+Resistance)** - [dissimulator](https://www.last.fm/music/dissimulator)<br/>
 > `12 ▶️` ∙ **[Chapters Of Repugnance](https://www.last.fm/music/Defeated+Sanity/Chapters+Of+Repugnance)** - [Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)<br/>
 > `12 ▶️` ∙ **[Sleeper Vessels](https://www.last.fm/music/Fawn+Limbs/Sleeper+Vessels)** - [Fawn Limbs](https://www.last.fm/music/Fawn+Limbs)<br/>
+> `12 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `12 ▶️` ∙ **[Sentient](https://www.last.fm/music/Nucleus/Sentient)** - [Nucleus](https://www.last.fm/music/Nucleus)<br/>
 > `12 ▶️` ∙ **[Häxan Sabaoth](https://www.last.fm/music/Unaussprechlichen+Kulten/H%C3%A4xan+Sabaoth)** - [Unaussprechlichen Kulten](https://www.last.fm/music/Unaussprechlichen+Kulten)<br/>
 > `11 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>

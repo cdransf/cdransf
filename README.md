@@ -24,13 +24,13 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `52 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
+> `37 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `37 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `35 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
 > `35 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `30 ▶️` ∙ **[Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)**<br/>
 > `29 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `29 ▶️` ∙ **[Unaussprechlichen Kulten](https://www.last.fm/music/Unaussprechlichen+Kulten)**<br/>
-> `26 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

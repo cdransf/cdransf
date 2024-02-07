@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `22 ▶️` ∙ **[The Blind Hole](https://www.last.fm/music/Dead+In+The+Dirt/The+Blind+Hole)** - [Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)<br/>
 > `21 ▶️` ∙ **[Lower Form Resistance](https://www.last.fm/music/dissimulator/Lower+Form+Resistance)** - [dissimulator](https://www.last.fm/music/dissimulator)<br/>
+> `17 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `14 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `14 ▶️` ∙ **[Panoptic Horror](https://www.last.fm/music/Sepulcher/Panoptic+Horror)** - [Sepulcher](https://www.last.fm/music/Sepulcher)<br/>
 > `13 ▶️` ∙ **[Crash Love](https://www.last.fm/music/AFI/Crash+Love)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Chapters Of Repugnance](https://www.last.fm/music/Defeated+Sanity/Chapters+Of+Repugnance)** - [Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)<br/>
-> `12 ▶️` ∙ **[Sentient](https://www.last.fm/music/Nucleus/Sentient)** - [Nucleus](https://www.last.fm/music/Nucleus)<br/>
 <!--END_LASTFM_ALBUMS-->

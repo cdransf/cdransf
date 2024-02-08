@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 > `30 ▶️` ∙ **[Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)**<br/>
 > `27 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `24 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
-> `24 ▶️` ∙ **[Sepulcher](https://www.last.fm/music/Sepulcher)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,7 +38,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `32 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `21 ▶️` ∙ **[Lower Form Resistance](https://www.last.fm/music/dissimulator/Lower+Form+Resistance)** - [dissimulator](https://www.last.fm/music/dissimulator)<br/>
-> `14 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
+> `18 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `14 ▶️` ∙ **[Panoptic Horror](https://www.last.fm/music/Sepulcher/Panoptic+Horror)** - [Sepulcher](https://www.last.fm/music/Sepulcher)<br/>
 > `13 ▶️` ∙ **[Crash Love](https://www.last.fm/music/AFI/Crash+Love)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>

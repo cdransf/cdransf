@@ -25,23 +25,23 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `52 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `37 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
-> `37 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
-> `35 ▶️` ∙ **[Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)**<br/>
+> `34 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
+> `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 > `30 ▶️` ∙ **[Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)**<br/>
-> `28 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 > `27 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `24 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
+> `24 ▶️` ∙ **[Sepulcher](https://www.last.fm/music/Sepulcher)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `28 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
-> `22 ▶️` ∙ **[The Blind Hole](https://www.last.fm/music/Dead+In+The+Dirt/The+Blind+Hole)** - [Dead In The Dirt](https://www.last.fm/music/Dead+In+The+Dirt)<br/>
+> `32 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `21 ▶️` ∙ **[Lower Form Resistance](https://www.last.fm/music/dissimulator/Lower+Form+Resistance)** - [dissimulator](https://www.last.fm/music/dissimulator)<br/>
 > `14 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `14 ▶️` ∙ **[Panoptic Horror](https://www.last.fm/music/Sepulcher/Panoptic+Horror)** - [Sepulcher](https://www.last.fm/music/Sepulcher)<br/>
 > `13 ▶️` ∙ **[Crash Love](https://www.last.fm/music/AFI/Crash+Love)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Chapters Of Repugnance](https://www.last.fm/music/Defeated+Sanity/Chapters+Of+Repugnance)** - [Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)<br/>
+> `12 ▶️` ∙ **[Häxan Sabaoth](https://www.last.fm/music/Unaussprechlichen+Kulten/H%C3%A4xan+Sabaoth)** - [Unaussprechlichen Kulten](https://www.last.fm/music/Unaussprechlichen+Kulten)<br/>
 <!--END_LASTFM_ALBUMS-->

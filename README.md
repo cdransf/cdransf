@@ -25,12 +25,12 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `52 ▶️` ∙ **[Portrayal of Guilt](https://www.last.fm/music/Portrayal+of+Guilt)**<br/>
 > `37 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
-> `34 ▶️` ∙ **[Nucleus](https://www.last.fm/music/Nucleus)**<br/>
 > `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 > `30 ▶️` ∙ **[Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)**<br/>
 > `27 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `24 ▶️` ∙ **[Galvanizer](https://www.last.fm/music/Galvanizer)**<br/>
+> `24 ▶️` ∙ **[Sepulcher](https://www.last.fm/music/Sepulcher)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

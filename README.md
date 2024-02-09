@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `24 ▶️` ∙ **[Sepulcher](https://www.last.fm/music/Sepulcher)**<br/>
 > `21 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
-> `19 ▶️` ∙ **[Vektor](https://www.last.fm/music/Vektor)**<br/>
 > `16 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
+> `16 ▶️` ∙ **[Vertebra Atlantis](https://www.last.fm/music/Vertebra+Atlantis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `32 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `18 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
+> `14 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `14 ▶️` ∙ **[Panoptic Horror](https://www.last.fm/music/Sepulcher/Panoptic+Horror)** - [Sepulcher](https://www.last.fm/music/Sepulcher)<br/>
 > `13 ▶️` ∙ **[Crash Love](https://www.last.fm/music/AFI/Crash+Love)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[Decrepit Flesh Relic](https://www.last.fm/music/CIVEROUS/Decrepit+Flesh+Relic)** - [CIVEROUS](https://www.last.fm/music/CIVEROUS)<br/>
 > `12 ▶️` ∙ **[Chapters Of Repugnance](https://www.last.fm/music/Defeated+Sanity/Chapters+Of+Repugnance)** - [Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)<br/>
-> `11 ▶️` ∙ **[Burials](https://www.last.fm/music/AFI/Burials)** - [AFI](https://www.last.fm/music/AFI)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -28,7 +28,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `30 ▶️` ∙ **[Defeated Sanity](https://www.last.fm/music/Defeated+Sanity)**<br/>
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `24 ▶️` ∙ **[Sepulcher](https://www.last.fm/music/Sepulcher)**<br/>
-> `23 ▶️` ∙ **[Dissimulator](https://www.last.fm/music/Dissimulator)**<br/>
+> `21 ▶️` ∙ **[Dissimulator](https://www.last.fm/music/Dissimulator)**<br/>
 > `21 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `19 ▶️` ∙ **[Vektor](https://www.last.fm/music/Vektor)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -37,7 +37,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `32 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
-> `21 ▶️` ∙ **[Lower Form Resistance](https://www.last.fm/music/dissimulator/Lower+Form+Resistance)** - [dissimulator](https://www.last.fm/music/dissimulator)<br/>
+> `19 ▶️` ∙ **[Lower Form Resistance](https://www.last.fm/music/dissimulator/Lower+Form+Resistance)** - [dissimulator](https://www.last.fm/music/dissimulator)<br/>
 > `18 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `14 ▶️` ∙ **[Panoptic Horror](https://www.last.fm/music/Sepulcher/Panoptic+Horror)** - [Sepulcher](https://www.last.fm/music/Sepulcher)<br/>
 > `13 ▶️` ∙ **[Crash Love](https://www.last.fm/music/AFI/Crash+Love)** - [AFI](https://www.last.fm/music/AFI)<br/>

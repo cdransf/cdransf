@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `24 ▶️` ∙ **[Sepulcher](https://www.last.fm/music/Sepulcher)**<br/>
 > `16 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
-> `16 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
+> `16 ▶️` ∙ **[Vertebra Atlantis](https://www.last.fm/music/Vertebra+Atlantis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

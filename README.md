@@ -28,9 +28,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `28 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `27 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
+> `19 ▶️` ∙ **[Vircolac](https://www.last.fm/music/Vircolac)**<br/>
 > `16 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 > `16 ▶️` ∙ **[Vertebra Atlantis](https://www.last.fm/music/Vertebra+Atlantis)**<br/>
-> `15 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `13 ▶️` ∙ **[Crash Love](https://www.last.fm/music/AFI/Crash+Love)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[Decrepit Flesh Relic](https://www.last.fm/music/CIVEROUS/Decrepit+Flesh+Relic)** - [CIVEROUS](https://www.last.fm/music/CIVEROUS)<br/>
+> `13 ▶️` ∙ **[Masque](https://www.last.fm/music/Vircolac/Masque)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
 > `12 ▶️` ∙ **[Echoes Of Light](https://www.last.fm/music/Chapel+of+Disease/Echoes+Of+Light)** - [Chapel of Disease](https://www.last.fm/music/Chapel+of+Disease)<br/>
-> `11 ▶️` ∙ **[Burials](https://www.last.fm/music/AFI/Burials)** - [AFI](https://www.last.fm/music/AFI)<br/>
 <!--END_LASTFM_ALBUMS-->

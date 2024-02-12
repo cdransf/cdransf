@@ -25,7 +25,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `37 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
-> `31 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
+> `32 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `28 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `27 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>

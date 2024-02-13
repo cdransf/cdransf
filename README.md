@@ -26,11 +26,11 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 > `32 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `28 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
-> `27 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `27 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `20 ▶️` ∙ **[Vircolac](https://www.last.fm/music/Vircolac)**<br/>
 > `18 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
+> `17 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `28 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `18 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `14 ▶️` ∙ **[Masque](https://www.last.fm/music/Vircolac/Masque)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
-> `13 ▶️` ∙ **[Crash Love](https://www.last.fm/music/AFI/Crash+Love)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[Decrepit Flesh Relic](https://www.last.fm/music/CIVEROUS/Decrepit+Flesh+Relic)** - [CIVEROUS](https://www.last.fm/music/CIVEROUS)<br/>
 > `12 ▶️` ∙ **[Neighborhoods](https://www.last.fm/music/blink-182/Neighborhoods)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `12 ▶️` ∙ **[Echoes Of Light](https://www.last.fm/music/Chapel+of+Disease/Echoes+Of+Light)** - [Chapel of Disease](https://www.last.fm/music/Chapel+of+Disease)<br/>
+> `11 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -24,12 +24,12 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `40 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
-> `37 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `32 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `28 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
+> `27 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `27 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
-> `19 ▶️` ∙ **[Vircolac](https://www.last.fm/music/Vircolac)**<br/>
+> `20 ▶️` ∙ **[Vircolac](https://www.last.fm/music/Vircolac)**<br/>
 > `18 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -39,9 +39,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `28 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `18 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
+> `14 ▶️` ∙ **[Masque](https://www.last.fm/music/Vircolac/Masque)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
 > `13 ▶️` ∙ **[Crash Love](https://www.last.fm/music/AFI/Crash+Love)** - [AFI](https://www.last.fm/music/AFI)<br/>
-> `13 ▶️` ∙ **[Decemberunderground](https://www.last.fm/music/AFI/Decemberunderground)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[Decrepit Flesh Relic](https://www.last.fm/music/CIVEROUS/Decrepit+Flesh+Relic)** - [CIVEROUS](https://www.last.fm/music/CIVEROUS)<br/>
-> `13 ▶️` ∙ **[Masque](https://www.last.fm/music/Vircolac/Masque)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
 > `12 ▶️` ∙ **[Neighborhoods](https://www.last.fm/music/blink-182/Neighborhoods)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
+> `12 ▶️` ∙ **[Echoes Of Light](https://www.last.fm/music/Chapel+of+Disease/Echoes+Of+Light)** - [Chapel of Disease](https://www.last.fm/music/Chapel+of+Disease)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -27,8 +27,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `32 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `28 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `27 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
+> `27 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
-> `26 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
 > `24 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `20 ▶️` ∙ **[Vircolac](https://www.last.fm/music/Vircolac)**<br/>
 <!--END_LASTFM_ARTISTS-->

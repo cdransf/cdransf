@@ -23,20 +23,20 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `38 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
+> `40 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 > `37 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `32 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `28 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `27 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
 > `19 ▶️` ∙ **[Vircolac](https://www.last.fm/music/Vircolac)**<br/>
-> `16 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
+> `18 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `38 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
+> `40 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `28 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `18 ▶️` ∙ **[Integrated Tech Solutions](https://www.last.fm/music/Aesop+Rock/Integrated+Tech+Solutions)** - [Aesop Rock](https://www.last.fm/music/Aesop+Rock)<br/>
 > `13 ▶️` ∙ **[Crash Love](https://www.last.fm/music/AFI/Crash+Love)** - [AFI](https://www.last.fm/music/AFI)<br/>

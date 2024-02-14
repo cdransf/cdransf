@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `27 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `27 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
 > `26 ▶️` ∙ **[Aesop Rock](https://www.last.fm/music/Aesop+Rock)**<br/>
+> `26 ▶️` ∙ **[Deafheaven](https://www.last.fm/music/Deafheaven)**<br/>
 > `24 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
-> `21 ▶️` ∙ **[Deafheaven](https://www.last.fm/music/Deafheaven)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

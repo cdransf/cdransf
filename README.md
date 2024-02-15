@@ -23,7 +23,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `37 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
+> `40 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `32 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `28 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `28 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
@@ -38,9 +38,9 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `28 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `18 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
+> `16 ▶️` ∙ **[Abuse To Suffer](https://www.last.fm/music/Rotten+Sound/Abuse+To+Suffer)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `14 ▶️` ∙ **[Neighborhoods](https://www.last.fm/music/blink-182/Neighborhoods)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `14 ▶️` ∙ **[Masque](https://www.last.fm/music/Vircolac/Masque)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
-> `13 ▶️` ∙ **[Abuse To Suffer](https://www.last.fm/music/Rotten+Sound/Abuse+To+Suffer)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `12 ▶️` ∙ **[Echoes Of Light](https://www.last.fm/music/Chapel+of+Disease/Echoes+Of+Light)** - [Chapel of Disease](https://www.last.fm/music/Chapel+of+Disease)<br/>
 > `12 ▶️` ∙ **[What's So Fucking Funny?](https://www.last.fm/music/Webbed+Wing/What%27s+So+Fucking+Funny%3F)** - [Webbed Wing](https://www.last.fm/music/Webbed+Wing)<br/>
 > `11 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>

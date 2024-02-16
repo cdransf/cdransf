@@ -24,8 +24,8 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `40 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
+> `37 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `32 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
-> `31 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `28 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `28 ▶️` ∙ **[Rotted](https://www.last.fm/music/+noredirect/Rotted)**<br/>
 > `27 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>

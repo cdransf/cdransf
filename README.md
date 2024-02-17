@@ -24,7 +24,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `40 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
-> `37 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
+> `38 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `32 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `28 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `28 ▶️` ∙ **[Rotted](https://www.last.fm/music/+noredirect/Rotted)**<br/>
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `18 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `16 ▶️` ∙ **[Abuse To Suffer](https://www.last.fm/music/Rotten+Sound/Abuse+To+Suffer)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `14 ▶️` ∙ **[Neighborhoods](https://www.last.fm/music/blink-182/Neighborhoods)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `14 ▶️` ∙ **[Masque](https://www.last.fm/music/Vircolac/Masque)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
 > `13 ▶️` ∙ **[A World Lit Only By Fire](https://www.last.fm/music/Godflesh/A+World+Lit+Only+By+Fire)** - [Godflesh](https://www.last.fm/music/Godflesh)<br/>
+> `12 ▶️` ∙ **[Why Would I Watch](https://www.last.fm/music/Hot+Mulligan/Why+Would+I+Watch)** - [Hot Mulligan](https://www.last.fm/music/Hot+Mulligan)<br/>
+> `12 ▶️` ∙ **[Masque](https://www.last.fm/music/Vircolac/Masque)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
 > `12 ▶️` ∙ **[What's So Fucking Funny?](https://www.last.fm/music/Webbed+Wing/What%27s+So+Fucking+Funny%3F)** - [Webbed Wing](https://www.last.fm/music/Webbed+Wing)<br/>
-> `11 ▶️` ∙ **[Lessons That We Swear to Keep](https://www.last.fm/music/Free+Throw/Lessons+That+We+Swear+to+Keep)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `28 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `28 ▶️` ∙ **[Rotted](https://www.last.fm/music/+noredirect/Rotted)**<br/>
 > `27 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
-> `27 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `27 ▶️` ∙ **[Mgła](https://www.last.fm/music/Mg%C5%82a)**<br/>
+> `26 ▶️` ∙ **[Deafheaven](https://www.last.fm/music/Deafheaven)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

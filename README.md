@@ -26,8 +26,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `38 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `35 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
-> `32 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `32 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
+> `29 ▶️` ∙ **[Inculter](https://www.last.fm/music/Inculter)**<br/>
 > `28 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `28 ▶️` ∙ **[Rotted](https://www.last.fm/music/+noredirect/Rotted)**<br/>
 > `27 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>

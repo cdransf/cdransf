@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `28 ▶️` ∙ **[Deathspell Omega](https://www.last.fm/music/Deathspell+Omega)**<br/>
 > `28 ▶️` ∙ **[Rotted](https://www.last.fm/music/+noredirect/Rotted)**<br/>
 > `27 ▶️` ∙ **[Augury](https://www.last.fm/music/Augury)**<br/>
-> `26 ▶️` ∙ **[Deafheaven](https://www.last.fm/music/Deafheaven)**<br/>
+> `26 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `18 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `16 ▶️` ∙ **[Abuse To Suffer](https://www.last.fm/music/Rotten+Sound/Abuse+To+Suffer)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `16 ▶️` ∙ **[Bad as Me](https://www.last.fm/music/Tom+Waits/Bad+as+Me)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
-> `14 ▶️` ∙ **[Neighborhoods](https://www.last.fm/music/blink-182/Neighborhoods)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `13 ▶️` ∙ **[A World Lit Only By Fire](https://www.last.fm/music/Godflesh/A+World+Lit+Only+By+Fire)** - [Godflesh](https://www.last.fm/music/Godflesh)<br/>
+> `12 ▶️` ∙ **[Sing the Sorrow](https://www.last.fm/music/AFI/Sing+the+Sorrow)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Why Would I Watch](https://www.last.fm/music/Hot+Mulligan/Why+Would+I+Watch)** - [Hot Mulligan](https://www.last.fm/music/Hot+Mulligan)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -11,11 +11,11 @@ I build, maintain and design web applications. I've been coding professionally s
 ## 📝 Recent posts
 
 <!-- BLOGPOSTS:START -->
+- [Building a bespoke now-playing web component](https://coryd.dev/posts/2024/building-a-bespoke-now-playing-web-component/)
 - [Automatic Mastodon post embeds](https://coryd.dev/posts/2024/automatic-mastodon-post-embeds/)
 - [Using B2 as a JSON data store](https://coryd.dev/posts/2024/using-b2-as-a-json-data-store/)
 - [Adding a light-dark theme toggle](https://coryd.dev/posts/2024/adding-a-light-dark-theme-toggle/)
 - [Setting up image transforms in Eleventy](https://coryd.dev/posts/2024/setting-up-image-transforms-in-eleventy/)
-- [Renting your music means accepting that it will disappear](https://coryd.dev/posts/2024/renting-your-music-means-accepting-that-it-will-disappear/)
 <!-- BLOGPOSTS:END -->
 
 ## 🎧 What I'm listening to

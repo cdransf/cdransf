@@ -25,8 +25,8 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `43 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `38 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
+> `35 ▶️` ∙ **[Hooded Menace](https://www.last.fm/music/Hooded+Menace)**<br/>
 > `35 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
-> `32 ▶️` ∙ **[Hooded Menace](https://www.last.fm/music/Hooded+Menace)**<br/>
 > `32 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
 > `28 ▶️` ∙ **[Rotted](https://www.last.fm/music/+noredirect/Rotted)**<br/>
 > `27 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>

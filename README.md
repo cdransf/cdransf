@@ -27,18 +27,18 @@ I build, maintain and design web applications. I've been coding professionally s
 > `38 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `35 ▶️` ∙ **[Hooded Menace](https://www.last.fm/music/Hooded+Menace)**<br/>
 > `35 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
-> `33 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
+> `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `32 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
-> `28 ▶️` ∙ **[Rotted](https://www.last.fm/music/+noredirect/Rotted)**<br/>
 > `27 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
+> `26 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `43 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
-> `20 ▶️` ∙ **[Pestilent Tomb](https://www.last.fm/music/Rotted/Pestilent+Tomb)** - [Rotted](https://www.last.fm/music/Rotted)<br/>
 > `20 ▶️` ∙ **[Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)](https://www.last.fm/music/Sturgill+Simpson/Cuttin%27+Grass+-+Vol.+1+(Butcher+Shoppe+Sessions))** - [Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)<br/>
+> `16 ▶️` ∙ **[Pestilent Tomb](https://www.last.fm/music/Rotted/Pestilent+Tomb)** - [Rotted](https://www.last.fm/music/Rotted)<br/>
 > `16 ▶️` ∙ **[Bad as Me](https://www.last.fm/music/Tom+Waits/Bad+as+Me)** - [Tom Waits](https://www.last.fm/music/Tom+Waits)<br/>
 > `13 ▶️` ∙ **[A World Lit Only By Fire](https://www.last.fm/music/Godflesh/A+World+Lit+Only+By+Fire)** - [Godflesh](https://www.last.fm/music/Godflesh)<br/>
 > `13 ▶️` ∙ **[12th House Rock](https://www.last.fm/music/Narrow+Head/12th+House+Rock)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>

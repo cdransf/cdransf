@@ -24,12 +24,12 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `43 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
-> `38 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `36 ▶️` ∙ **[Hooded Menace](https://www.last.fm/music/Hooded+Menace)**<br/>
 > `35 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `32 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
 > `31 ▶️` ∙ **[Vircolac](https://www.last.fm/music/Vircolac)**<br/>
+> `29 ▶️` ∙ **[Godflesh](https://www.last.fm/music/Godflesh)**<br/>
 > `27 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

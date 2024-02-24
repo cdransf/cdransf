@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `13 ▶️` ∙ **[12th House Rock](https://www.last.fm/music/Narrow+Head/12th+House+Rock)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `12 ▶️` ∙ **[Sing the Sorrow](https://www.last.fm/music/AFI/Sing+the+Sorrow)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Gloom Immemorial](https://www.last.fm/music/Hooded+Menace/Gloom+Immemorial)** - [Hooded Menace](https://www.last.fm/music/Hooded+Menace)<br/>
-> `12 ▶️` ∙ **[Why Would I Watch](https://www.last.fm/music/Hot+Mulligan/Why+Would+I+Watch)** - [Hot Mulligan](https://www.last.fm/music/Hot+Mulligan)<br/>
+> `12 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 <!--END_LASTFM_ALBUMS-->

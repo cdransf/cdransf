@@ -28,7 +28,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `36 ▶️` ∙ **[Hooded Menace](https://www.last.fm/music/Hooded+Menace)**<br/>
 > `35 ▶️` ∙ **[Tom Waits](https://www.last.fm/music/Tom+Waits)**<br/>
 > `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
-> `32 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
+> `28 ▶️` ∙ **[Sturgill Simpson](https://www.last.fm/music/Sturgill+Simpson)**<br/>
 > `27 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `26 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 <!--END_LASTFM_ARTISTS-->

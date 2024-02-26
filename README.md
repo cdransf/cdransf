@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `13 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Prince+Daddy+&+The+Hyena)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 > `12 ▶️` ∙ **[Gloom Immemorial](https://www.last.fm/music/Hooded+Menace/Gloom+Immemorial)** - [Hooded Menace](https://www.last.fm/music/Hooded+Menace)<br/>
 > `12 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
-> `11 ▶️` ∙ **[Sing the Sorrow](https://www.last.fm/music/AFI/Sing+the+Sorrow)** - [AFI](https://www.last.fm/music/AFI)<br/>
+> `11 ▶️` ∙ **[Life Like](https://www.last.fm/music/Dead+Bob/Life+Like)** - [Dead Bob](https://www.last.fm/music/Dead+Bob)<br/>
 <!--END_LASTFM_ALBUMS-->

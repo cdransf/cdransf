@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `33 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `27 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)**<br/>
-> `26 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
+> `20 ▶️` ∙ **[Grave Infestation](https://www.last.fm/music/Grave+Infestation)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 > `12 ▶️` ∙ **[Durance of Lightless Horizons](https://www.last.fm/music/Gutvoid/Durance+of+Lightless+Horizons)** - [Gutvoid](https://www.last.fm/music/Gutvoid)<br/>
 > `12 ▶️` ∙ **[Gloom Immemorial](https://www.last.fm/music/Hooded+Menace/Gloom+Immemorial)** - [Hooded Menace](https://www.last.fm/music/Hooded+Menace)<br/>
-> `12 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
+> `11 ▶️` ∙ **[The IVth Crusade](https://www.last.fm/music/Bolt+Thrower/The+IVth+Crusade)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 <!--END_LASTFM_ALBUMS-->

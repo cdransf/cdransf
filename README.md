@@ -26,10 +26,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `51 ▶️` ∙ **[Death](https://www.last.fm/music/Death)**<br/>
 > `45 ▶️` ∙ **[Vircolac](https://www.last.fm/music/Vircolac)**<br/>
 > `39 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
-> `35 ▶️` ∙ **[Hooded Menace](https://www.last.fm/music/Hooded+Menace)**<br/>
 > `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `33 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `29 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
+> `27 ▶️` ∙ **[Hooded Menace](https://www.last.fm/music/Hooded+Menace)**<br/>
 > `27 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `35 ▶️` ∙ **[Veneration](https://www.last.fm/music/Vircolac/Veneration)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
 > `14 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
+> `13 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `13 ▶️` ∙ **[Durance of Lightless Horizons](https://www.last.fm/music/Gutvoid/Durance+of+Lightless+Horizons)** - [Gutvoid](https://www.last.fm/music/Gutvoid)<br/>
 > `13 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Prince+Daddy+&+The+Hyena)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 > `12 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 > `12 ▶️` ∙ **[Slumber of Sullen Eyes](https://www.last.fm/music/Demigod/Slumber+of+Sullen+Eyes)** - [Demigod](https://www.last.fm/music/Demigod)<br/>
 > `12 ▶️` ∙ **[Like An Ever Flowing Stream](https://www.last.fm/music/Dismember/Like+An+Ever+Flowing+Stream)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
-> `12 ▶️` ∙ **[Gloom Immemorial](https://www.last.fm/music/Hooded+Menace/Gloom+Immemorial)** - [Hooded Menace](https://www.last.fm/music/Hooded+Menace)<br/>
 <!--END_LASTFM_ALBUMS-->

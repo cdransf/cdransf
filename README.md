@@ -11,11 +11,11 @@ I build, maintain and design web applications. I've been coding professionally s
 ## 📝 Recent posts
 
 <!-- BLOGPOSTS:START -->
+- [Now's the time to own and host your own content](https://coryd.dev/posts/2024/nows-the-time-to-own-and-host-your-own-content/)
+- [Everything is a checklist](https://coryd.dev/posts/2024/everything-is-a-checklist/)
 - [Towards a quieter, friendlier web](https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/)
 - [Building a theme toggle web component](https://coryd.dev/posts/2024/building-a-theme-toggle-web-component/)
 - [It's past time to delete your Reddit account](https://coryd.dev/posts/2024/its-past-time-to-delete-your-reddit-account/)
-- [Give me a web feed or an API for everything](https://coryd.dev/posts/2024/give-me-a-web-feed-or-an-api-for-everything/)
-- [I need AI](https://coryd.dev/posts/2024/i-need-ai/)
 <!-- BLOGPOSTS:END -->
 
 ## 🎧 What I'm listening to

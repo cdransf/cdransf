@@ -25,7 +25,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `54 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `51 ▶️` ∙ **[Death](https://www.last.fm/music/Death)**<br/>
-> `41 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
+> `44 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `39 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
 > `33 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `30 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
@@ -39,9 +39,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[Massive Killing Capacity](https://www.last.fm/music/Dismember/Massive+Killing+Capacity)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 > `14 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 > `13 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
-> `13 ▶️` ∙ **[Durance of Lightless Horizons](https://www.last.fm/music/Gutvoid/Durance+of+Lightless+Horizons)** - [Gutvoid](https://www.last.fm/music/Gutvoid)<br/>
 > `13 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Prince+Daddy+&+The+Hyena)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 > `12 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 > `12 ▶️` ∙ **[Slumber of Sullen Eyes](https://www.last.fm/music/Demigod/Slumber+of+Sullen+Eyes)** - [Demigod](https://www.last.fm/music/Demigod)<br/>
 > `12 ▶️` ∙ **[Like An Ever Flowing Stream](https://www.last.fm/music/Dismember/Like+An+Ever+Flowing+Stream)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
+> `12 ▶️` ∙ **[Durance of Lightless Horizons](https://www.last.fm/music/Gutvoid/Durance+of+Lightless+Horizons)** - [Gutvoid](https://www.last.fm/music/Gutvoid)<br/>
 <!--END_LASTFM_ALBUMS-->

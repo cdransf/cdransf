@@ -30,15 +30,15 @@ I build, maintain and design web applications. I've been coding professionally s
 > `30 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Rapture](https://www.last.fm/music/Rapture)**<br/>
 > `27 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)**<br/>
-> `25 ▶️` ∙ **[Vircolac](https://www.last.fm/music/Vircolac)**<br/>
+> `24 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `25 ▶️` ∙ **[Veneration](https://www.last.fm/music/Vircolac/Veneration)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
 > `15 ▶️` ∙ **[Massive Killing Capacity](https://www.last.fm/music/Dismember/Massive+Killing+Capacity)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 > `14 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
+> `14 ▶️` ∙ **[Veneration](https://www.last.fm/music/Vircolac/Veneration)** - [Vircolac](https://www.last.fm/music/Vircolac)<br/>
 > `13 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `13 ▶️` ∙ **[Durance of Lightless Horizons](https://www.last.fm/music/Gutvoid/Durance+of+Lightless+Horizons)** - [Gutvoid](https://www.last.fm/music/Gutvoid)<br/>
 > `13 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Prince+Daddy+&+The+Hyena)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>

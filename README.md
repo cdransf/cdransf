@@ -27,7 +27,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `51 ▶️` ∙ **[Death](https://www.last.fm/music/Death)**<br/>
 > `44 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `39 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
-> `33 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
+> `36 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `30 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Rapture](https://www.last.fm/music/Rapture)**<br/>
 > `27 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)**<br/>
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 > `12 ▶️` ∙ **[Slumber of Sullen Eyes](https://www.last.fm/music/Demigod/Slumber+of+Sullen+Eyes)** - [Demigod](https://www.last.fm/music/Demigod)<br/>
 > `12 ▶️` ∙ **[Like An Ever Flowing Stream](https://www.last.fm/music/Dismember/Like+An+Ever+Flowing+Stream)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
-> `12 ▶️` ∙ **[Durance of Lightless Horizons](https://www.last.fm/music/Gutvoid/Durance+of+Lightless+Horizons)** - [Gutvoid](https://www.last.fm/music/Gutvoid)<br/>
+> `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 <!--END_LASTFM_ALBUMS-->

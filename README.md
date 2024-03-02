@@ -23,9 +23,9 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `55 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `54 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `51 ▶️` ∙ **[Death](https://www.last.fm/music/Death)**<br/>
-> `50 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `44 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `39 ▶️` ∙ **[Joyce Manor](https://www.last.fm/music/Joyce+Manor)**<br/>
 > `30 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>

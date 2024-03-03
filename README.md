@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `44 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `37 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Rapture](https://www.last.fm/music/Rapture)**<br/>
-> `27 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)**<br/>
 > `24 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
+> `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `15 ▶️` ∙ **[Massive Killing Capacity](https://www.last.fm/music/Dismember/Massive+Killing+Capacity)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
-> `14 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
-> `13 ▶️` ∙ **[Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Prince+Daddy+&+The+Hyena)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
+> `13 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 > `12 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 > `12 ▶️` ∙ **[Slumber of Sullen Eyes](https://www.last.fm/music/Demigod/Slumber+of+Sullen+Eyes)** - [Demigod](https://www.last.fm/music/Demigod)<br/>
 > `12 ▶️` ∙ **[Like An Ever Flowing Stream](https://www.last.fm/music/Dismember/Like+An+Ever+Flowing+Stream)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
+> `11 ▶️` ∙ **[The IVth Crusade](https://www.last.fm/music/Bolt+Thrower/The+IVth+Crusade)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `15 ▶️` ∙ **[Massive Killing Capacity](https://www.last.fm/music/Dismember/Massive+Killing+Capacity)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
-> `13 ▶️` ∙ **[Cosmic Thrill Seekers](https://www.last.fm/music/Prince+Daddy+&+The+Hyena/Cosmic+Thrill+Seekers)** - [Prince Daddy & The Hyena](https://www.last.fm/music/Prince+Daddy+&+The+Hyena)<br/>
 > `12 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 > `12 ▶️` ∙ **[Slumber of Sullen Eyes](https://www.last.fm/music/Demigod/Slumber+of+Sullen+Eyes)** - [Demigod](https://www.last.fm/music/Demigod)<br/>
 > `12 ▶️` ∙ **[Like An Ever Flowing Stream](https://www.last.fm/music/Dismember/Like+An+Ever+Flowing+Stream)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `11 ▶️` ∙ **[The IVth Crusade](https://www.last.fm/music/Bolt+Thrower/The+IVth+Crusade)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
+> `11 ▶️` ∙ **[Indecent and Obscene](https://www.last.fm/music/Dismember/Indecent+and+Obscene)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 <!--END_LASTFM_ALBUMS-->

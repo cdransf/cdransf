@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `54 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `44 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `37 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
-> `34 ▶️` ∙ **[Death](https://www.last.fm/music/Death)**<br/>
+> `33 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `29 ▶️` ∙ **[Rapture](https://www.last.fm/music/Rapture)**<br/>
 > `24 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
-> `23 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
+> `23 ▶️` ∙ **[Free Throw](https://www.last.fm/music/Free+Throw)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

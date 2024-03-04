@@ -25,7 +25,7 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `55 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `54 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
-> `51 ▶️` ∙ **[Death](https://www.last.fm/music/Death)**<br/>
+> `45 ▶️` ∙ **[Death](https://www.last.fm/music/Death)**<br/>
 > `44 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `37 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Rapture](https://www.last.fm/music/Rapture)**<br/>

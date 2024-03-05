@@ -23,10 +23,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `55 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `54 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
+> `51 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `44 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
-> `40 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
+> `43 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `37 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Rapture](https://www.last.fm/music/Rapture)**<br/>
 > `24 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
@@ -39,9 +39,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `15 ▶️` ∙ **[Massive Killing Capacity](https://www.last.fm/music/Dismember/Massive+Killing+Capacity)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 > `13 ▶️` ∙ **[Heartwork](https://www.last.fm/music/Carcass/Heartwork)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
-> `12 ▶️` ∙ **[Realm of Chaos](https://www.last.fm/music/Bolt+Thrower/Realm+of+Chaos)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
 > `12 ▶️` ∙ **[Slumber of Sullen Eyes](https://www.last.fm/music/Demigod/Slumber+of+Sullen+Eyes)** - [Demigod](https://www.last.fm/music/Demigod)<br/>
 > `12 ▶️` ∙ **[Like An Ever Flowing Stream](https://www.last.fm/music/Dismember/Like+An+Ever+Flowing+Stream)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `11 ▶️` ∙ **[The IVth Crusade](https://www.last.fm/music/Bolt+Thrower/The+IVth+Crusade)** - [Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)<br/>
+> `11 ▶️` ∙ **[Necroticism - Descanting the Insalubrious](https://www.last.fm/music/Carcass/Necroticism+-+Descanting+the+Insalubrious)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -28,7 +28,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `43 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
 > `37 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
-> `32 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
+> `33 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
 > `29 ▶️` ∙ **[Rapture](https://www.last.fm/music/Rapture)**<br/>
 > `24 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -36,7 +36,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `32 ▶️` ∙ **[Chytridiomycosis Relinquished](https://www.last.fm/music/SlimeLord/Chytridiomycosis+Relinquished)** - [SlimeLord](https://www.last.fm/music/SlimeLord)<br/>
+> `33 ▶️` ∙ **[Chytridiomycosis Relinquished](https://www.last.fm/music/SlimeLord/Chytridiomycosis+Relinquished)** - [SlimeLord](https://www.last.fm/music/SlimeLord)<br/>
 > `24 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `15 ▶️` ∙ **[Massive Killing Capacity](https://www.last.fm/music/Dismember/Massive+Killing+Capacity)** - [Dismember](https://www.last.fm/music/Dismember)<br/>

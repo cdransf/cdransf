@@ -23,7 +23,6 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `45 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 > `44 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `43 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
@@ -31,6 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `34 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
 > `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 > `29 ▶️` ∙ **[Rapture](https://www.last.fm/music/Rapture)**<br/>
+> `28 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

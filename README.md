@@ -26,11 +26,11 @@ I build, maintain and design web applications. I've been coding professionally s
 > `44 ▶️` ∙ **[Execration](https://www.last.fm/music/Execration)**<br/>
 > `43 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `38 ▶️` ∙ **[Bolt Thrower](https://www.last.fm/music/Bolt+Thrower)**<br/>
-> `37 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
+> `36 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `34 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
 > `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 > `29 ▶️` ∙ **[Rapture](https://www.last.fm/music/Rapture)**<br/>
-> `28 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
+> `25 ▶️` ∙ **[Dismember](https://www.last.fm/music/Dismember)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,10 +38,10 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `34 ▶️` ∙ **[Chytridiomycosis Relinquished](https://www.last.fm/music/SlimeLord/Chytridiomycosis+Relinquished)** - [SlimeLord](https://www.last.fm/music/SlimeLord)<br/>
 > `32 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
-> `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
+> `19 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `15 ▶️` ∙ **[Massive Killing Capacity](https://www.last.fm/music/Dismember/Massive+Killing+Capacity)** - [Dismember](https://www.last.fm/music/Dismember)<br/>
 > `13 ▶️` ∙ **[Heartwork](https://www.last.fm/music/Carcass/Heartwork)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
-> `12 ▶️` ∙ **[Slumber of Sullen Eyes](https://www.last.fm/music/Demigod/Slumber+of+Sullen+Eyes)** - [Demigod](https://www.last.fm/music/Demigod)<br/>
 > `12 ▶️` ∙ **[Piecing It Together](https://www.last.fm/music/Free+Throw/Piecing+It+Together)** - [Free Throw](https://www.last.fm/music/Free+Throw)<br/>
 > `11 ▶️` ∙ **[Necroticism - Descanting the Insalubrious](https://www.last.fm/music/Carcass/Necroticism+-+Descanting+the+Insalubrious)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
+> `11 ▶️` ∙ **[Odes of the Occult](https://www.last.fm/music/Execration/Odes+of+the+Occult)** - [Execration](https://www.last.fm/music/Execration)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `35 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
 > `34 ▶️` ∙ **[Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)**<br/>
 > `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
+> `31 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `27 ▶️` ∙ **[White Ward](https://www.last.fm/music/White+Ward)**<br/>
-> `26 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

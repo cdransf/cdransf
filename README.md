@@ -26,11 +26,11 @@ I build, maintain and design web applications. I've been coding professionally s
 > `52 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `45 ▶️` ∙ **[Convulsing](https://www.last.fm/music/Convulsing)**<br/>
 > `43 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
+> `35 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 > `35 ▶️` ∙ **[Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)**<br/>
 > `35 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
 > `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
-> `27 ▶️` ∙ **[White Ward](https://www.last.fm/music/White+Ward)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `16 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `15 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
-> `13 ▶️` ∙ **[Heartwork](https://www.last.fm/music/Carcass/Heartwork)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
+> `15 ▶️` ∙ **[Failed States](https://www.last.fm/music/Propagandhi/Failed+States)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 <!--END_LASTFM_ALBUMS-->

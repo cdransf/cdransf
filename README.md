@@ -1,6 +1,6 @@
 # [Hi, I'm Cory 👋](https://coryd.dev)
 
-[![Follow @cory@social.lol](https://img.shields.io/mastodon/follow/109606224363698309?domain=https%3A%2F%2Fsocial.lol&style=for-the-badge&logo=Mastodon&logoColor=white&labelColor=6364FF)](https://social.lol/@cory)
+[![Follow @cory@social.lol on Mastodon](/assets/img/mastodon.png)](https://social.lol/@cory) [![Buy me a Coffee](/assets/img/buymeacoffee.png)]([https://social.lol/@cory](https://www.buymeacoffee.com/cory))
 
 I'm a software developer based in Camarillo, California. I enjoy hanging out with my beautiful family and 4 rescue dogs, technology, automation, [music](https://coryd.dev/now#artists), [writing](https://coryd.dev), [reading](https://coryd.dev/now#books) and [tv](https://coryd.dev/now#tv) and [movies](https://coryd.dev/now#movies).
 

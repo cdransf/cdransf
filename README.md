@@ -27,10 +27,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `51 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `45 ▶️` ∙ **[Convulsing](https://www.last.fm/music/Convulsing)**<br/>
 > `39 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
-> `35 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `35 ▶️` ∙ **[Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)**<br/>
 > `35 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
 > `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
+> `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

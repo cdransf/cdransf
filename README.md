@@ -26,7 +26,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `53 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `51 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `45 ▶️` ∙ **[Convulsing](https://www.last.fm/music/Convulsing)**<br/>
-> `39 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
+> `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `39 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 > `35 ▶️` ∙ **[Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)**<br/>
 > `35 ▶️` ∙ **[SlimeLord](https://www.last.fm/music/SlimeLord)**<br/>
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `30 ▶️` ∙ **[Fragments Of The Ageless](https://www.last.fm/music/Skeletal+Remains/Fragments+Of+The+Ageless)** - [Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)<br/>
 > `19 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `16 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
+> `15 ▶️` ∙ **[Unorthodox](https://www.last.fm/music/Edge+of+Sanity/Unorthodox)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
 > `15 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
-> `15 ▶️` ∙ **[Failed States](https://www.last.fm/music/Propagandhi/Failed+States)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 <!--END_LASTFM_ALBUMS-->

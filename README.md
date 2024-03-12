@@ -28,17 +28,17 @@ I build, maintain and design web applications. I've been coding professionally s
 > `51 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `45 ▶️` ∙ **[Convulsing](https://www.last.fm/music/Convulsing)**<br/>
 > `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
+> `39 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `39 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 > `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
-> `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `45 ▶️` ∙ **[perdurance](https://www.last.fm/music/Convulsing/perdurance)** - [Convulsing](https://www.last.fm/music/Convulsing)<br/>
-> `32 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `30 ▶️` ∙ **[Fragments Of The Ageless](https://www.last.fm/music/Skeletal+Remains/Fragments+Of+The+Ageless)** - [Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)<br/>
+> `25 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `19 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `16 ▶️` ∙ **[Surgical Steel](https://www.last.fm/music/Carcass/Surgical+Steel)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `16 ▶️` ∙ **[The Rime of Memory](https://www.last.fm/music/Panopticon/The+Rime+of+Memory)** - [Panopticon](https://www.last.fm/music/Panopticon)<br/>

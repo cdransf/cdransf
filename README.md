@@ -25,9 +25,9 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `53 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `51 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
+> `51 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `45 ▶️` ∙ **[Convulsing](https://www.last.fm/music/Convulsing)**<br/>
 > `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
-> `40 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `39 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 > `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 > `32 ▶️` ∙ **[Hauntologist](https://www.last.fm/music/Hauntologist)**<br/>
@@ -39,8 +39,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `45 ▶️` ∙ **[perdurance](https://www.last.fm/music/Convulsing/perdurance)** - [Convulsing](https://www.last.fm/music/Convulsing)<br/>
 > `32 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
 > `30 ▶️` ∙ **[Fragments Of The Ageless](https://www.last.fm/music/Skeletal+Remains/Fragments+Of+The+Ageless)** - [Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)<br/>
-> `26 ▶️` ∙ **[Chytridiomycosis Relinquished](https://www.last.fm/music/SlimeLord/Chytridiomycosis+Relinquished)** - [SlimeLord](https://www.last.fm/music/SlimeLord)<br/>
 > `19 ▶️` ∙ **[Sex Mad - You Kill Me](https://www.last.fm/music/NoMeansNo/Sex+Mad+-+You+Kill+Me)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
+> `17 ▶️` ∙ **[Chytridiomycosis Relinquished](https://www.last.fm/music/SlimeLord/Chytridiomycosis+Relinquished)** - [SlimeLord](https://www.last.fm/music/SlimeLord)<br/>
 > `16 ▶️` ∙ **[Surgical Steel](https://www.last.fm/music/Carcass/Surgical+Steel)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `16 ▶️` ∙ **[The Rime of Memory](https://www.last.fm/music/Panopticon/The+Rime+of+Memory)** - [Panopticon](https://www.last.fm/music/Panopticon)<br/>
 > `16 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>

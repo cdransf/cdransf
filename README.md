@@ -25,12 +25,12 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `59 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `51 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
-> `48 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `46 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `45 ▶️` ∙ **[Convulsing](https://www.last.fm/music/Convulsing)**<br/>
 > `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
+> `42 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `39 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
-> `34 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

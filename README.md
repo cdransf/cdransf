@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `16 ▶️` ∙ **[The Rime of Memory](https://www.last.fm/music/Panopticon/The+Rime+of+Memory)** - [Panopticon](https://www.last.fm/music/Panopticon)<br/>
 > `16 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `15 ▶️` ∙ **[Unorthodox](https://www.last.fm/music/Edge+of+Sanity/Unorthodox)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
-> `15 ▶️` ∙ **[Hollow](https://www.last.fm/music/Hauntologist/Hollow)** - [Hauntologist](https://www.last.fm/music/Hauntologist)<br/>
+> `15 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 <!--END_LASTFM_ALBUMS-->

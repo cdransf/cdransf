@@ -29,7 +29,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `45 ▶️` ∙ **[Convulsing](https://www.last.fm/music/Convulsing)**<br/>
 > `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
-> `42 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
+> `40 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `39 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

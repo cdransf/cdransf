@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `39 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
-> `35 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
+> `34 ▶️` ∙ **[Tomb Mold](https://www.last.fm/music/Tomb+Mold)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

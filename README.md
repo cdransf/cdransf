@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `39 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 > `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
-> `31 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `25 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `16 ▶️` ∙ **[Surgical Steel](https://www.last.fm/music/Carcass/Surgical+Steel)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `16 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `15 ▶️` ∙ **[Unorthodox](https://www.last.fm/music/Edge+of+Sanity/Unorthodox)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
-> `15 ▶️` ∙ **[Wrong](https://www.last.fm/music/NoMeansNo/Wrong)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[Failed States](https://www.last.fm/music/Propagandhi/Failed+States)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 > `14 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[The Spectral Sorrows](https://www.last.fm/music/Edge+of+Sanity/The+Spectral+Sorrows)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
+> `12 ▶️` ∙ **[Black Sails in the Sunset](https://www.last.fm/music/AFI/Black+Sails+in+the+Sunset)** - [AFI](https://www.last.fm/music/AFI)<br/>
 <!--END_LASTFM_ALBUMS-->

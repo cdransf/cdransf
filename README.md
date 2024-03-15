@@ -29,14 +29,14 @@ I build, maintain and design web applications. I've been coding professionally s
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `39 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 > `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
-> `31 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
-> `27 ▶️` ∙ **[Convulsing](https://www.last.fm/music/Convulsing)**<br/>
+> `32 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
+> `25 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `27 ▶️` ∙ **[perdurance](https://www.last.fm/music/Convulsing/perdurance)** - [Convulsing](https://www.last.fm/music/Convulsing)<br/>
+> `22 ▶️` ∙ **[perdurance](https://www.last.fm/music/Convulsing/perdurance)** - [Convulsing](https://www.last.fm/music/Convulsing)<br/>
 > `16 ▶️` ∙ **[Surgical Steel](https://www.last.fm/music/Carcass/Surgical+Steel)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `16 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `15 ▶️` ∙ **[Unorthodox](https://www.last.fm/music/Edge+of+Sanity/Unorthodox)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>

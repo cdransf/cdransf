@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `30 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
-> `28 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
+> `26 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -38,8 +38,8 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `16 ▶️` ∙ **[Surgical Steel](https://www.last.fm/music/Carcass/Surgical+Steel)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `15 ▶️` ∙ **[Unorthodox](https://www.last.fm/music/Edge+of+Sanity/Unorthodox)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
-> `15 ▶️` ∙ **[Failed States](https://www.last.fm/music/Propagandhi/Failed+States)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 > `14 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
+> `14 ▶️` ∙ **[Failed States](https://www.last.fm/music/Propagandhi/Failed+States)** - [Propagandhi](https://www.last.fm/music/Propagandhi)<br/>
 > `13 ▶️` ∙ **[The Spectral Sorrows](https://www.last.fm/music/Edge+of+Sanity/The+Spectral+Sorrows)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
 > `12 ▶️` ∙ **[Black Sails in the Sunset](https://www.last.fm/music/AFI/Black+Sails+in+the+Sunset)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Sing the Sorrow](https://www.last.fm/music/AFI/Sing+the+Sorrow)** - [AFI](https://www.last.fm/music/AFI)<br/>

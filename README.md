@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
-> `31 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 > `30 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
+> `29 ▶️` ∙ **[Propagandhi](https://www.last.fm/music/Propagandhi)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

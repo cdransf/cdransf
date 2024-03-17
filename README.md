@@ -24,10 +24,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `59 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
-> `51 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
+> `44 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
-> `37 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
+> `38 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `25 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `14 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `13 ▶️` ∙ **[The Spectral Sorrows](https://www.last.fm/music/Edge+of+Sanity/The+Spectral+Sorrows)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
 > `12 ▶️` ∙ **[Black Sails in the Sunset](https://www.last.fm/music/AFI/Black+Sails+in+the+Sunset)** - [AFI](https://www.last.fm/music/AFI)<br/>
-> `12 ▶️` ∙ **[Sing the Sorrow](https://www.last.fm/music/AFI/Sing+the+Sorrow)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Purgatory Afterglow](https://www.last.fm/music/Edge+of+Sanity/Purgatory+Afterglow)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
 > `12 ▶️` ∙ **[Nevermind](https://www.last.fm/music/Nirvana/Nevermind)** - [Nirvana](https://www.last.fm/music/Nirvana)<br/>
+> `11 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 <!--END_LASTFM_ALBUMS-->

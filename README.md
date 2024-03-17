@@ -27,9 +27,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `38 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
-> `35 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
+> `27 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `25 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Black Sails in the Sunset](https://www.last.fm/music/AFI/Black+Sails+in+the+Sunset)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `12 ▶️` ∙ **[Purgatory Afterglow](https://www.last.fm/music/Edge+of+Sanity/Purgatory+Afterglow)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
 > `12 ▶️` ∙ **[Nevermind](https://www.last.fm/music/Nirvana/Nevermind)** - [Nirvana](https://www.last.fm/music/Nirvana)<br/>
-> `11 ▶️` ∙ **[The Art of Drowning](https://www.last.fm/music/AFI/The+Art+of+Drowning)** - [AFI](https://www.last.fm/music/AFI)<br/>
 > `11 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
+> `11 ▶️` ∙ **[Morbidity Triumphant](https://www.last.fm/music/Autopsy/Morbidity+Triumphant)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 <!--END_LASTFM_ALBUMS-->

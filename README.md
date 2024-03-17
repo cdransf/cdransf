@@ -27,9 +27,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `51 ▶️` ∙ **[AFI](https://www.last.fm/music/AFI)**<br/>
 > `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
+> `37 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
-> `31 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `25 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 <!--END_LASTFM_ARTISTS-->
 

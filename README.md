@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `25 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
-> `23 ▶️` ∙ **[Superheaven](https://www.last.fm/music/Superheaven)**<br/>
+> `24 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -42,6 +42,6 @@ I build, maintain and design web applications. I've been coding professionally s
 > `12 ▶️` ∙ **[Purgatory Afterglow](https://www.last.fm/music/Edge+of+Sanity/Purgatory+Afterglow)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
 > `12 ▶️` ∙ **[Nevermind](https://www.last.fm/music/Nirvana/Nevermind)** - [Nirvana](https://www.last.fm/music/Nirvana)<br/>
 > `12 ▶️` ∙ **[Jar](https://www.last.fm/music/Superheaven/Jar)** - [Superheaven](https://www.last.fm/music/Superheaven)<br/>
+> `12 ▶️` ∙ **[What's So Fucking Funny?](https://www.last.fm/music/Webbed+Wing/What%27s+So+Fucking+Funny%3F)** - [Webbed Wing](https://www.last.fm/music/Webbed+Wing)<br/>
 > `11 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
-> `11 ▶️` ∙ **[Morbidity Triumphant](https://www.last.fm/music/Autopsy/Morbidity+Triumphant)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 <!--END_LASTFM_ALBUMS-->

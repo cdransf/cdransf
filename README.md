@@ -28,7 +28,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `38 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `34 ▶️` ∙ **[Webbed Wing](https://www.last.fm/music/Webbed+Wing)**<br/>
-> `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
+> `30 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `25 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
 > `24 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 <!--END_LASTFM_ARTISTS-->

@@ -24,10 +24,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `56 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
-> `43 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `38 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
+> `34 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `34 ▶️` ∙ **[Webbed Wing](https://www.last.fm/music/Webbed+Wing)**<br/>
 > `33 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
 > `25 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>

@@ -23,8 +23,8 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `59 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
-> `44 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
+> `56 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
+> `43 ▶️` ∙ **[Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)**<br/>
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
 > `38 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
@@ -39,9 +39,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `16 ▶️` ∙ **[Surgical Steel](https://www.last.fm/music/Carcass/Surgical+Steel)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `15 ▶️` ∙ **[Unorthodox](https://www.last.fm/music/Edge+of+Sanity/Unorthodox)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
 > `13 ▶️` ∙ **[The Spectral Sorrows](https://www.last.fm/music/Edge+of+Sanity/The+Spectral+Sorrows)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
-> `12 ▶️` ∙ **[Purgatory Afterglow](https://www.last.fm/music/Edge+of+Sanity/Purgatory+Afterglow)** - [Edge of Sanity](https://www.last.fm/music/Edge+of+Sanity)<br/>
 > `12 ▶️` ∙ **[Nevermind](https://www.last.fm/music/Nirvana/Nevermind)** - [Nirvana](https://www.last.fm/music/Nirvana)<br/>
 > `12 ▶️` ∙ **[Jar](https://www.last.fm/music/Superheaven/Jar)** - [Superheaven](https://www.last.fm/music/Superheaven)<br/>
 > `12 ▶️` ∙ **[What's So Fucking Funny?](https://www.last.fm/music/Webbed+Wing/What%27s+So+Fucking+Funny%3F)** - [Webbed Wing](https://www.last.fm/music/Webbed+Wing)<br/>
 > `11 ▶️` ∙ **[Ashes, Organs, Blood And Crypts](https://www.last.fm/music/Autopsy/Ashes,+Organs,+Blood+And+Crypts)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
+> `11 ▶️` ∙ **[Morbidity Triumphant](https://www.last.fm/music/Autopsy/Morbidity+Triumphant)** - [Autopsy](https://www.last.fm/music/Autopsy)<br/>
 <!--END_LASTFM_ALBUMS-->

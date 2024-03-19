@@ -24,20 +24,20 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `42 ▶️` ∙ **[Autopsy](https://www.last.fm/music/Autopsy)**<br/>
+> `39 ▶️` ∙ **[Phrenelith](https://www.last.fm/music/Phrenelith)**<br/>
 > `38 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
-> `37 ▶️` ∙ **[Phrenelith](https://www.last.fm/music/Phrenelith)**<br/>
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
 > `34 ▶️` ∙ **[Webbed Wing](https://www.last.fm/music/Webbed+Wing)**<br/>
-> `30 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `24 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
+> `24 ▶️` ∙ **[Soul Blind](https://www.last.fm/music/Soul+Blind)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `16 ▶️` ∙ **[Desolate Endscape](https://www.last.fm/music/Phrenelith/Desolate+Endscape)** - [Phrenelith](https://www.last.fm/music/Phrenelith)<br/>
 > `15 ▶️` ∙ **[Chimaera](https://www.last.fm/music/Phrenelith/Chimaera)** - [Phrenelith](https://www.last.fm/music/Phrenelith)<br/>
-> `14 ▶️` ∙ **[Desolate Endscape](https://www.last.fm/music/Phrenelith/Desolate+Endscape)** - [Phrenelith](https://www.last.fm/music/Phrenelith)<br/>
 > `13 ▶️` ∙ **[12th House Rock](https://www.last.fm/music/Narrow+Head/12th+House+Rock)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `13 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 > `12 ▶️` ∙ **[Nevermind](https://www.last.fm/music/Nirvana/Nevermind)** - [Nirvana](https://www.last.fm/music/Nirvana)<br/>

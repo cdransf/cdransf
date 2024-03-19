@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `30 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `25 ▶️` ∙ **[Drug Church](https://www.last.fm/music/Drug+Church)**<br/>
-> `24 ▶️` ∙ **[Panopticon](https://www.last.fm/music/Panopticon)**<br/>
+> `25 ▶️` ∙ **[Phrenelith](https://www.last.fm/music/Phrenelith)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

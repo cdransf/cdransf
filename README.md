@@ -25,8 +25,8 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `39 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `39 ▶️` ∙ **[Phrenelith](https://www.last.fm/music/Phrenelith)**<br/>
+> `38 ▶️` ∙ **[CIVEROUS](https://www.last.fm/music/CIVEROUS)**<br/>
 > `35 ▶️` ∙ **[Soft Kill](https://www.last.fm/music/Soft+Kill)**<br/>
-> `34 ▶️` ∙ **[CIVEROUS](https://www.last.fm/music/CIVEROUS)**<br/>
 > `34 ▶️` ∙ **[Webbed Wing](https://www.last.fm/music/Webbed+Wing)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `29 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
@@ -36,7 +36,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `32 ▶️` ∙ **[Maze Envy](https://www.last.fm/music/CIVEROUS/Maze+Envy)** - [CIVEROUS](https://www.last.fm/music/CIVEROUS)<br/>
+> `36 ▶️` ∙ **[Maze Envy](https://www.last.fm/music/CIVEROUS/Maze+Envy)** - [CIVEROUS](https://www.last.fm/music/CIVEROUS)<br/>
 > `16 ▶️` ∙ **[Desolate Endscape](https://www.last.fm/music/Phrenelith/Desolate+Endscape)** - [Phrenelith](https://www.last.fm/music/Phrenelith)<br/>
 > `15 ▶️` ∙ **[Chimaera](https://www.last.fm/music/Phrenelith/Chimaera)** - [Phrenelith](https://www.last.fm/music/Phrenelith)<br/>
 > `13 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>

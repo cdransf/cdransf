@@ -24,10 +24,10 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `48 ▶️` ∙ **[CIVEROUS](https://www.last.fm/music/CIVEROUS)**<br/>
-> `39 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `39 ▶️` ∙ **[Phrenelith](https://www.last.fm/music/Phrenelith)**<br/>
 > `34 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `34 ▶️` ∙ **[Webbed Wing](https://www.last.fm/music/Webbed+Wing)**<br/>
+> `32 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `29 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
 > `25 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>

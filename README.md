@@ -26,7 +26,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `48 ▶️` ∙ **[Civerous](https://www.last.fm/music/Civerous)**<br/>
 > `39 ▶️` ∙ **[Phrenelith](https://www.last.fm/music/Phrenelith)**<br/>
 > `34 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
-> `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
+> `29 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `29 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
 > `26 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `25 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
@@ -43,5 +43,5 @@ I build, maintain and design web applications. I've been coding professionally s
 > `15 ▶️` ∙ **[Chimaera](https://www.last.fm/music/Phrenelith/Chimaera)** - [Phrenelith](https://www.last.fm/music/Phrenelith)<br/>
 > `13 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `13 ▶️` ∙ **[12th House Rock](https://www.last.fm/music/Narrow+Head/12th+House+Rock)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
-> `13 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
+> `12 ▶️` ∙ **[Moments of Clarity](https://www.last.fm/music/Narrow+Head/Moments+of+Clarity)** - [Narrow Head](https://www.last.fm/music/Narrow+Head)<br/>
 <!--END_LASTFM_ALBUMS-->

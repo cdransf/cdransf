@@ -28,9 +28,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `34 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `30 ▶️` ∙ **[Narrow Head](https://www.last.fm/music/Narrow+Head)**<br/>
 > `29 ▶️` ∙ **[Undergang](https://www.last.fm/music/Undergang)**<br/>
+> `26 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `25 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `24 ▶️` ∙ **[Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)**<br/>
-> `22 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

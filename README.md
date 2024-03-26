@@ -25,12 +25,12 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `48 ▶️` ∙ **[Civerous](https://www.last.fm/music/Civerous)**<br/>
 > `44 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
+> `35 ▶️` ∙ **[Ulcerate](https://www.last.fm/music/Ulcerate)**<br/>
 > `34 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `27 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
-> `27 ▶️` ∙ **[Ulcerate](https://www.last.fm/music/Ulcerate)**<br/>
-> `25 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `24 ▶️` ∙ **[Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)**<br/>
 > `19 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
+> `13 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `19 ▶️` ∙ **[ONE MORE TIME...](https://www.last.fm/music/blink-182/ONE+MORE+TIME...)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `16 ▶️` ∙ **[Surgical Steel](https://www.last.fm/music/Carcass/Surgical+Steel)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `15 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182/blink-182)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
-> `13 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `13 ▶️` ∙ **[The Great Dismal](https://www.last.fm/music/Nothing/The+Great+Dismal)** - [Nothing](https://www.last.fm/music/Nothing)<br/>
 > `11 ▶️` ∙ **[Necroticism - Descanting the Insalubrious](https://www.last.fm/music/Carcass/Necroticism+-+Descanting+the+Insalubrious)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
+> `11 ▶️` ∙ **[Red Medicine](https://www.last.fm/music/Fugazi/Red+Medicine)** - [Fugazi](https://www.last.fm/music/Fugazi)<br/>
 > `11 ▶️` ∙ **[OK Computer](https://www.last.fm/music/Radiohead/OK+Computer)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->

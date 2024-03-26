@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `27 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `25 ▶️` ∙ **[Fugazi](https://www.last.fm/music/Fugazi)**<br/>
 > `24 ▶️` ∙ **[Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)**<br/>
-> `18 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
+> `19 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

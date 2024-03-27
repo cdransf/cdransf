@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `27 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `24 ▶️` ∙ **[Skeletal Remains](https://www.last.fm/music/Skeletal+Remains)**<br/>
 > `21 ▶️` ∙ **[Au-Dessus](https://www.last.fm/music/Au-Dessus)**<br/>
+> `20 ▶️` ∙ **[Civerous](https://www.last.fm/music/Civerous)**<br/>
 > `19 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
-> `14 ▶️` ∙ **[Civerous](https://www.last.fm/music/Civerous)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

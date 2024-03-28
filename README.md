@@ -28,18 +28,18 @@ I build, maintain and design web applications. I've been coding professionally s
 > `33 ▶️` ∙ **[Civerous](https://www.last.fm/music/Civerous)**<br/>
 > `27 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `21 ▶️` ∙ **[Au-Dessus](https://www.last.fm/music/Au-Dessus)**<br/>
-> `19 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 > `19 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
 > `18 ▶️` ∙ **[Gorguts](https://www.last.fm/music/Gorguts)**<br/>
+> `12 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `16 ▶️` ∙ **[Surgical Steel](https://www.last.fm/music/Carcass/Surgical+Steel)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
-> `15 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182/blink-182)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `15 ▶️` ∙ **[Maze Envy](https://www.last.fm/music/CIVEROUS/Maze+Envy)** - [CIVEROUS](https://www.last.fm/music/CIVEROUS)<br/>
 > `13 ▶️` ∙ **[The Great Dismal](https://www.last.fm/music/Nothing/The+Great+Dismal)** - [Nothing](https://www.last.fm/music/Nothing)<br/>
+> `12 ▶️` ∙ **[blink-182](https://www.last.fm/music/blink-182/blink-182)** - [blink-182](https://www.last.fm/music/blink-182)<br/>
 > `11 ▶️` ∙ **[Necroticism - Descanting the Insalubrious](https://www.last.fm/music/Carcass/Necroticism+-+Descanting+the+Insalubrious)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
 > `11 ▶️` ∙ **[OK Computer](https://www.last.fm/music/Radiohead/OK+Computer)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `10 ▶️` ∙ **[Heartwork](https://www.last.fm/music/Carcass/Heartwork)** - [Carcass](https://www.last.fm/music/Carcass)<br/>

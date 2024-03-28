@@ -30,7 +30,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `21 ▶️` ∙ **[Au-Dessus](https://www.last.fm/music/Au-Dessus)**<br/>
 > `19 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
 > `18 ▶️` ∙ **[Gorguts](https://www.last.fm/music/Gorguts)**<br/>
-> `11 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `14 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->

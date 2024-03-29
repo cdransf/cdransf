@@ -23,25 +23,25 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `66 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `66 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
-> `65 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `44 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
 > `40 ▶️` ∙ **[Ulcerate](https://www.last.fm/music/Ulcerate)**<br/>
+> `31 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `27 ▶️` ∙ **[Nothing](https://www.last.fm/music/Nothing)**<br/>
 > `25 ▶️` ∙ **[Civerous](https://www.last.fm/music/Civerous)**<br/>
 > `21 ▶️` ∙ **[Au-Dessus](https://www.last.fm/music/Au-Dessus)**<br/>
-> `19 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `43 ▶️` ∙ **[Chairs Missing](https://www.last.fm/music/Wire/Chairs+Missing)** - [Wire](https://www.last.fm/music/Wire)<br/>
+> `44 ▶️` ∙ **[Chairs Missing](https://www.last.fm/music/Wire/Chairs+Missing)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `27 ▶️` ∙ **[Dirge](https://www.last.fm/music/Wormrot/Dirge)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `22 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `21 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `18 ▶️` ∙ **[Voices](https://www.last.fm/music/Wormrot/Voices)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `17 ▶️` ∙ **[Bad Brains](https://www.last.fm/music/Bad+Brains/Bad+Brains)** - [Bad Brains](https://www.last.fm/music/Bad+Brains)<br/>
 > `16 ▶️` ∙ **[Surgical Steel](https://www.last.fm/music/Carcass/Surgical+Steel)** - [Carcass](https://www.last.fm/music/Carcass)<br/>
-> `13 ▶️` ∙ **[The Great Dismal](https://www.last.fm/music/Nothing/The+Great+Dismal)** - [Nothing](https://www.last.fm/music/Nothing)<br/>
+> `16 ▶️` ∙ **[Apocalypse](https://www.last.fm/music/Rotten+Sound/Apocalypse)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 <!--END_LASTFM_ALBUMS-->

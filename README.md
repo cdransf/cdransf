@@ -23,7 +23,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `195 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
+> `231 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `66 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `66 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `44 ▶️` ∙ **[Carcass](https://www.last.fm/music/Carcass)**<br/>
@@ -36,9 +36,9 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `90 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
+> `111 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
+> `54 ▶️` ∙ **[What Makes a Man Start Fires?](https://www.last.fm/music/Minutemen/What+Makes+a+Man+Start+Fires%3F)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `44 ▶️` ∙ **[Chairs Missing](https://www.last.fm/music/Wire/Chairs+Missing)** - [Wire](https://www.last.fm/music/Wire)<br/>
-> `39 ▶️` ∙ **[What Makes a Man Start Fires?](https://www.last.fm/music/Minutemen/What+Makes+a+Man+Start+Fires%3F)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `36 ▶️` ∙ **[The Punch Line](https://www.last.fm/music/Minutemen/The+Punch+Line)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `30 ▶️` ∙ **[3‐Way Tie (for Last)](https://www.last.fm/music/Minutemen/3%E2%80%90Way+Tie+(for+Last))** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `27 ▶️` ∙ **[Dirge](https://www.last.fm/music/Wormrot/Dirge)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>

@@ -27,7 +27,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `66 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `66 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `41 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
-> `34 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
+> `32 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
 > `25 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `22 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `22 ▶️` ∙ **[Porcupine Tree](https://www.last.fm/music/Porcupine+Tree)**<br/>

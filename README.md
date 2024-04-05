@@ -25,9 +25,9 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `342 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `66 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
-> `66 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `41 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
 > `38 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
+> `36 ▶️` ∙ **[Wormrot](https://www.last.fm/music/Wormrot)**<br/>
 > `29 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
 > `22 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `54 ▶️` ∙ **[The Punch Line](https://www.last.fm/music/Minutemen/The+Punch+Line)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `45 ▶️` ∙ **[3‐Way Tie (for Last)](https://www.last.fm/music/Minutemen/3%E2%80%90Way+Tie+(for+Last))** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `44 ▶️` ∙ **[Chairs Missing](https://www.last.fm/music/Wire/Chairs+Missing)** - [Wire](https://www.last.fm/music/Wire)<br/>
-> `27 ▶️` ∙ **[Dirge](https://www.last.fm/music/Wormrot/Dirge)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 > `22 ▶️` ∙ **[Under Pressure](https://www.last.fm/music/Rotten+Sound/Under+Pressure)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `22 ▶️` ∙ **[Pink Flag](https://www.last.fm/music/Wire/Pink+Flag)** - [Wire](https://www.last.fm/music/Wire)<br/>
+> `21 ▶️` ∙ **[Hiss](https://www.last.fm/music/Wormrot/Hiss)** - [Wormrot](https://www.last.fm/music/Wormrot)<br/>
 <!--END_LASTFM_ALBUMS-->

@@ -29,8 +29,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `38 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
-> `23 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `22 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `22 ▶️` ∙ **[Porcupine Tree](https://www.last.fm/music/Porcupine+Tree)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `54 ▶️` ∙ **[The Punch Line](https://www.last.fm/music/Minutemen/The+Punch+Line)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `45 ▶️` ∙ **[3‐Way Tie (for Last)](https://www.last.fm/music/Minutemen/3%E2%80%90Way+Tie+(for+Last))** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `40 ▶️` ∙ **[Funeral Sanctum](https://www.last.fm/music/Witch+Vomit/Funeral+Sanctum)** - [Witch Vomit](https://www.last.fm/music/Witch+Vomit)<br/>
-> `23 ▶️` ∙ **[Chairs Missing](https://www.last.fm/music/Wire/Chairs+Missing)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `22 ▶️` ∙ **[Under Pressure](https://www.last.fm/music/Rotten+Sound/Under+Pressure)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
+> `16 ▶️` ∙ **[Le Bannissement](https://www.last.fm/music/Cantique+L%C3%A9preux/Le+Bannissement)** - [Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)<br/>
 <!--END_LASTFM_ALBUMS-->

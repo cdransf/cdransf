@@ -24,12 +24,12 @@ I build, maintain and design web applications. I've been coding professionally s
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `342 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
-> `45 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `41 ▶️` ∙ **[Rotten Sound](https://www.last.fm/music/Rotten+Sound)**<br/>
+> `40 ▶️` ∙ **[Witch Vomit](https://www.last.fm/music/Witch+Vomit)**<br/>
 > `38 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
-> `25 ▶️` ∙ **[Witch Vomit](https://www.last.fm/music/Witch+Vomit)**<br/>
+> `23 ▶️` ∙ **[Wire](https://www.last.fm/music/Wire)**<br/>
 > `22 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `72 ▶️` ∙ **[What Makes a Man Start Fires?](https://www.last.fm/music/Minutemen/What+Makes+a+Man+Start+Fires%3F)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `54 ▶️` ∙ **[The Punch Line](https://www.last.fm/music/Minutemen/The+Punch+Line)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `45 ▶️` ∙ **[3‐Way Tie (for Last)](https://www.last.fm/music/Minutemen/3%E2%80%90Way+Tie+(for+Last))** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
-> `44 ▶️` ∙ **[Chairs Missing](https://www.last.fm/music/Wire/Chairs+Missing)** - [Wire](https://www.last.fm/music/Wire)<br/>
-> `25 ▶️` ∙ **[Funeral Sanctum](https://www.last.fm/music/Witch+Vomit/Funeral+Sanctum)** - [Witch Vomit](https://www.last.fm/music/Witch+Vomit)<br/>
+> `40 ▶️` ∙ **[Funeral Sanctum](https://www.last.fm/music/Witch+Vomit/Funeral+Sanctum)** - [Witch Vomit](https://www.last.fm/music/Witch+Vomit)<br/>
+> `23 ▶️` ∙ **[Chairs Missing](https://www.last.fm/music/Wire/Chairs+Missing)** - [Wire](https://www.last.fm/music/Wire)<br/>
 > `22 ▶️` ∙ **[Under Pressure](https://www.last.fm/music/Rotten+Sound/Under+Pressure)** - [Rotten Sound](https://www.last.fm/music/Rotten+Sound)<br/>
 > `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 <!--END_LASTFM_ALBUMS-->

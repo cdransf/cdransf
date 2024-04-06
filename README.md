@@ -26,10 +26,10 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Witch Vomit](https://www.last.fm/music/Witch+Vomit)**<br/>
 > `38 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
+> `27 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
 > `26 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
 > `24 ▶️` ∙ **[Porcupine Tree](https://www.last.fm/music/Porcupine+Tree)**<br/>
-> `23 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
-> `21 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `20 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `20 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
@@ -40,8 +40,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `16 ▶️` ∙ **[Le Bannissement](https://www.last.fm/music/Cantique+L%C3%A9preux/Le+Bannissement)** - [Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)<br/>
 > `15 ▶️` ∙ **[The Illusion of Time](https://www.last.fm/music/Funeral+Leech/The+Illusion+of+Time)** - [Funeral Leech](https://www.last.fm/music/Funeral+Leech)<br/>
-> `15 ▶️` ∙ **[All Roads Lead To Ausfahrt](https://www.last.fm/music/NoMeansNo/All+Roads+Lead+To+Ausfahrt)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `14 ▶️` ∙ **[Losing What We Love](https://www.last.fm/music/Knuckle+Puck/Losing+What+We+Love)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
+> `14 ▶️` ∙ **[All Roads Lead To Ausfahrt](https://www.last.fm/music/NoMeansNo/All+Roads+Lead+To+Ausfahrt)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `13 ▶️` ∙ **[Green Mind](https://www.last.fm/music/Dinosaur+Jr./Green+Mind)** - [Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)<br/>
-> `12 ▶️` ∙ **[20/20](https://www.last.fm/music/Knuckle+Puck/20%2F20)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
+> `13 ▶️` ∙ **[Stage Four](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9/Stage+Four)** - [Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)<br/>
 <!--END_LASTFM_ALBUMS-->

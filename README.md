@@ -23,7 +23,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `185 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
+> `147 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `40 ▶️` ∙ **[Witch Vomit](https://www.last.fm/music/Witch+Vomit)**<br/>
 > `38 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
@@ -36,12 +36,12 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `83 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
+> `81 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `40 ▶️` ∙ **[Funeral Sanctum](https://www.last.fm/music/Witch+Vomit/Funeral+Sanctum)** - [Witch Vomit](https://www.last.fm/music/Witch+Vomit)<br/>
-> `36 ▶️` ∙ **[The Punch Line](https://www.last.fm/music/Minutemen/The+Punch+Line)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
-> `36 ▶️` ∙ **[What Makes a Man Start Fires?](https://www.last.fm/music/Minutemen/What+Makes+a+Man+Start+Fires%3F)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
-> `30 ▶️` ∙ **[3‐Way Tie (for Last)](https://www.last.fm/music/Minutemen/3%E2%80%90Way+Tie+(for+Last))** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
+> `33 ▶️` ∙ **[What Makes a Man Start Fires?](https://www.last.fm/music/Minutemen/What+Makes+a+Man+Start+Fires%3F)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
+> `18 ▶️` ∙ **[The Punch Line](https://www.last.fm/music/Minutemen/The+Punch+Line)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `16 ▶️` ∙ **[Le Bannissement](https://www.last.fm/music/Cantique+L%C3%A9preux/Le+Bannissement)** - [Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)<br/>
 > `16 ▶️` ∙ **[All Roads Lead To Ausfahrt](https://www.last.fm/music/NoMeansNo/All+Roads+Lead+To+Ausfahrt)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
+> `15 ▶️` ∙ **[The Illusion of Time](https://www.last.fm/music/Funeral+Leech/The+Illusion+of+Time)** - [Funeral Leech](https://www.last.fm/music/Funeral+Leech)<br/>
 <!--END_LASTFM_ALBUMS-->

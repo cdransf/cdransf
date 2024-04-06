@@ -28,9 +28,9 @@ I build, maintain and design web applications. I've been coding professionally s
 > `29 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
 > `26 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
 > `24 ▶️` ∙ **[Porcupine Tree](https://www.last.fm/music/Porcupine+Tree)**<br/>
-> `22 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
+> `23 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
+> `21 ▶️` ∙ **[NoMeansNo](https://www.last.fm/music/NoMeansNo)**<br/>
 > `20 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
-> `15 ▶️` ∙ **[Acephalix](https://www.last.fm/music/Acephalix)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
@@ -39,8 +39,8 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Funeral Sanctum](https://www.last.fm/music/Witch+Vomit/Funeral+Sanctum)** - [Witch Vomit](https://www.last.fm/music/Witch+Vomit)<br/>
 > `20 ▶️` ∙ **[Celebratory Beheading](https://www.last.fm/music/Contaminated/Celebratory+Beheading)** - [Contaminated](https://www.last.fm/music/Contaminated)<br/>
 > `16 ▶️` ∙ **[Le Bannissement](https://www.last.fm/music/Cantique+L%C3%A9preux/Le+Bannissement)** - [Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)<br/>
-> `16 ▶️` ∙ **[All Roads Lead To Ausfahrt](https://www.last.fm/music/NoMeansNo/All+Roads+Lead+To+Ausfahrt)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `15 ▶️` ∙ **[The Illusion of Time](https://www.last.fm/music/Funeral+Leech/The+Illusion+of+Time)** - [Funeral Leech](https://www.last.fm/music/Funeral+Leech)<br/>
+> `15 ▶️` ∙ **[All Roads Lead To Ausfahrt](https://www.last.fm/music/NoMeansNo/All+Roads+Lead+To+Ausfahrt)** - [NoMeansNo](https://www.last.fm/music/NoMeansNo)<br/>
 > `14 ▶️` ∙ **[Losing What We Love](https://www.last.fm/music/Knuckle+Puck/Losing+What+We+Love)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
 > `13 ▶️` ∙ **[Green Mind](https://www.last.fm/music/Dinosaur+Jr./Green+Mind)** - [Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)<br/>
 > `12 ▶️` ∙ **[20/20](https://www.last.fm/music/Knuckle+Puck/20%2F20)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>

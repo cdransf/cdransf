@@ -23,7 +23,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `342 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
+> `341 ▶️` ∙ **[Minutemen](https://www.last.fm/music/Minutemen)**<br/>
 > `40 ▶️` ∙ **[Witch Vomit](https://www.last.fm/music/Witch+Vomit)**<br/>
 > `38 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `29 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
@@ -36,7 +36,7 @@ I build, maintain and design web applications. I've been coding professionally s
 <!--START_LASTFM_ALBUMS:{"period": "7day", "rows": 8}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `171 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
+> `170 ▶️` ∙ **[Double Nickels on the Dime](https://www.last.fm/music/Minutemen/Double+Nickels+on+the+Dime)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `72 ▶️` ∙ **[What Makes a Man Start Fires?](https://www.last.fm/music/Minutemen/What+Makes+a+Man+Start+Fires%3F)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `54 ▶️` ∙ **[The Punch Line](https://www.last.fm/music/Minutemen/The+Punch+Line)** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>
 > `45 ▶️` ∙ **[3‐Way Tie (for Last)](https://www.last.fm/music/Minutemen/3%E2%80%90Way+Tie+(for+Last))** - [Minutemen](https://www.last.fm/music/Minutemen)<br/>

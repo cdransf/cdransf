@@ -26,7 +26,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `40 ▶️` ∙ **[Witch Vomit](https://www.last.fm/music/Witch+Vomit)**<br/>
 > `38 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
 > `30 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
-> `28 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
+> `29 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
 > `26 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
 > `24 ▶️` ∙ **[Porcupine Tree](https://www.last.fm/music/Porcupine+Tree)**<br/>
 > `20 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>

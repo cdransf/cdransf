@@ -25,8 +25,8 @@ I build, maintain and design web applications. I've been coding professionally s
 
 > `40 ▶️` ∙ **[Witch Vomit](https://www.last.fm/music/Witch+Vomit)**<br/>
 > `38 ▶️` ∙ **[Contaminated](https://www.last.fm/music/Contaminated)**<br/>
-> `29 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
-> `27 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
+> `30 ▶️` ∙ **[Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)**<br/>
+> `28 ▶️` ∙ **[Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)**<br/>
 > `26 ▶️` ∙ **[Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)**<br/>
 > `24 ▶️` ∙ **[Porcupine Tree](https://www.last.fm/music/Porcupine+Tree)**<br/>
 > `20 ▶️` ∙ **[Verberis](https://www.last.fm/music/Verberis)**<br/>
@@ -41,7 +41,7 @@ I build, maintain and design web applications. I've been coding professionally s
 > `16 ▶️` ∙ **[Le Bannissement](https://www.last.fm/music/Cantique+L%C3%A9preux/Le+Bannissement)** - [Cantique Lépreux](https://www.last.fm/music/Cantique+L%C3%A9preux)<br/>
 > `15 ▶️` ∙ **[The Illusion of Time](https://www.last.fm/music/Funeral+Leech/The+Illusion+of+Time)** - [Funeral Leech](https://www.last.fm/music/Funeral+Leech)<br/>
 > `14 ▶️` ∙ **[Losing What We Love](https://www.last.fm/music/Knuckle+Puck/Losing+What+We+Love)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
+> `14 ▶️` ∙ **[Stage Four](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9/Stage+Four)** - [Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)<br/>
 > `13 ▶️` ∙ **[Green Mind](https://www.last.fm/music/Dinosaur+Jr./Green+Mind)** - [Dinosaur Jr.](https://www.last.fm/music/Dinosaur+Jr.)<br/>
-> `13 ▶️` ∙ **[Stage Four](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9/Stage+Four)** - [Touché Amoré](https://www.last.fm/music/Touch%C3%A9+Amor%C3%A9)<br/>
 > `12 ▶️` ∙ **[20/20](https://www.last.fm/music/Knuckle+Puck/20%2F20)** - [Knuckle Puck](https://www.last.fm/music/Knuckle+Puck)<br/>
 <!--END_LASTFM_ALBUMS-->

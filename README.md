@@ -11,9 +11,9 @@ I build, maintain and design web applications. I've been coding professionally s
 ## 📝 Recent posts
 
 <!-- BLOGPOSTS:START -->
+- [Some site updates](https://coryd.dev/posts/2024/some-site-updates/)
 - [Data ownership and agency](https://coryd.dev/posts/2024/data-ownership-and-agency/)
 - [Minimalism as self-preservation](https://coryd.dev/posts/2024/2024-minimalism-as-self-preservation/)
 - [Model behavior](https://coryd.dev/posts/2024/model-behavior/)
 - [You can choose to be kind](https://coryd.dev/posts/2024/you-can-choose-to-be-kind/)
-- [We've stopped making things anyone wants](https://coryd.dev/posts/2024/weve-stopped-making-things-anyone-wants/)
 <!-- BLOGPOSTS:END -->

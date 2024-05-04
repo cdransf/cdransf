@@ -11,9 +11,9 @@ I build, maintain and design web applications. I've been coding professionally s
 ## 📝 Recent posts
 
 <!-- BLOGPOSTS:START -->
+- [Adblocker required](https://coryd.dev/posts/2024/2024-adblocker-required/)
 - [What song is in your head?](https://coryd.dev/posts/2024/what-song-is-in-your-head/)
 - [Handling images with B2, Netlify's image CDN, Hazel and Mountain Duck](https://coryd.dev/posts/2024/handling-images-with-b2-netlify-image-cdn-hazel-mountain-duck/)
 - [Some site updates](https://coryd.dev/posts/2024/some-site-updates/)
 - [Data ownership and agency](https://coryd.dev/posts/2024/data-ownership-and-agency/)
-- [Minimalism as self-preservation](https://coryd.dev/posts/2024/2024-minimalism-as-self-preservation/)
 <!-- BLOGPOSTS:END -->

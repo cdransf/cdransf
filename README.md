@@ -11,9 +11,9 @@ I build, maintain and design web applications. I've been coding professionally s
 ## 📝 Recent posts
 
 <!-- BLOGPOSTS:START -->
+- [Against the commercial internet](https://coryd.dev/posts/2024/against-the-commercial-web/)
 - [Improving my self-hosted scrobbling implementation](https://coryd.dev/posts/2024/improving-my-self-hosted-scrobbling-implementation/)
 - [The tech industry doesn't deserve optimism it has earned skepticism](https://coryd.dev/posts/2024/the-tech-industry-doesnt-deserve-optimism-it-has-earned-skepticism/)
 - [Single points of failure](https://coryd.dev/posts/2024/single-points-of-failure/)
 - [Adblocker required](https://coryd.dev/posts/2024/2024-adblocker-required/)
-- [What song is in your head?](https://coryd.dev/posts/2024/what-song-is-in-your-head/)
 <!-- BLOGPOSTS:END -->

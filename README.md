@@ -9,4 +9,4 @@
 
 I'm a software developer based in Camarillo, California. I enjoy hanging out with my beautiful family and 4 rescue dogs, technology, automation, [music](https://www.coryd.dev/music), [writing](https://www.coryd.dev/posts), [reading](https://www.coryd.dev/books) and [tv](https://www.coryd.dev/watching#tv) and [movies](https://www.coryd.dev/watching#movies).
 
-I build, maintain and design web applications. I've been coding professionally since 2010 with a focus on frontend technologies. I mentor through [Underdog Devs](https://www.underdogdevs.org).
+I build, maintain and design web applications. I've been coding professionally since 2010 with a focus on frontend technologies.
